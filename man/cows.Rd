@@ -3,12 +3,12 @@
 \docType{data}
 \name{cows}
 \alias{cows}
-\title{Cooling down hot cows.}
+\title{Cooling down hot cows}
 \format{
-a data frame with 798 observations of 9 variables
+A data frame with 798 observations of 9 variables
 \describe{
   \item{cow}{ID of the cow that was measured.}
-  \item{date}{date that the cow was treated.}
+  \item{date}{Date that the cow was treated.}
   \item{nozzle}{Model number of the 6 nozzles tested; control indicates treatment with no spray; each cow received each treatment 3 times}
   \item{flow_rate}{Rate at which water was sprayed on cows, in liters per minute.}
   \item{body_part}{The body part of the cow where the temperature (degrees Celsius) was taken.}
@@ -22,7 +22,11 @@ a data frame with 798 observations of 9 variables
 cows
 }
 \description{
-Cows in California were sprayed down with water using various nozzles. The temperature of the cows
-was measured at various body parts and time intervals. Descriptions due to the authors of the study.
+#' Cows in California were sprayed down with water using various nozzles. The temperature of the cows
+was measured at various body parts and time intervals. Descriptions of the variables are due to the
+authors of the study.
+}
+\details{
+From the authors: "Dairies in the United States commonly cool cattle with sprinklers mounted over the feed bunk that intermittently spray the cows' backs. These systems use potable water—an increasingly scarce resource—but there is little experimental evidence about how much is needed to cool cows or about droplet size, which is thought to affect hair coat penetration. "
 }
 \keyword{datasets}
