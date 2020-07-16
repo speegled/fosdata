@@ -22,7 +22,7 @@ A data frame with 798 observations of 9 variables
 cows
 }
 \description{
-#' Cows in California were sprayed down with water using various nozzles. The temperature of the cows
+Cows in California were sprayed down with water using various nozzles. The temperature of the cows
 was measured at various body parts and time intervals. Descriptions of the variables are due to the
 authors of the study.
 }
