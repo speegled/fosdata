@@ -1,0 +1,35 @@
+#' Visual and accelerometer data on workouts
+#'
+#' One measure that is of interest when working out with weights is the length of time that
+#' muscles are engaged in the exercise. The gold standard for measuring this is via a video of
+#' the exercise that is evaluated by a human looking at it frame by frame. This data contains
+#' such information for participants doing several different common weight training exercises.
+#' The same lengths are computed via a novel way using a smartphone accelerometer, which was attached
+#' to the weights.
+#'
+#' From the authors: "Single repetition, contraction-phase specific and total time-under-tension (TUT) are crucial mechano-biological descriptors associated with distinct morphological, molecular and metabolic muscular adaptations in response to exercise, rehabilitation and/or fighting sarcopenia. However, to date, no simple, reliable and valid method has been developed to measure these descriptors."
+#'
+#'
+#' @format A data frame with 12245 observations of 25 variables.
+#' \describe{
+#'   \item{participant}{ID of participant, from 1-22.}
+#'   \item{machine}{Name of the machine that the participant was using. Levels are "LEG PRESS" "LEG EXTENSION" "LEG CURL" "ABDUCTOR" ADDUCTOR" "LOWER BACK" "TOTAL ABDOMINAL" "VERTICAL TRACTION" and "CHEST PRESS"}
+#'   \item{set}{Participants did two sets of each machine. This is numeric 1-2.}
+#'   \item{contraction_mode}{Participants repeated each exercise 10 times in a set. This variable describes whether the observation is related to
+#'   concentric contraction, eccocentric contraction, contraction for a single rep, and total time-under-tension}
+#'   \item{time_video_rater_*_ms}{Length of time in ms that the raters estimated the contraction to last from video.}
+#'   \item{time_smartphone_*_ms}{Estimated time (ms) contraction lasted as computed by one of two smartphones.}
+#'   \item{video_rater_mean_ms}{Mean of two video timings.}
+#'   \item{smartphones_mean_ms}{Mean of two smartphone timings.}
+#'   \item{relative_difference}{abs(smartphones_mean - video_rater_mean)/video_rater_mean}
+#'   \item{difference_video_smartphone_ms}{Difference between video an smartphone estimate.}
+#'   \item{mean_video_smartphone_ms}{Mean of video and smartphone means.}
+#'   \item{contraction_mode_levels}{One of Con, Ecc, Rep or TuT. Redundant given contraction_mode}
+#'   \item{difference_*_ms}{Difference of video raters/smartphones in ms}
+#'   \item{**_outlier}{Hampel outliers}
+#'   \item{participant_*}{Demographic data of participants}
+#' }
+#'
+#' @source \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235156}
+#' @source \url{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/R3ZKYH}
+"accelerometer"
