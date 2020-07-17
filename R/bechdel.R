@@ -1,0 +1,34 @@
+#' The Bechdel test
+#'
+#' A simple tool for detecting gender bias in Hollywood movies is the Bechdel test, which originated
+#' in Alison Bechdel's comic strip "Dykes To Watch Out For".  A movie passes the test if it has:
+#' 
+#' 1) at least two women in it
+#' 2) who talk to each other about
+#' 3) something besides a man
+#' 
+#' This data set contains information about movies, whether they pass or fail the Bechdel test, and
+#' financial information for those movies.
+#' 
+#' @format A data frame with 1794 observations of 15 variables
+#' \describe{
+#'   \item{year}{Movie release year.}
+#'   \item{imdb}{Movie ID number at imdb.com.}
+#'   \item{title}{Movie title.}
+#'   \item{test}{The full Bechdel test status of the film, as rated by BechdelTest.com.}
+#'   \item{clean_test}{A simplified Bechdel test status.}
+#'   \item{binary}{The Bechdel test stautus simplified to PASS/FAIL.}
+#'   \item{budget}{The film's budget, in US dollars, when made.}
+#'   \item{domgross}{Domestic earnings (US, Canada, PR, Guam).}
+#'   \item{intgross}{International earnings.}
+#'   \item{code}{Combination of year and binary variables.}
+#'   \item{budget_2013}{The film's budget, in 2013 US dollars.}
+#'   \item{domgross_2013}{Domestic earnings in 2013 US dollars.}
+#'   \item{intgross_2013}{International earnings in 2013 US dollars.}
+#'   \item{period_code}{Movie release year segmented into five periods, 1=2010-2014, 2=2005-2009, etc.}
+#'   \item{decade_code}{Movie release year segmented into three decades, 1=2010s, 2=2000s, 3=1990s.}
+#' }
+#'
+#' @source "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
+#' @source \url{https://github.com/fivethirtyeight/data/tree/master/bechdel}
+"bechdel"
