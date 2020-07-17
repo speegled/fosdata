@@ -2,14 +2,16 @@
 #'
 #' A simple tool for detecting gender bias in Hollywood movies is the Bechdel test, which originated
 #' in Alison Bechdel's comic strip "Dykes To Watch Out For".  A movie passes the test if it has:
-#' 
-#' 1) at least two women in it
-#' 2) who talk to each other about
-#' 3) something besides a man
-#' 
+#' \enumerate{
+#'   \item at least two women in it
+#'   \item who talk to each other about
+#'   \item something besides a man
+#' }
 #' This data set contains information about movies, whether they pass or fail the Bechdel test, and
 #' financial information for those movies.
-#' 
+#'
+#' From the authors: "Audiences and creators know that on one level or another, there’s an inherent gender bias in the movie business — whether it’s the disproportionately low number of films with female leads, the process of pigeonholing actresses into predefined roles (action chick, romantic interest, middle-aged mother, etc.), or the lack of serious character development for women on screen compared to their male counterparts. What’s challenging is quantifying this dysfunction, putting numbers to a trend that is — at least anecdotally — a pretty clear reality."
+#'
 #' @format A data frame with 1794 observations of 15 variables
 #' \describe{
 #'   \item{year}{Movie release year.}
