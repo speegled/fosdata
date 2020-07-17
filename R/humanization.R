@@ -1,0 +1,27 @@
+#' Infrahumanization of outgroups
+#'
+#' Particpants were read a news item about either Hurricane Katrina (New Orleans, USA) or
+#' or the 2010 Pakistan flooding. The control group got no further information. The rest
+#' of the participants were given further information. Those who read about Katrina were told
+#' about how Pakistan sent aid in either a low or high amount. Those who read about the 2010 Pakistan
+#' flooding were told about how the US sent aid in either a low or a high amount. The participants
+#' were then asked questions about what kind of emotions Pakistanis felt.
+#'
+#' From the authors: "Dehumanization and infrahumanization involve decreasing the humanity attributed to others. Despite the existence of a large body of work on these topics, little is known about how to increase outgroup humanization. Across two experiments, we examined the effects of intergroup and intragroup helping on dehumanization and infrahumanization."
+#'
+#'
+#' @format A data frame with 321 observations of 7 variables with attributes from SAS.
+#' \describe{
+#'   \item{age}{Age in years of participant.}
+#'   \item{gender}{Factor with three levels; Female, Male and Other.}
+#'   \item{group}{Factor with 6 levels; Katrina control/low/high and Pakistan control/low/high}
+#'   \item{pak_sec}{Mean of response to 7 secondary emotional questions about Pakistanis. Secondary emotions are grief, sorrow, mourning, anguish, guilt, remorse and resentment.}
+#'   \item{pak_prim}{Mean of response to 7 primary emotional questions about Pakistanis. Primary emotions are confusion, pain, distress, fear, panic, anger, and rage.}
+#'   \item{us_sec}{Unsure of the meaning of this variable.}
+#'   \item{us_prim}{Unsure of the meaning of this variable.}
+#' }
+#'
+#' @source Davies T, Yogeeswaran K, Verkuyten M, Loughnan S (2018) From humanitarian aid to humanization: When outgroup, but not ingroup, helping increases humanization. PLoS ONE 13(11): e0207343
+#' @source Davies, Thomas J. “Humanitarian Helping.” OSF, 25 Oct. 2018. Web.
+#' @source \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207343}
+"humanization"
