@@ -4,13 +4,14 @@
 #' or the 2010 Pakistan flooding. The control group got no further information. The rest
 #' of the participants were given further information. Those who read about Katrina were told
 #' about how Pakistan sent aid in either a low or high amount. Those who read about the 2010 Pakistan
-#' flooding were told about how the US sent aid in either a low or a high amount. The participants
-#' were then asked questions about what kind of emotions Pakistanis felt.
+#' flooding were told about how the US sent aid in either a low or a high amount.
+#' Participants were asked how strongly they believed Pakistanis would have felt both
+#' secondary and primary emotions following the disaster.
 #'
 #' From the authors: "Dehumanization and infrahumanization involve decreasing the humanity attributed to others. Despite the existence of a large body of work on these topics, little is known about how to increase outgroup humanization. Across two experiments, we examined the effects of intergroup and intragroup helping on dehumanization and infrahumanization."
 #'
 #'
-#' @format A data frame with 321 observations of 7 variables with attributes from SAS.
+#' @format A tibble with 321 observations of 7 variables with attributes from SAS.
 #' \describe{
 #'   \item{age}{Age in years of participant.}
 #'   \item{gender}{Factor with three levels; Female, Male and Other.}

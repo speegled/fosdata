@@ -10,7 +10,7 @@
 #' From the authors: "Single repetition, contraction-phase specific and total time-under-tension (TUT) are crucial mechano-biological descriptors associated with distinct morphological, molecular and metabolic muscular adaptations in response to exercise, rehabilitation and/or fighting sarcopenia. However, to date, no simple, reliable and valid method has been developed to measure these descriptors."
 #'
 #'
-#' @format A data frame with 12245 observations of 25 variables.
+#' @format A tibble with 12245 observations of 25 variables.
 #' \describe{
 #'   \item{participant}{ID of participant, from 1-22.}
 #'   \item{machine}{Name of the machine that the participant was using. Levels are "LEG PRESS" "LEG EXTENSION" "LEG CURL" "ABDUCTOR" ADDUCTOR" "LOWER BACK" "TOTAL ABDOMINAL" "VERTICAL TRACTION" and "CHEST PRESS"}
