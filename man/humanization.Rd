@@ -5,7 +5,7 @@
 \alias{humanization}
 \title{Infrahumanization of outgroups}
 \format{
-A data frame with 321 observations of 7 variables with attributes from SAS.
+A tibble with 321 observations of 7 variables with attributes from SAS.
 \describe{
   \item{age}{Age in years of participant.}
   \item{gender}{Factor with three levels; Female, Male and Other.}

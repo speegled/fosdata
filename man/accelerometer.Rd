@@ -5,7 +5,7 @@
 \alias{accelerometer}
 \title{Visual and accelerometer data on workouts}
 \format{
-A data frame with 12245 observations of 25 variables.
+A tibble with 12245 observations of 25 variables.
 \describe{
   \item{participant}{ID of participant, from 1-22.}
   \item{machine}{Name of the machine that the participant was using. Levels are "LEG PRESS" "LEG EXTENSION" "LEG CURL" "ABDUCTOR" ADDUCTOR" "LOWER BACK" "TOTAL ABDOMINAL" "VERTICAL TRACTION" and "CHEST PRESS"}
