@@ -51,6 +51,6 @@ More information on the activities of the children.
   and squares. Time to completion was measured.
 }
 
-From the authors: "n this paper we report an initial validation of the Shape Trail Test–Child Version (STT-CV) with a non-clinical sample of children aged 6 to 9 years. The STT-CV has been developed as an age-appropriate and culturally fair direct downward extension of the Trail Making Test (TMT) for the assessment of cognitive flexibility."
+From the authors: "In this paper we report an initial validation of the Shape Trail Test–Child Version (STT-CV) with a non-clinical sample of children aged 6 to 9 years. The STT-CV has been developed as an age-appropriate and culturally fair direct downward extension of the Trail Making Test (TMT) for the assessment of cognitive flexibility."
 }
 \keyword{datasets}
