@@ -1,0 +1,31 @@
+#' Frog measurements
+#'
+#' Measurements of frogs from several different species with the Zakerana genus.
+#'
+#' From the authors: "We describe a new species of frog of the genus Zakerana discovered from the urban core of Dhaka, Bangladesh, one of the most densely populated cities in the world. Although the new species is morphologically similar to the geographically proximate congeners in the Bangladeshi cricket frog group, we show that it can be distinguished from all congeners on the basis of morphological characters, advertisement calls and variation in two mitochondrial DNA genes (12S rRNA and 16S rRNA)."
+#'
+#' @format A data frame with 64 observations of 16 variables. Descriptions of variables are from the authors.
+#' \describe{
+#'   \item{hl}{head length distance from tip of snout to the back of mandible}
+#'   \item{hw}{head width maximum width of the head at the posterior margin of mandible}
+#'   \item{mn}{distance from back of mandible to nostril}
+#'   \item{sl}{snout length distance from anterior corner of eye to the tip of snout}
+#'   \item{mfe}{distance from back of mandible to front of the eye}
+#'   \item{mbe}{distance from back of mandible to back of the eye}
+#'   \item{in}{internarial distance}
+#'   \item{iod}{interorbital distance}
+#'   \item{en}{distance from front of eyes to the nostril}
+#'   \item{ns}{nostril—snout length}
+#'   \item{el}{eye width}
+#'   \item{uew}{maximum width of upper eyelid}
+#'   \item{hal}{hand length distance from proximal end of outer palmar metacarpal tubercle to tip of third finger}
+#'   \item{fal}{forearm length distance from corner of elbow to proximal end of outer palmar metacarpal tubercle}
+#'   \item{thighl}{thigh length distance from vent to knee}
+#'   \item{tl}{tibia length distance from knee to heel}
+#'   \item{tfol}{length of tarsus and foot distance from heel to tip of fourth finger}
+#'   \item{fol}{foot length distance from proximal end of inner metatarsal tubercle to tip of fourth finger}
+#' }
+#'
+#' @source Howlader MSA, Nair A, Merilä J (2016) A New Species of Frog (Anura: Dicroglossidae) Discovered from the Mega City of Dhaka. PLoS ONE 11(3): e0149597
+#' @source \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149597}
+"frogs"
