@@ -17,3 +17,4 @@ dd2 <- janitor::clean_names(dd2)
 dd2$x10 <- NULL
 leg_strength_full <- dd2
 save(list = c("leg_strength_full"), file = "data/leg_strength_full.rda")
+names(dd2)
