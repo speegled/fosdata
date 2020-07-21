@@ -4,7 +4,7 @@
 #'
 #' From the author: "In second language acquisition research, the critical period hypothesis (cph) holds that the function between learners' age and their susceptibility to second language input is non-linear. This paper revisits the indistinctness found in the literature with regard to this hypothesis's scope and predictions."
 #'
-#' @format A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
+#' @format A data frame with 138 observations of 3 variables. Descriptions of variables are from the authors.
 #' \describe{
 #'   \item{aoa}{age of onset of acquisition of second language. In years.}
 #'   \item{gjt}{grammaticality judgement test. A measure of second language proficiency.}
