@@ -1,0 +1,14 @@
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069172#s6
+
+the question in this paper was whether there is an elbow in the prediction of language skill based on age of acquisition. there is not. so it would make sense to just do a simple linear model. author claims there is some heteroskedacity, but i am not seeing it.
+
+
+
+dd <- read.csv("/Users/speegled/Downloads/critical_period_hypothesis/Dataset S2.CSV")
+dd <- janitor::clean_names(dd)
+plot(dd)
+lm(gjt ~ aoa, data = dd) %>% plot
+
+
+
+
