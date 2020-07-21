@@ -3,7 +3,7 @@
 \docType{data}
 \name{leg_strength}
 \alias{leg_strength}
-\title{Wii Let Strength}
+\title{Wii Leg Strength}
 \format{
 A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
 \describe{
