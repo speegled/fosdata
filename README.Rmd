@@ -1,0 +1,77 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "75%",
+  warning = FALSE,
+  message = FALSE,
+  fig.retina = 2,
+  fig.align = 'center'
+)
+library(tidyverse)
+library(fosdata)
+```
+
+# fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The `fosdata` package contains datasets for the textbook [Foundations of Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin Speegle and Bryan Clair.
+
+## Installation
+
+<!--You can install the released version of fosdata from [CRAN](https://CRAN.R-project.org) with:
+``` r
+install.packages("fosdata")
+```
+-->
+
+You can install the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("speegled/fosdata")
+```
+
+## About the data
+
+Datasets come from freely available data on the web. 
+
+The fosdata package contains these datasets. 
+
+```{r showdata}
+library(fosdata)
+``` 
+
+List datasets here.
+
+## Examples
+
+You can find these and more code examples for exploring fosdata in `vignette("examples")`.
+
+## License
+
+Need to clarify license information.
+
+## Citation
+
+To cite the fosdata package, please use:
+
+```{r}
+citation("fosdata")
+```
+
+
+## References
+
+**Data citations:**
+
+It would be good to automatically generate this information from the package.
