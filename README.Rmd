@@ -41,17 +41,17 @@ You can install the development version from [GitHub](https://github.com/) with:
 remotes::install_github("speegled/fosdata")
 ```
 
-## About the data
+## The data
 
-Datasets come from freely available data on the web. 
+The `fosdata` package contains:
 
-The fosdata package contains these datasets. 
-
-```{r showdata}
+```{r showdata, echo=FALSE}
 library(fosdata)
-``` 
+sets <- vcdExtra::datasets("fosdata")
+sets %>% select(Item, Title, dim) %>%
+  kableExtra::kable(col.names = c("Name","Description","Dim (RxC)"))
+```
 
-List datasets here.
 
 ## Examples
 
