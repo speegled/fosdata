@@ -1,0 +1,47 @@
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113135
+
+model proportion of words spoken on other variables as an exercise in variable selection. 
+
+dd <- readxl::read_xlsx("/Users/speegled/Downloads/Manson_et_al_Conv_Dominance_Dataset.xlsx", 
+                        sheet = 1)
+dd <- janitor::clean_names(dd)
+dd %>% 
+  ggplot(aes(x = f2_psychopathy, y = proportion_words)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+
+ddsmall <- dd %>% select(-triad, -indiv_1, -indiv_2, - dyad, 
+                         - dyad_split, -individual_split, -shirt1, -shirt_type,
+                         -triad_total_words_per_min
+                         #,-proportion_sequence_starts,
+                         #-interruptions_per_min,
+                         #-sequence_starts_per_word_x100,
+                         #-interruptions_per_word_x100
+                         )
+lm(proportion_words ~ . - highest_class_rank - oldest, data = ddsmall[complete.cases(ddsmall),]) %>% 
+  MASS::stepAIC() %>% 
+  plot
+
+This has a not the best residual plot. could also try
+
+ddsmall <- dd %>% select(-triad, -indiv_1, -indiv_2, - dyad, 
+                         - dyad_split, -individual_split, -shirt1, 
+                         -triad_total_words_per_min,
+                         -dyad_status_difference,
+                         #-proportion_words,
+                         #,-proportion_sequence_starts,
+                         #-interruptions_per_min,
+                         -sequence_starts_per_word_x100
+                         #-interruptions_per_word_x100
+                         )
+ddsmall$gender <- factor(ddsmall$gender)
+lm(proportion_sequence_starts ~ . - highest_class_rank - oldest, data = ddsmall[complete.cases(ddsmall),]) %>% 
+  MASS::stepAIC() %>% 
+  update(~ . -gender) %>% 
+  summary
+
+
+
+
+
+
