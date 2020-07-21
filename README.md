@@ -247,7 +247,7 @@ leg\_strength
 
 <td style="text-align:left;">
 
-Wii Let Strength
+Wii Leg Strength
 
 </td>
 
@@ -269,7 +269,7 @@ leg\_strength\_full
 
 <td style="text-align:left;">
 
-Wii Let Strength (full)
+Wii Leg Strength (full)
 
 </td>
 

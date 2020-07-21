@@ -1,4 +1,4 @@
-#' Wii Let Strength
+#' Wii Leg Strength
 #'
 #' Wii balance board and stationary isometric dynamometer measurements of leg force of adults in Denmark.
 #'

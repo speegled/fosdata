@@ -8,4 +8,4 @@ Description: This package provides a convenient location many of the data sets u
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.1
