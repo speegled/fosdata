@@ -392,3 +392,14 @@ citation("fosdata")
 
 It would be good to automatically generate this information from the
 package.
+
+<!---
+This code gets close:
+thefile <- help(chimps,package="fosdata")
+parsedfile <- parse_Rd(thefile$path)
+Rd2latex(parsedfile)
+
+Maybe I can adapt Rd2list on this page:
+https://stackoverflow.com/questions/8918753/r-help-page-as-object
+
+-->
