@@ -19,3 +19,20 @@
 #'
 #' @source \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 "cows"
+
+#' Cooling down hot cows
+#'
+#' Cows in California were sprayed down with water using nozzle type TK-0.75. The temperature of the cows' shoulders were
+#' measured after 3 minutes.
+#'
+#' From the authors: "Dairies in the United States commonly cool cattle with sprinklers mounted over the feed bunk that intermittently spray the cows' backs. These systems use potable water—an increasingly scarce resource—but there is little experimental evidence about how much is needed to cool cows or about droplet size, which is thought to affect hair coat penetration. "
+#'
+#'
+#' @format A data frame with 798 observations of 9 variables
+#' \describe{
+#'   \item{cow}{ID of the cow that was measured.}
+#'   \item{temp_diff}{Amount that the cow's shoulder cooled down (degrees Celsius) in 3 minutes of treatment when treated with nozzle TK-0.75.}
+#' }
+#'
+#' @source \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
+"cows_small"
