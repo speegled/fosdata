@@ -1,0 +1,81 @@
+This data was taken from the 2000 Federal Trade Commission report on cigarettes. The pdf was taken from the web page and transformed into a .csv using the following code given at the end of this document.
+
+Idea is to model carbon monoxide on tar + nicotine and other variables. See http://jse.amstat.org/v2n1/datasets.mcintyre.html, but we decided to fetch a better data set. 
+
+The data set small_cigs.csv has one randomly selected cigarette from each maker that has size = 100. Suggested use:
+
+with(small_cigs, lm(CO ~ nic + tar  + pack + menthol)) %>% #summary()
+  plot()
+
+menthol can be removed. the other variables are significant.
+
+
+cigs <- data.frame(Brand_Name = character(0),
+                   properties = character(0),
+                   CO = numeric(0),
+                   nic = numeric(0),
+                   tar = numeric(0))
+for(i in 10:33) {
+  a <- pdftools::pdf_ocr_text("data/1998tarnicotinereport.pdf", pages = i)
+  as <- str_remove(a, "^.*Page [0-9| ]*\n*")
+  as<- str_remove(as, "^.*\n")
+  as1 <- str_remove(as, "\n$")
+  
+  cigs <- rbind(cigs, data.frame(
+    Brand_Name = str_split(as, "\n") %>% 
+      unlist() %>% 
+      str_extract_all("^.*Reg|^.*King|^.*100|^.*120|^.*80") %>% 
+      unlist(),
+    properties = str_split(as1, "\n") %>% 
+      unlist() %>% 
+      str_remove_all("^.*Reg|^.*King|^.*100|^.*120|^.*80") %>% 
+      str_remove_all("^\\s") %>% 
+      str_remove_all(" [0-9.NA]*\\s*[0-9.NA]*\\s*[0-9NA.]*$") %>% 
+      str_remove_all("[\\—_]") %>% 
+      str_replace_all("  ", " "),
+    CO = str_extract_all(as, "[0-9NA.]*\n") %>% 
+      unlist() %>% 
+      str_remove("\\n") %>% 
+      as.numeric(),
+    nic = str_extract_all(as, "[0-9NA.]*\\s*[0-9NA.]*\n") %>% 
+      unlist() %>% 
+      str_remove_all("[0-9NA.]*\n$") %>% 
+      as.numeric(),
+    tar = str_extract_all(as, "[0-9NA.]*\\s*[0-9NA.]*\\s*[0-9NA.]*\n") %>% 
+      unlist() %>% 
+      str_remove_all("\\s*[0-9NA.]*\\s*[0-9NA.]*\n$") %>% 
+      as.numeric()
+  ))
+}
+write.csv(cigs, "data/cigs_large.csv", row.names=FALSE)
+cigs <- read.csv("data/cigs_large.csv")
+cigs <- cigs %>% 
+  mutate(properties = paste(str_extract(Brand_Name, "[a-zA-Z0-9]*$") %>% unlist(), properties)) %>% 
+  mutate(Brand_Name = str_remove(Brand_Name, "[a-zA-Z0-9]*$"))
+
+cigs <- cigs[complete.cases(cigs),]
+
+cigs <- cigs %>% 
+  mutate(size = str_extract(properties, "^[A-Za-z0-9]*"),
+         properties = str_remove(properties, "^[A-Za-z0-9]*\\s{0,1}"))
+cigs <- cigs %>% 
+  mutate(filter = str_extract(properties, "^[A-Za-z0-9]*"),
+         properties = str_remove(properties, "^[A-Za-z0-9]*\\s{0,1}"))
+
+cigs <- cigs %>% 
+  mutate(pack = str_extract(properties, "^[A-Za-z0-9]*"),
+         properties = str_remove(properties, "^[A-Za-z0-9]*\\s{0,1}"))
+ 
+cigs <- cigs %>% 
+  mutate(menthol = str_detect(properties, "Menthol"),
+         properties = str_remove(properties, "\\s*Menthol\\s*"))
+cigs <- rename(cigs, flavor = properties)
+cigs <- cigs %>% 
+  mutate(menthol = ifelse(menthol, "yes", "no"))
+
+cigs <- cigs %>% 
+  mutate(flavor = str_remove_all(flavor, "\\s")) %>% 
+  mutate_if(is.character, factor)
+
+
+
