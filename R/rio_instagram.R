@@ -23,8 +23,3 @@
 #' @source Amirhosein Bodaghi. (2019). Instagram Characteristics of Olympic gold medalists (Rio2016) [Data set]. Zenodo.
 #' @source \url{http://doi.org/10.5281/zenodo.3469514}
 "rio_instagram"
-
-
-
-
-
