@@ -109,6 +109,28 @@ The Bechdel test
 
 <td style="text-align:left;">
 
+brake
+
+</td>
+
+<td style="text-align:left;">
+
+Pedal Error Correction
+
+</td>
+
+<td style="text-align:left;">
+
+80x20
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 child\_tasks
 
 </td>
@@ -153,6 +175,72 @@ Gray haired chimpanzees
 
 <td style="text-align:left;">
 
+cigs
+
+</td>
+
+<td style="text-align:left;">
+
+Nicotine, Tar and CO of Cigarettes
+
+</td>
+
+<td style="text-align:left;">
+
+1294x9
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+cigs\_small
+
+</td>
+
+<td style="text-align:left;">
+
+Nicotine, Tar and CO of Cigarettes
+
+</td>
+
+<td style="text-align:left;">
+
+118x9
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+conversation
+
+</td>
+
+<td style="text-align:left;">
+
+Conversational Dominance and Psychopathy
+
+</td>
+
+<td style="text-align:left;">
+
+210x28
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 cows
 
 </td>
@@ -166,6 +254,72 @@ Cooling down hot cows
 <td style="text-align:left;">
 
 798x9
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+cows
+
+</td>
+
+<td style="text-align:left;">
+
+Cooling down hot cows
+
+</td>
+
+<td style="text-align:left;">
+
+798x9
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+cows\_small
+
+</td>
+
+<td style="text-align:left;">
+
+Cooling down hot cows
+
+</td>
+
+<td style="text-align:left;">
+
+19x2
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+crit\_period
+
+</td>
+
+<td style="text-align:left;">
+
+Critical Period Hypothesis
+
+</td>
+
+<td style="text-align:left;">
+
+138x3
 
 </td>
 
@@ -197,6 +351,28 @@ Dogs and peer pressure
 
 <td style="text-align:left;">
 
+fish
+
+</td>
+
+<td style="text-align:left;">
+
+Fish measurements from Laengelmavesi Lake, near Tampere, Finland
+
+</td>
+
+<td style="text-align:left;">
+
+159x9
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 frogs
 
 </td>
@@ -210,6 +386,50 @@ Frog measurements
 <td style="text-align:left;">
 
 64x16
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+hot\_dogs
+
+</td>
+
+<td style="text-align:left;">
+
+Hot Dog Nutrition
+
+</td>
+
+<td style="text-align:left;">
+
+54x3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+houses
+
+</td>
+
+<td style="text-align:left;">
+
+Housing in King County
+
+</td>
+
+<td style="text-align:left;">
+
+21613x21
 
 </td>
 
@@ -285,6 +505,28 @@ Wii Leg Strength (full)
 
 <td style="text-align:left;">
 
+normtemp
+
+</td>
+
+<td style="text-align:left;">
+
+Temperature and heart rate data
+
+</td>
+
+<td style="text-align:left;">
+
+130x3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 rio\_instagram
 
 </td>
@@ -342,6 +584,28 @@ Weight lifting judgment in children
 <td style="text-align:left;">
 
 80x7
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+wrist
+
+</td>
+
+<td style="text-align:left;">
+
+Wrist Casts
+
+</td>
+
+<td style="text-align:left;">
+
+105x47
 
 </td>
 
