@@ -1,0 +1,18 @@
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232153
+
+two sample t-test to determine whether the wrist pain based on different settings of a cast in wrist fracture is significant. it is not.
+
+dd <- readxl::read_xlsx("/Users/speegled/Downloads/journal.pone.0232153.s006.xlsx", 
+                        sheet = 1)
+dd <- janitor::clean_names(dd)
+
+ggplot(dd, aes(x = factor(cast_position), y = prwe12m)) +
+  geom_boxplot()
+t.test(prwe12m ~ cast_position, data = dd)
+dd %>% group_by(cast_position) %>% 
+  summarize(mean = mean(prwe12m, na.rm = T), 
+            sd = sd(prwe12m, na.rm = T),
+            skew = e1071::skewness(prwe12m, na.rm = T))
+
+
+
