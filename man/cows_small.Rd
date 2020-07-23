@@ -8,10 +8,14 @@
 A data frame with 798 observations of 9 variables
 \describe{
   \item{cow}{ID of the cow that was measured.}
-  \item{temp_diff}{Amount that the cow's shoulder cooled down (degrees Celsius) in 3 minutes of treatment when treated with nozzle TK-0.75.}
+  \item{control}{Amount that the cow's shoulder cooled down (degrees Celsius) in 3 minutes when no water was sprayed.}
+  \item{tk_0_75}{Cool down in degrees C after 3 minutes using nozzle TK-0.75}
+  \item{tk_12}{Cool down in degrees C after 3 minutes using nozzle TK-12}
 }
 }
 \source{
+Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M. (2020). Data from: Cooling cows efficiently with sprinklers: physiological responses to water spray [Data set].
+
 \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 }
 \usage{
