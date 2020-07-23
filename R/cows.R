@@ -34,5 +34,6 @@
 #'   \item{temp_diff}{Amount that the cow's shoulder cooled down (degrees Celsius) in 3 minutes of treatment when treated with nozzle TK-0.75.}
 #' }
 #'
+#' @source Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M. (2020). Data from: Cooling cows efficiently with sprinklers: physiological responses to water spray [Data set].
 #' @source \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 "cows_small"
