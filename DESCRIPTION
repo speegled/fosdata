@@ -5,6 +5,7 @@ Version: 0.1.0
 Author: Darrin Speegle and Bryan Clair
 Maintainer: The package maintainer <speegled@slu.edu>
 Description: This package provides a convenient location many of the data sets used in the book. Some other data sets will be needed for the book, and can be accessed through other packages.
+Depends: R (>= 3.5.0)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
