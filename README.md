@@ -219,6 +219,28 @@ Nicotine, Tar and CO of Cigarettes
 
 <td style="text-align:left;">
 
+climate
+
+</td>
+
+<td style="text-align:left;">
+
+Citations of Climate Change Papers
+
+</td>
+
+<td style="text-align:left;">
+
+732x19
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 conversation
 
 </td>
@@ -263,28 +285,6 @@ Cooling down hot cows
 
 <td style="text-align:left;">
 
-cows
-
-</td>
-
-<td style="text-align:left;">
-
-Cooling down hot cows
-
-</td>
-
-<td style="text-align:left;">
-
-798x9
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align:left;">
-
 cows\_small
 
 </td>
@@ -297,7 +297,7 @@ Cooling down hot cows
 
 <td style="text-align:left;">
 
-19x2
+19x4
 
 </td>
 
@@ -505,6 +505,28 @@ Wii Leg Strength (full)
 
 <td style="text-align:left;">
 
+movies
+
+</td>
+
+<td style="text-align:left;">
+
+MovieLense 100K
+
+</td>
+
+<td style="text-align:left;">
+
+100836x6
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 normtemp
 
 </td>
@@ -518,6 +540,28 @@ Temperature and heart rate data
 <td style="text-align:left;">
 
 130x3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+pres\_election
+
+</td>
+
+<td style="text-align:left;">
+
+US Presidential Election Data 2000-2016
+
+</td>
+
+<td style="text-align:left;">
+
+50524x11
 
 </td>
 
@@ -633,15 +677,17 @@ citation("fosdata")
 #> 
 #> To cite package 'fosdata' in publications use:
 #> 
-#>   Darrin Speegle and Bryan Clair (NA). fosdata: Data for use with the
+#>   Darrin Speegle and Bryan Clair (2020). fosdata: Data for use with the
 #>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
 #>   Clair. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by Darrin Speegle and Bryan Clair},
+#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
+#> Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
+#>     year = {2020},
 #>     note = {R package version 0.1.0},
 #>   }
 #> 
