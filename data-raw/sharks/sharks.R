@@ -12,3 +12,6 @@ dd$music <- factor(dd$music)
 summary(dd)
 sharks <- dd
 save(list = c("sharks"), file = "data/sharks.rda")
+
+filter(sharks, av == "video", music %in% c("ominous", "uplifting")) %>%
+  with(wilcox.test(vicious ~ music))
