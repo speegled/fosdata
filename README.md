@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/fosdata.png' align="right" height="138.5" /></a>
 
 <!-- badges: start -->
 
@@ -9,7 +9,8 @@
 
 The `fosdata` package contains datasets for the textbook [Foundations of
 Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan Clair.
+Speegle and Bryan
+Clair.
 
 ## Installation
 

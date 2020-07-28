@@ -19,7 +19,7 @@ library(tidyverse)
 library(fosdata)
 ```
 
-# fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/fosdata.png' align="right" height="138.5" /></a>
 
 <!-- badges: start -->
 <!-- badges: end -->
