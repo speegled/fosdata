@@ -59,7 +59,7 @@ You can find these and more code examples for exploring fosdata in `vignette("ex
 
 ## License
 
-Need to clarify license information.
+Most of the data sets in this package have a creative commons license. Providing the data in this convenient package is not meant to cancel or to modify the existing licenses in any way. Please refer to the references in the `man` pages for information on any individual data set. 
 
 ## Citation
 

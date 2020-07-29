@@ -9,8 +9,7 @@
 
 The `fosdata` package contains datasets for the textbook [Foundations of
 Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan
-Clair.
+Speegle and Bryan Clair.
 
 ## Installation
 
@@ -594,6 +593,28 @@ Olympians Instagram Account Data
 
 <td style="text-align:left;">
 
+sharks
+
+</td>
+
+<td style="text-align:left;">
+
+Shark Documentary Music
+
+</td>
+
+<td style="text-align:left;">
+
+616x13
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 skull\_geometry
 
 </td>
@@ -667,7 +688,11 @@ You can find these and more code examples for exploring fosdata in
 
 ## License
 
-Need to clarify license information.
+Most of the data sets in this package have a creative commons license.
+Providing the data in this convenient package is not meant to cancel or
+to modify the existing licenses in any way. Please refer to the
+references in the `man` pages for information on any individual data
+set.
 
 ## Citation
 
@@ -678,17 +703,15 @@ citation("fosdata")
 #> 
 #> To cite package 'fosdata' in publications use:
 #> 
-#>   Darrin Speegle and Bryan Clair (2020). fosdata: Data for use with the
+#>   Darrin Speegle and Bryan Clair (NA). fosdata: Data for use with the
 #>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
 #>   Clair. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
-#> Darrin Speegle and Bryan Clair},
+#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
-#>     year = {2020},
 #>     note = {R package version 0.1.0},
 #>   }
 #> 
