@@ -9,7 +9,8 @@
 
 The `fosdata` package contains datasets for the textbook [Foundations of
 Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan Clair.
+Speegle and Bryan
+Clair.
 
 ## Installation
 
@@ -100,6 +101,28 @@ The Bechdel test
 <td style="text-align:left;">
 
 1794x15
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+bicycle\_signage
+
+</td>
+
+<td style="text-align:left;">
+
+Bicycle Signage and Safety
+
+</td>
+
+<td style="text-align:left;">
+
+1824x11
 
 </td>
 
@@ -254,6 +277,28 @@ Conversational Dominance and Psychopathy
 <td style="text-align:left;">
 
 210x28
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+covid
+
+</td>
+
+<td style="text-align:left;">
+
+New York Times COVID 19
+
+</td>
+
+<td style="text-align:left;">
+
+8154x5
 
 </td>
 
@@ -637,6 +682,28 @@ Skull Geometry
 
 <td style="text-align:left;">
 
+snails
+
+</td>
+
+<td style="text-align:left;">
+
+Snails near Oxford, England
+
+</td>
+
+<td style="text-align:left;">
+
+228x5
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 weight\_estimate
 
 </td>
@@ -703,15 +770,17 @@ citation("fosdata")
 #> 
 #> To cite package 'fosdata' in publications use:
 #> 
-#>   Darrin Speegle and Bryan Clair (NA). fosdata: Data for use with the
+#>   Darrin Speegle and Bryan Clair (2020). fosdata: Data for use with the
 #>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
 #>   Clair. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by Darrin Speegle and Bryan Clair},
+#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
+#> Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
+#>     year = {2020},
 #>     note = {R package version 0.1.0},
 #>   }
 #> 
