@@ -4,8 +4,7 @@
 \name{wrist}
 \alias{wrist}
 \title{Wrist Casts}
-\format{
-A tibble with 105 observations of 47 variables
+\format{A tibble with 105 observations of 47 variables
 \describe{
   \item{id}{ID number}
   \item{age}{Age in years}
@@ -54,8 +53,7 @@ A tibble with 105 observations of 47 variables
   \item{prwe3m}{PRWE at 3 months}
   \item{d_pcs1}{PCS score at 3 months minus (-) PCS score at baseline}
   \item{d_pcs2}{PCS score at 12 months minus (-) PCS score at baseline}
-}
-}
+}}
 \source{
 Raittio L, Launonen AP, Hevonkorpi T, Luokkala T, Kukkonen J, Reito A, et al. (2020) Two casting methods compared in patients with Colles' fracture: A pragmatic, randomized controlled trial. PLoS ONE 15(5): e0232153.
 

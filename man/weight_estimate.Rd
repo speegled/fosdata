@@ -4,8 +4,7 @@
 \name{weight_estimate}
 \alias{weight_estimate}
 \title{Weight lifting judgment in children}
-\format{
-A data frame with 80 observations of 7 variables
+\format{A data frame with 80 observations of 7 variables
 \describe{
   \item{id}{ID}
   \item{height}{Height of subject in cm.}
@@ -14,8 +13,7 @@ A data frame with 80 observations of 7 variables
   \item{mean300}{Mean of estimated weight for objects that weighed 300 g.}
   \item{mean400}{Mean of estimated weight for objects that weighed 400 g.}
   \item{age}{Age group that the subject is in. Factor with levels 6, 8, 10 and adult.}
-}
-}
+}}
 \source{
 " Sciutti A, Patanè L, Sandini G (2019) Development of visual perception of others’ actions: Children’s judgment of lifted weight. PLoS ONE 14(11): e0224979"
 

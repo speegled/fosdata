@@ -4,8 +4,7 @@
 \name{leg_strength_full}
 \alias{leg_strength_full}
 \title{Wii Leg Strength (full)}
-\format{
-A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
+\format{A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
 \describe{
   \item{id}{ID of participant. Can be used to match with `leg_strength` data set}
   \item{wii_m1}{wii measurement 1}
@@ -24,8 +23,7 @@ A data frame with 30 observations of 2 variables. Descriptions of variables are 
   \item{day_2_sid_m2}{sid measurement 2 day 2}
   \item{day_2_sid_m3}{sid measurement 3 day 2}
   \item{day_2_sid_max3}{max sid measurement day 2}
-}
-}
+}}
 \source{
 Gronbech Jorgensen M, Andersen S, Ryg J, Masud T (2015) Novel Use of the Nintendo Wii Board for Measuring Isometric Lower Limb Strength: A Reproducible and Valid Method in Older Adults. PLoS ONE 10(10): e0138660.
 

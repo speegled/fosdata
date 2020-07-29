@@ -4,8 +4,7 @@
 \name{bicycle_signage}
 \alias{bicycle_signage}
 \title{Bicycle Signage and Safety}
-\format{
-A data frame with 1824 observations of 11 variables
+\format{A data frame with 1824 observations of 11 variables
 \describe{
   \item{treatment}{The traffic control device the respondent viewed. 1_None (no signage); 2_STR (Share the Road signage); 3_SLM (Shared Lane Markings); 4_BMUFL (Bicycles May Use Full Lane signage)}
   \item{bike_move_right2}{Response to the bicyclist should move to the right and allow the following motorist to pass within the lane.}
@@ -18,8 +17,7 @@ A data frame with 1824 observations of 11 variables
   \item{state}{State of residence}
   \item{gender}{Male or female}
   \item{education}{Level of education}
-}
-}
+}}
 \source{
 Hess G, Peterson MN (2015) “Bicycles May Use Full Lane” Signage Communicates U.S. Roadway Rules and Increases Perception of Safety. PLoS ONE 10(8): e0136973. https://doi.org/10.1371/journal.pone.0136973
 }

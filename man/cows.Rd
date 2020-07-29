@@ -4,8 +4,7 @@
 \name{cows}
 \alias{cows}
 \title{Cooling down hot cows}
-\format{
-A data frame with 798 observations of 9 variables
+\format{A data frame with 798 observations of 9 variables
 \describe{
   \item{cow}{ID of the cow that was measured.}
   \item{date}{Date that the cow was treated.}
@@ -13,8 +12,7 @@ A data frame with 798 observations of 9 variables
   \item{flow_rate}{Rate at which water was sprayed on cows, in liters per minute.}
   \item{body_part}{The body part of the cow where the temperature (degrees Celsius) was taken.}
   \item{min_01, min_02, min_03, min_04}{Value of the skin temperature measurement recorded 1, 2, 3 or 4 minutes after the first 3-min spray application began.}
-}
-}
+}}
 \source{
 \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 }

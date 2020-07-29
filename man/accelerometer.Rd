@@ -4,8 +4,7 @@
 \name{accelerometer}
 \alias{accelerometer}
 \title{Visual and accelerometer data on workouts}
-\format{
-A tibble with 12245 observations of 25 variables.
+\format{A tibble with 12245 observations of 25 variables.
 \describe{
   \item{participant}{ID of participant, from 1-22.}
   \item{machine}{Name of the machine that the participant was using. Levels are "LEG PRESS" "LEG EXTENSION" "LEG CURL" "ABDUCTOR" ADDUCTOR" "LOWER BACK" "TOTAL ABDOMINAL" "VERTICAL TRACTION" and "CHEST PRESS"}
@@ -23,8 +22,7 @@ A tibble with 12245 observations of 25 variables.
   \item{difference_*_ms}{Difference of video raters/smartphones in ms}
   \item{**_outlier}{Hampel outliers}
   \item{participant_*}{Demographic data of participants}
-}
-}
+}}
 \source{
 \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235156}
 

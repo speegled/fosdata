@@ -4,8 +4,7 @@
 \name{rio_instagram}
 \alias{rio_instagram}
 \title{Olympians Instagram Account Data}
-\format{
-A tibble with 226 observations of 14 variables. Variable descriptions by the data creator.
+\format{A tibble with 226 observations of 14 variables. Variable descriptions by the data creator.
 \describe{
   \item{sport}{Name of the individual event }
   \item{country}{Country}
@@ -21,8 +20,7 @@ A tibble with 226 observations of 14 variables. Variable descriptions by the dat
   \item{pure_self_presenting}{Number of pure self-presenting posts in the last 10 photo posts (those posts in which the athlete is the only person who is present)}
   \item{age}{Age}
   \item{date}{Date of data crawling}
-}
-}
+}}
 \source{
 Amirhosein Bodaghi. (2019). Instagram Characteristics of Olympic gold medalists (Rio2016) [Data set]. Zenodo.
 

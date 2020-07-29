@@ -4,8 +4,7 @@
 \name{houses}
 \alias{houses}
 \title{Housing in King County}
-\format{
-A data frame with 21613 observations of 21 variables. Descriptions taken from \url{https://www.slideshare.net/PawanShivhare1/predicting-king-county-house-prices}
+\format{A data frame with 21613 observations of 21 variables. Descriptions taken from \url{https://www.slideshare.net/PawanShivhare1/predicting-king-county-house-prices}
 \describe{
   \item{id}{unique id of each home}
   \item{date}{date of sale}
@@ -28,8 +27,7 @@ A data frame with 21613 observations of 21 variables. Descriptions taken from \u
   \item{long}{longitude}
   \item{sqft_living15}{square footage of the 15 nearest neighbors}
   \item{sqft_lot15}{lot sizes of 15 nearest neighbors}
-}
-}
+}}
 \source{
 \url{https://www.kaggle.com/harlfoxem/housesalesprediction}
 }

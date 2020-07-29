@@ -4,8 +4,7 @@
 \name{chimps}
 \alias{chimps}
 \title{Gray haired chimpanzees}
-\format{
-A data frame with 165 observations of 159 variables. Some individuals are evaluated twice at different ages.
+\format{A data frame with 165 observations of 159 variables. Some individuals are evaluated twice at different ages.
 \describe{
   \item{individual}{Name of the chimpanzee.}
   \item{year}{Year that photograph was taken.}
@@ -18,8 +17,7 @@ A data frame with 165 observations of 159 variables. Some individuals are evalua
   \item{subspecies}{Factor with levels versus and schweinfurthii.}
   \item{V1,...,V164}{Rankings on scale of 1-6 of how gray the chimpanzees hair is, by human raters.}
   \item{grey_score_avg}{Mean value of the gray score rankings given by human judges.}
-}
-}
+}}
 \source{
 \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235610}
 

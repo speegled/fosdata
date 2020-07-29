@@ -4,8 +4,7 @@
 \name{fish}
 \alias{fish}
 \title{Fish measurements from Laengelmavesi Lake, near Tampere, Finland}
-\format{
-A data frame with 159 observations of 8 variables
+\format{A data frame with 159 observations of 8 variables
 \describe{
   \item{obs}{Observation number}
   \item{species}{One of Bream, Whitefish, Roach, Parkki, Smelt, Pike or Perch}
@@ -16,8 +15,7 @@ A data frame with 159 observations of 8 variables
   \item{height_percent}{Maximal height as percentage of length3}
   \item{width_percent}{Maximal width as percentage of length3}
   \item{sex}{1 = male, 0 = female}
-}
-}
+}}
 \source{
 "Brofeldt, Pekka: Bidrag till kaennedom on fiskbestondet i vaara sjoear. Laengelmaevesi. T.H.Jaervi: Finlands Fiskeriet  Band 4 Meddelanden utgivna av fiskerifoereningen i Finland. Helsingfors 1917
 

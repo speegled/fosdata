@@ -4,8 +4,7 @@
 \name{cigs_small}
 \alias{cigs_small}
 \title{Nicotine, Tar and CO of Cigarettes}
-\format{
-A data frame with 118 observations of 9 variables.
+\format{A data frame with 118 observations of 9 variables.
 \describe{
   \item{brand_name}{Brand name of the cigarette Each brand name is unique.}
   \item{flavor}{Information about the cigarette that came after the brand name, such as Ultra or LtSlim}
@@ -16,8 +15,7 @@ A data frame with 118 observations of 9 variables.
   \item{filter}{All filters are equal to F}
   \item{pack}{Factor with levels HP = hard pack, SP = soft pack}
   \item{menthol}{Factor with levels no = not menthol, and yes = menthol.}
-}
-}
+}}
 \source{
 "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
 

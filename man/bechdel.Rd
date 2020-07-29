@@ -4,8 +4,7 @@
 \name{bechdel}
 \alias{bechdel}
 \title{The Bechdel test}
-\format{
-A data frame with 1794 observations of 15 variables
+\format{A data frame with 1794 observations of 15 variables
 \describe{
   \item{year}{Movie release year.}
   \item{imdb}{Movie ID number at imdb.com.}
@@ -22,8 +21,7 @@ A data frame with 1794 observations of 15 variables
   \item{intgross_2013}{International earnings in 2013 US dollars.}
   \item{period_code}{Movie release year segmented into five periods, 1=2010-2014, 2=2005-2009, etc.}
   \item{decade_code}{Movie release year segmented into three decades, 1=2010s, 2=2000s, 3=1990s.}
-}
-}
+}}
 \source{
 "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
 

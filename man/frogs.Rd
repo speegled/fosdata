@@ -4,8 +4,7 @@
 \name{frogs}
 \alias{frogs}
 \title{Frog measurements}
-\format{
-A data frame with 64 observations of 16 variables. Descriptions of variables are from the authors.
+\format{A data frame with 64 observations of 16 variables. Descriptions of variables are from the authors.
 \describe{
   \item{hl}{head length distance from tip of snout to the back of mandible}
   \item{hw}{head width maximum width of the head at the posterior margin of mandible}
@@ -25,8 +24,7 @@ A data frame with 64 observations of 16 variables. Descriptions of variables are
   \item{tl}{tibia length distance from knee to heel}
   \item{tfol}{length of tarsus and foot distance from heel to tip of fourth finger}
   \item{fol}{foot length distance from proximal end of inner metatarsal tubercle to tip of fourth finger}
-}
-}
+}}
 \source{
 Howlader MSA, Nair A, Merilä J (2016) A New Species of Frog (Anura: Dicroglossidae) Discovered from the Mega City of Dhaka. PLoS ONE 11(3): e0149597
 

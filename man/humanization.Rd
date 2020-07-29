@@ -4,8 +4,7 @@
 \name{humanization}
 \alias{humanization}
 \title{Infrahumanization of outgroups}
-\format{
-A tibble with 321 observations of 7 variables with attributes from SAS.
+\format{A tibble with 321 observations of 7 variables with attributes from SAS.
 \describe{
   \item{age}{Age in years of participant.}
   \item{gender}{Factor with three levels; Female, Male and Other.}
@@ -14,8 +13,7 @@ A tibble with 321 observations of 7 variables with attributes from SAS.
   \item{pak_prim}{Mean of response to 7 primary emotional questions about Pakistanis. Primary emotions are confusion, pain, distress, fear, panic, anger, and rage.}
   \item{us_sec}{Unsure of the meaning of this variable.}
   \item{us_prim}{Unsure of the meaning of this variable.}
-}
-}
+}}
 \source{
 Davies T, Yogeeswaran K, Verkuyten M, Loughnan S (2018) From humanitarian aid to humanization: When outgroup, but not ingroup, helping increases humanization. PLoS ONE 13(11): e0207343
 

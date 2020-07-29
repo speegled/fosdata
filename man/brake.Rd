@@ -4,8 +4,7 @@
 \name{brake}
 \alias{brake}
 \title{Pedal Error Correction}
-\format{
-A data frame with 159 observations of 8 variables
+\format{A data frame with 159 observations of 8 variables
 \describe{
   \item{subject_id}{unique identifier of subject}
   \item{age_group}{Young or Old}
@@ -25,8 +24,7 @@ A data frame with 159 observations of 8 variables
   \item{near_miss}{In daily life, how often do you nearly miss the pedal? 1-5}
   \item{mmse}{Score on mini mental stat examination (24 necessary to participate)}
   \item{education}{numeric 12-20}
-}
-}
+}}
 \source{
 Hasegawa K, Kimura M, Takeda Y (2020) Age-related differences in correction behavior for unintended acceleration. PLoS ONE 15(7): e0236053.
 
