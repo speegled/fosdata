@@ -1,0 +1,229 @@
+"","Location","Habitat","Color","Banding","Count"
+"1","Hackpen","Downland Beech","Yellow","X00000",15
+"2","Hackpen","Downland Beech","Yellow","X00300",24
+"3","Hackpen","Downland Beech","Yellow","X12345",0
+"4","Hackpen","Downland Beech","Yellow","Others",0
+"5","Rockley 1","Downland Beech","Yellow","X00000",17
+"6","Rockley 1","Downland Beech","Yellow","X00300",25
+"7","Rockley 1","Downland Beech","Yellow","X12345",0
+"8","Rockley 1","Downland Beech","Yellow","Others",0
+"9","Broomsgrove","Oakwood","Yellow","X00000",1
+"10","Broomsgrove","Oakwood","Yellow","X00300",4
+"11","Broomsgrove","Oakwood","Yellow","X12345",1
+"12","Broomsgrove","Oakwood","Yellow","Others",1
+"13","Cobham Frith","Oakwood","Yellow","X00000",0
+"14","Cobham Frith","Oakwood","Yellow","X00300",24
+"15","Cobham Frith","Oakwood","Yellow","X12345",1
+"16","Cobham Frith","Oakwood","Yellow","Others",0
+"17","Putall Gate","Oakwood","Yellow","X00000",9
+"18","Putall Gate","Oakwood","Yellow","X00300",6
+"19","Putall Gate","Oakwood","Yellow","X12345",4
+"20","Putall Gate","Oakwood","Yellow","Others",3
+"21","Streatley S. Wood","Mixed Deciduous Wood","Yellow","X00000",2
+"22","Streatley S. Wood","Mixed Deciduous Wood","Yellow","X00300",1
+"23","Streatley S. Wood","Mixed Deciduous Wood","Yellow","X12345",3
+"24","Streatley S. Wood","Mixed Deciduous Wood","Yellow","Others",0
+"25","Wytham","Mixed Deciduous Wood","Yellow","X00000",1
+"26","Wytham","Mixed Deciduous Wood","Yellow","X00300",7
+"27","Wytham","Mixed Deciduous Wood","Yellow","X12345",33
+"28","Wytham","Mixed Deciduous Wood","Yellow","Others",28
+"29","Bagley","Mixed Deciduous Wood","Yellow","X00000",0
+"30","Bagley","Mixed Deciduous Wood","Yellow","X00300",0
+"31","Bagley","Mixed Deciduous Wood","Yellow","X12345",4
+"32","Bagley","Mixed Deciduous Wood","Yellow","Others",2
+"33","Burdrop Wood","Mixed Deciduous Wood","Yellow","X00000",1
+"34","Burdrop Wood","Mixed Deciduous Wood","Yellow","X00300",4
+"35","Burdrop Wood","Mixed Deciduous Wood","Yellow","X12345",18
+"36","Burdrop Wood","Mixed Deciduous Wood","Yellow","Others",14
+"37","Wantage 2","Mixed Deciduous Wood","Yellow","X00000",7
+"38","Wantage 2","Mixed Deciduous Wood","Yellow","X00300",0
+"39","Wantage 2","Mixed Deciduous Wood","Yellow","X12345",3
+"40","Wantage 2","Mixed Deciduous Wood","Yellow","Others",4
+"41","Wytham Lane","Hedgerows","Yellow","X00000",2
+"42","Wytham Lane","Hedgerows","Yellow","X00300",1
+"43","Wytham Lane","Hedgerows","Yellow","X12345",10
+"44","Wytham Lane","Hedgerows","Yellow","Others",3
+"45","Canal Bank","Hedgerows","Yellow","X00000",17
+"46","Canal Bank","Hedgerows","Yellow","X00300",25
+"47","Canal Bank","Hedgerows","Yellow","X12345",46
+"48","Canal Bank","Hedgerows","Yellow","Others",26
+"49","Parks Hedge","Hedgerows","Yellow","X00000",5
+"50","Parks Hedge","Hedgerows","Yellow","X00300",2
+"51","Parks Hedge","Hedgerows","Yellow","X12345",5
+"52","Parks Hedge","Hedgerows","Yellow","Others",6
+"53","Hinksey Hedge","Hedgerows","Yellow","X00000",1
+"54","Hinksey Hedge","Hedgerows","Yellow","X00300",1
+"55","Hinksey Hedge","Hedgerows","Yellow","X12345",10
+"56","Hinksey Hedge","Hedgerows","Yellow","Others",2
+"57","Pentridge","Downside, Long Coarse Grass","Yellow","X00000",0
+"58","Pentridge","Downside, Long Coarse Grass","Yellow","X00300",66
+"59","Pentridge","Downside, Long Coarse Grass","Yellow","X12345",185
+"60","Pentridge","Downside, Long Coarse Grass","Yellow","Others",23
+"61","C.C. Downside","Downside, Long Coarse Grass","Yellow","X00000",0
+"62","C.C. Downside","Downside, Long Coarse Grass","Yellow","X00300",11
+"63","C.C. Downside","Downside, Long Coarse Grass","Yellow","X12345",21
+"64","C.C. Downside","Downside, Long Coarse Grass","Yellow","Others",34
+"65","Rough Down","Downside, Short Turf","Yellow","X00000",47
+"66","Rough Down","Downside, Short Turf","Yellow","X00300",21
+"67","Rough Down","Downside, Short Turf","Yellow","X12345",0
+"68","Rough Down","Downside, Short Turf","Yellow","Others",6
+"69","E. Ilsley","Other","Yellow","X00000",0
+"70","E. Ilsley","Other","Yellow","X00300",0
+"71","E. Ilsley","Other","Yellow","X12345",6
+"72","E. Ilsley","Other","Yellow","Others",0
+"73","Sowberry Court","Other","Yellow","X00000",1
+"74","Sowberry Court","Other","Yellow","X00300",0
+"75","Sowberry Court","Other","Yellow","X12345",2
+"76","Sowberry Court","Other","Yellow","Others",4
+"77","Hackpen","Downland Beech","Pink","X00000",76
+"78","Hackpen","Downland Beech","Pink","X00300",39
+"79","Hackpen","Downland Beech","Pink","X12345",0
+"80","Hackpen","Downland Beech","Pink","Others",0
+"81","Rockley 1","Downland Beech","Pink","X00000",41
+"82","Rockley 1","Downland Beech","Pink","X00300",7
+"83","Rockley 1","Downland Beech","Pink","X12345",0
+"84","Rockley 1","Downland Beech","Pink","Others",0
+"85","Broomsgrove","Oakwood","Pink","X00000",5
+"86","Broomsgrove","Oakwood","Pink","X00300",22
+"87","Broomsgrove","Oakwood","Pink","X12345",4
+"88","Broomsgrove","Oakwood","Pink","Others",1
+"89","Cobham Frith","Oakwood","Pink","X00000",51
+"90","Cobham Frith","Oakwood","Pink","X00300",80
+"91","Cobham Frith","Oakwood","Pink","X12345",7
+"92","Cobham Frith","Oakwood","Pink","Others",16
+"93","Putall Gate","Oakwood","Pink","X00000",135
+"94","Putall Gate","Oakwood","Pink","X00300",165
+"95","Putall Gate","Oakwood","Pink","X12345",62
+"96","Putall Gate","Oakwood","Pink","Others",138
+"97","Streatley S. Wood","Mixed Deciduous Wood","Pink","X00000",33
+"98","Streatley S. Wood","Mixed Deciduous Wood","Pink","X00300",4
+"99","Streatley S. Wood","Mixed Deciduous Wood","Pink","X12345",11
+"100","Streatley S. Wood","Mixed Deciduous Wood","Pink","Others",4
+"101","Wytham","Mixed Deciduous Wood","Pink","X00000",15
+"102","Wytham","Mixed Deciduous Wood","Pink","X00300",15
+"103","Wytham","Mixed Deciduous Wood","Pink","X12345",54
+"104","Wytham","Mixed Deciduous Wood","Pink","Others",40
+"105","Bagley","Mixed Deciduous Wood","Pink","X00000",6
+"106","Bagley","Mixed Deciduous Wood","Pink","X00300",5
+"107","Bagley","Mixed Deciduous Wood","Pink","X12345",9
+"108","Bagley","Mixed Deciduous Wood","Pink","Others",5
+"109","Burdrop Wood","Mixed Deciduous Wood","Pink","X00000",17
+"110","Burdrop Wood","Mixed Deciduous Wood","Pink","X00300",3
+"111","Burdrop Wood","Mixed Deciduous Wood","Pink","X12345",8
+"112","Burdrop Wood","Mixed Deciduous Wood","Pink","Others",10
+"113","Wantage 2","Mixed Deciduous Wood","Pink","X00000",7
+"114","Wantage 2","Mixed Deciduous Wood","Pink","X00300",0
+"115","Wantage 2","Mixed Deciduous Wood","Pink","X12345",12
+"116","Wantage 2","Mixed Deciduous Wood","Pink","Others",11
+"117","Wytham Lane","Hedgerows","Pink","X00000",0
+"118","Wytham Lane","Hedgerows","Pink","X00300",0
+"119","Wytham Lane","Hedgerows","Pink","X12345",2
+"120","Wytham Lane","Hedgerows","Pink","Others",2
+"121","Canal Bank","Hedgerows","Pink","X00000",7
+"122","Canal Bank","Hedgerows","Pink","X00300",27
+"123","Canal Bank","Hedgerows","Pink","X12345",59
+"124","Canal Bank","Hedgerows","Pink","Others",61
+"125","Parks Hedge","Hedgerows","Pink","X00000",4
+"126","Parks Hedge","Hedgerows","Pink","X00300",1
+"127","Parks Hedge","Hedgerows","Pink","X12345",5
+"128","Parks Hedge","Hedgerows","Pink","Others",3
+"129","Hinksey Hedge","Hedgerows","Pink","X00000",0
+"130","Hinksey Hedge","Hedgerows","Pink","X00300",1
+"131","Hinksey Hedge","Hedgerows","Pink","X12345",42
+"132","Hinksey Hedge","Hedgerows","Pink","Others",19
+"133","Pentridge","Downside, Long Coarse Grass","Pink","X00000",0
+"134","Pentridge","Downside, Long Coarse Grass","Pink","X00300",32
+"135","Pentridge","Downside, Long Coarse Grass","Pink","X12345",82
+"136","Pentridge","Downside, Long Coarse Grass","Pink","Others",11
+"137","C.C. Downside","Downside, Long Coarse Grass","Pink","X00000",19
+"138","C.C. Downside","Downside, Long Coarse Grass","Pink","X00300",6
+"139","C.C. Downside","Downside, Long Coarse Grass","Pink","X12345",33
+"140","C.C. Downside","Downside, Long Coarse Grass","Pink","Others",31
+"141","Rough Down","Downside, Short Turf","Pink","X00000",5
+"142","Rough Down","Downside, Short Turf","Pink","X00300",13
+"143","Rough Down","Downside, Short Turf","Pink","X12345",0
+"144","Rough Down","Downside, Short Turf","Pink","Others",7
+"145","E. Ilsley","Other","Pink","X00000",0
+"146","E. Ilsley","Other","Pink","X00300",1
+"147","E. Ilsley","Other","Pink","X12345",0
+"148","E. Ilsley","Other","Pink","Others",0
+"149","Sowberry Court","Other","Pink","X00000",12
+"150","Sowberry Court","Other","Pink","X00300",0
+"151","Sowberry Court","Other","Pink","X12345",5
+"152","Sowberry Court","Other","Pink","Others",14
+"153","Hackpen","Downland Beech","Brown","X00000",1
+"154","Hackpen","Downland Beech","Brown","X00300",1
+"155","Hackpen","Downland Beech","Brown","X12345",0
+"156","Hackpen","Downland Beech","Brown","Others",0
+"157","Rockley 1","Downland Beech","Brown","X00000",57
+"158","Rockley 1","Downland Beech","Brown","X00300",9
+"159","Rockley 1","Downland Beech","Brown","X12345",0
+"160","Rockley 1","Downland Beech","Brown","Others",0
+"161","Broomsgrove","Oakwood","Brown","X00000",30
+"162","Broomsgrove","Oakwood","Brown","X00300",15
+"163","Broomsgrove","Oakwood","Brown","X12345",1
+"164","Broomsgrove","Oakwood","Brown","Others",1
+"165","Cobham Frith","Oakwood","Brown","X00000",0
+"166","Cobham Frith","Oakwood","Brown","X00300",4
+"167","Cobham Frith","Oakwood","Brown","X12345",1
+"168","Cobham Frith","Oakwood","Brown","Others",1
+"169","Putall Gate","Oakwood","Brown","X00000",59
+"170","Putall Gate","Oakwood","Brown","X00300",0
+"171","Putall Gate","Oakwood","Brown","X12345",0
+"172","Putall Gate","Oakwood","Brown","Others",0
+"173","Streatley S. Wood","Mixed Deciduous Wood","Brown","X00000",8
+"174","Streatley S. Wood","Mixed Deciduous Wood","Brown","X00300",0
+"175","Streatley S. Wood","Mixed Deciduous Wood","Brown","X12345",0
+"176","Streatley S. Wood","Mixed Deciduous Wood","Brown","Others",0
+"177","Wytham","Mixed Deciduous Wood","Brown","X00000",24
+"178","Wytham","Mixed Deciduous Wood","Brown","X00300",0
+"179","Wytham","Mixed Deciduous Wood","Brown","X12345",0
+"180","Wytham","Mixed Deciduous Wood","Brown","Others",6
+"181","Bagley","Mixed Deciduous Wood","Brown","X00000",4
+"182","Bagley","Mixed Deciduous Wood","Brown","X00300",0
+"183","Bagley","Mixed Deciduous Wood","Brown","X12345",0
+"184","Bagley","Mixed Deciduous Wood","Brown","Others",0
+"185","Burdrop Wood","Mixed Deciduous Wood","Brown","X00000",23
+"186","Burdrop Wood","Mixed Deciduous Wood","Brown","X00300",1
+"187","Burdrop Wood","Mixed Deciduous Wood","Brown","X12345",0
+"188","Burdrop Wood","Mixed Deciduous Wood","Brown","Others",0
+"189","Wantage 2","Mixed Deciduous Wood","Brown","X00000",8
+"190","Wantage 2","Mixed Deciduous Wood","Brown","X00300",0
+"191","Wantage 2","Mixed Deciduous Wood","Brown","X12345",0
+"192","Wantage 2","Mixed Deciduous Wood","Brown","Others",0
+"193","Wytham Lane","Hedgerows","Brown","X00000",0
+"194","Wytham Lane","Hedgerows","Brown","X00300",0
+"195","Wytham Lane","Hedgerows","Brown","X12345",0
+"196","Wytham Lane","Hedgerows","Brown","Others",1
+"197","Canal Bank","Hedgerows","Brown","X00000",9
+"198","Canal Bank","Hedgerows","Brown","X00300",1
+"199","Canal Bank","Hedgerows","Brown","X12345",0
+"200","Canal Bank","Hedgerows","Brown","Others",1
+"201","Parks Hedge","Hedgerows","Brown","X00000",0
+"202","Parks Hedge","Hedgerows","Brown","X00300",0
+"203","Parks Hedge","Hedgerows","Brown","X12345",0
+"204","Parks Hedge","Hedgerows","Brown","Others",0
+"205","Hinksey Hedge","Hedgerows","Brown","X00000",0
+"206","Hinksey Hedge","Hedgerows","Brown","X00300",0
+"207","Hinksey Hedge","Hedgerows","Brown","X12345",0
+"208","Hinksey Hedge","Hedgerows","Brown","Others",0
+"209","Pentridge","Downside, Long Coarse Grass","Brown","X00000",8
+"210","Pentridge","Downside, Long Coarse Grass","Brown","X00300",2
+"211","Pentridge","Downside, Long Coarse Grass","Brown","X12345",12
+"212","Pentridge","Downside, Long Coarse Grass","Brown","Others",6
+"213","C.C. Downside","Downside, Long Coarse Grass","Brown","X00000",0
+"214","C.C. Downside","Downside, Long Coarse Grass","Brown","X00300",0
+"215","C.C. Downside","Downside, Long Coarse Grass","Brown","X12345",0
+"216","C.C. Downside","Downside, Long Coarse Grass","Brown","Others",0
+"217","Rough Down","Downside, Short Turf","Brown","X00000",49
+"218","Rough Down","Downside, Short Turf","Brown","X00300",11
+"219","Rough Down","Downside, Short Turf","Brown","X12345",0
+"220","Rough Down","Downside, Short Turf","Brown","Others",5
+"221","E. Ilsley","Other","Brown","X00000",27
+"222","E. Ilsley","Other","Brown","X00300",4
+"223","E. Ilsley","Other","Brown","X12345",2
+"224","E. Ilsley","Other","Brown","Others",2
+"225","Sowberry Court","Other","Brown","X00000",32
+"226","Sowberry Court","Other","Brown","X00300",0
+"227","Sowberry Court","Other","Brown","X12345",0
+"228","Sowberry Court","Other","Brown","Others",0
