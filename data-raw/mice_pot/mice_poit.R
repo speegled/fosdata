@@ -3,7 +3,8 @@ head(dd)
 dd <- janitor::clean_names(dd)
 dd$gen <- factor(dd$gen)
 unique(dd$group)
-dd$group <- factor(dd$group, levels = c("VEH", "0.3", "1", "3", "10"))
+dd <- dd %>% filter(group != "10")
+dd$group <- factor(dd$group, levels = c("VEH", "0.3", "1", "3"))
 summary(dd)
 library(ggplot2)
 ggplot(dd, aes(x = group, y = percent_of_act)) +
@@ -19,5 +20,5 @@ dd %>% filter(gen == "WT", group != "10") %>%
   with(pairwise.t.test(percent_of_act, group, pool.sd = FALSE))
 
 mice_pot <- dd
-mice_pot <- filter(mice_pot, gen == "WT") %>% select(group, percent_of_act)
+mice_pot <- filter(mice_pot, gen == "WT", group != "10") %>% select(group, percent_of_act)
 save(mice_pot, file = "data/mice_pot.rda")
