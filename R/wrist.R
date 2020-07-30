@@ -9,9 +9,9 @@
 #'   \item{id}{ID number}
 #'   \item{age}{Age in years}
 #'   \item{sex}{0 = man and 1 = female}
-#'   \item{handed_side}{0 = right and 1 = left}
+#'   \item{handed_side}{1 = right and 2 = left}
 #'   \item{centre}{Centres are anonymised in this excel file}
-#'   \item{fracture_side}{0 = right and 1 = left}
+#'   \item{fracture_side}{1 = right and 2 = left}
 #'   \item{cast_position}{1 = functional cast position and 2 = volar-flexion and ulnar deviation cast position}
 #'   \item{pcs_start}{PCS score at baseline of follow-up}
 #'   \item{operativetreatment}{No-operative treatment during follow-up = 0 and operative treatment during follow-up}
