@@ -4,12 +4,14 @@
 \name{crit_period}
 \alias{crit_period}
 \title{Critical Period Hypothesis}
-\format{A data frame with 138 observations of 3 variables. Descriptions of variables are from the authors.
+\format{
+A data frame with 138 observations of 3 variables. Descriptions of variables are from the authors.
 \describe{
   \item{aoa}{age of onset of acquisition of second language. In years.}
   \item{gjt}{grammaticality judgement test. A measure of second language proficiency.}
   \item{locale}{Factor with two levels. "North America" and "Israel"}
-}}
+}
+}
 \source{
 Vanhove J (2013) The Critical Period Hypothesis in Second Language Acquisition: A Statistical Critique and a Reanalysis. PLoS ONE 8(7): e69172.
 

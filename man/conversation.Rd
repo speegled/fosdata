@@ -4,7 +4,8 @@
 \name{conversation}
 \alias{conversation}
 \title{Conversational Dominance and Psychopathy}
-\format{A data frame with 210 observations of 28 variables. Descriptions of some variables are from the authors.
+\format{
+A data frame with 210 observations of 28 variables. Descriptions of some variables are from the authors.
 \describe{
   \item{gender}{1 = female; 0 =  male }
   \item{f1_psychopathy}{individual 1's standardized score on factor 1 of LSRP}
@@ -34,7 +35,8 @@
   \item{indiv_2_pd_indiv_1}{Individual 2 decision toward individual 1 in PDG; 1 = individual 2 cooperates toward individual 1 in Prisoner's Dilemma: 0 = individual 2 defects toward individual 1}
   \item{indiv_1_predicts_indiv_2}{1 = individual 1 predicts that individual 2 cooperates toward individual 1; 0 = individual 1 predicts that individual 2 defects toward individual 1}
   \item{indiv_2_predicts_indiv_1}{1 = individual 2 predicts that individual 1 cooperates toward individual 2; 0 = individual 2 predicts that individual 1 defects toward individual 2}
-}}
+}
+}
 \source{
 Manson JH, Gervais MM, Fessler DMT, Kline MA (2014) Subclinical Primary Psychopathy, but Not Physical Formidability or Attractiveness, Predicts Conversational Dominance in a Zero-Acquaintance Situation. PLoS ONE 9(11): e113135.
 

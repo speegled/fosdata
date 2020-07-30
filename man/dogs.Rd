@@ -4,7 +4,8 @@
 \name{dogs}
 \alias{dogs}
 \title{Dogs and peer pressure}
-\format{A data frame with 351 observations of 9 variables. Descriptions of the variables due to authors.
+\format{
+A data frame with 351 observations of 9 variables. Descriptions of the variables due to authors.
 \describe{
   \item{obs_number}{ID of each subject}
   \item{obs_pref}{preference of observer in german ("links" = bypass wall on the left side; "rechts" = bypass wall on the right side)}
@@ -15,7 +16,8 @@
   \item{trial}{number of trial (1,2,3)}
   \item{start_direction}{direction the observer was led from observing position to start position (see article for details; "0" = directed towards a stay response, "1" directed towards a switch response) )}
   \item{conform}{behavior of observer ("0" = stay response, "1" = switch response), as variable value but without misses (which were code NA for analyses)}
-}}
+}
+}
 \source{
 "Germar M, Sultan A, Kaminski J, Mojzisch A (2018) Dogs (Canis familiaris) stick to what they have learned rather than conform to their conspecifics’ behavior. PLoS ONE 13(3): e0194808."
 

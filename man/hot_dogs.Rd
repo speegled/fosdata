@@ -4,12 +4,14 @@
 \name{hot_dogs}
 \alias{hot_dogs}
 \title{Hot Dog Nutrition}
-\format{A data frame with 54 observations of 3 variables.
+\format{
+A data frame with 54 observations of 3 variables.
 \describe{
   \item{type}{Factor with levels Beef, Meat or Poultry}
   \item{calories}{Number of calories in the hot dog (kC)}
   \item{sodium}{Sodium content of the hot dog (mg)}
-}}
+}
+}
 \source{
 Moore, David S., and George P. McCabe (1989). Introduction to the Practice of Statistics. Original source: Consumer Reports, June 1986, pp. 366-367.
 

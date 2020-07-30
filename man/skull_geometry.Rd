@@ -4,11 +4,13 @@
 \name{skull_geometry}
 \alias{skull_geometry}
 \title{Skull Geometry}
-\format{A data frame with 56 observations of 2 variables. Descriptions of variables are from the authors.
+\format{
+A data frame with 56 observations of 2 variables. Descriptions of variables are from the authors.
 \describe{
   \item{age_mos}{age of child in months}
   \item{circumference_cm}{circumference of skull in centimeters}
-}}
+}
+}
 \source{
 Li, Zhigang et al. (2016), Data from: A statistical skull geometry model for children 0-3 years old, Dryad, Dataset, https://doi.org/10.5061/dryad.p4p62
 

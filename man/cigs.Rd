@@ -4,7 +4,8 @@
 \name{cigs}
 \alias{cigs}
 \title{Nicotine, Tar and CO of Cigarettes}
-\format{A data frame with 1294 observations of 9 variables
+\format{
+A data frame with 1294 observations of 9 variables
 \describe{
   \item{brand_name}{Brand name of the cigarette}
   \item{flavor}{Information about the cigarette that came after the brand name, such as Ultra or Select}
@@ -15,7 +16,8 @@
   \item{filter}{Factor with levels F = filtered, NF = no filter}
   \item{pack}{Factor with levels HP = hard pack, SP = soft pack}
   \item{menthol}{Factor with levels no = not menthol, and yes = menthol.}
-}}
+}
+}
 \source{
 "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
 

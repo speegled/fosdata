@@ -4,7 +4,8 @@
 \name{movies}
 \alias{movies}
 \title{MovieLense 100K}
-\format{A data frame with 100836 observations of 6 variables
+\format{
+A data frame with 100836 observations of 6 variables
 \describe{
   \item{userId}{Unique int Id of the rater of the movie}
   \item{movieId}{Unique int ID of the movie}
@@ -12,7 +13,8 @@
   \item{timestamp}{Seconds since UTC January 1, 1970}
   \item{title}{Title of movie with year in parentheses}
   \item{genres}{pipe separated list of genres from Action, Adventure, Animation, Children's, Comedy, Crime, Documentary, Drama, Fantasy, Film-Noir, Horror, Musical, Mystery, Romance, Sci-Fi, Thriller, War, Western, (no genres listed)}
-}}
+}
+}
 \source{
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 }

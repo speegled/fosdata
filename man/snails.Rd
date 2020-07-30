@@ -4,14 +4,16 @@
 \name{snails}
 \alias{snails}
 \title{Snails near Oxford, England}
-\format{A data frame with 228 observations of 5 variables.
+\format{
+A data frame with 228 observations of 5 variables.
 \describe{
   \item{Location}{Collection site.}
   \item{Habitat}{Ecological features of collection site.}
   \item{Color}{Snail shell color.}
   \item{Banding}{Type of shell banding.  X00000 is unbanded.  X00300 has one wide band.  X12345 has five bands.}
   \item{Count}{Count of snails in this category.}
-}}
+}
+}
 \source{
 Cain, A., Sheppard, P. Selection in the polymorphic land snail Cepæa nemoralis. Heredity 4, 275–294 (1950). Data is from Table 6. https://doi.org/10.1038/hdy.1950.22
 }

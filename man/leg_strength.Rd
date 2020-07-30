@@ -4,12 +4,14 @@
 \name{leg_strength}
 \alias{leg_strength}
 \title{Wii Leg Strength}
-\format{A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
+\format{
+A data frame with 30 observations of 2 variables. Descriptions of variables are from the authors.
 \describe{
   \item{ID}{ID of participant. Can be used to match with `leg_strength_full` data set.}
   \item{mean_wii}{mean of 6 measurements of leg strength in kg on the wii balance board.}
   \item{mean_sid}{mean of the 6 measurements of leg strength in kg on the stationary isometric dynamometer.}
-}}
+}
+}
 \source{
 Gronbech Jorgensen M, Andersen S, Ryg J, Masud T (2015) Novel Use of the Nintendo Wii Board for Measuring Isometric Lower Limb Strength: A Reproducible and Valid Method in Older Adults. PLoS ONE 10(10): e0138660.
 

@@ -4,7 +4,8 @@
 \name{child_tasks}
 \alias{child_tasks}
 \title{Shape Trail Test}
-\format{A tibble with 68 observations of 13 variables
+\format{
+A tibble with 68 observations of 13 variables
 \describe{
   \item{gender}{Factor with levels Male/Female}
   \item{age_in_months}{Age in months}
@@ -19,7 +20,8 @@
   \item{card_sort_postswitch_accuracy}{Accuracy in sorting cards into boxes with colors}
   \item{stt_cv_trail_a_secs}{Time to connect dots from 1-15}
   \item{stt_cv_trail_b_secs}{Time to connect dots 1-8 and 1-7 alternating circles and squares}
-}}
+}
+}
 \source{
 Chan AYC, Morgan S-J (2018) Assessing children's cognitive flexibility with the Shape Trail Test. PLoS ONE 13(5): e0198254.
 

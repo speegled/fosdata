@@ -4,12 +4,14 @@
 \name{normtemp}
 \alias{normtemp}
 \title{Temperature and heart rate data}
-\format{A data frame with 130 observations of 3 variables
+\format{
+A data frame with 130 observations of 3 variables
 \describe{
   \item{temp}{temperature of patient in degrees Fahrenheit}
   \item{gender}{gender of patient 1 = male, 2 = female}
   \item{bpm}{heart rate in beats per minute}
-}}
+}
+}
 \source{
 “Datasets and Stories” article “What’s Normal? – Temperature, Gender, and Heart Rate” in the Journal of Statistics Education (Shoemaker 1996).
 

@@ -4,7 +4,8 @@
 \name{climate}
 \alias{climate}
 \title{Citations of Climate Change Papers}
-\format{A data frame with 732 observations of 19 variables. Description of variables mostly from the authors.
+\format{
+A data frame with 732 observations of 19 variables. Description of variables mostly from the authors.
 \describe{
   \item{appeal}{the moral or evaluative orientation of a narrative. Does the text makes an explicit appeal to the reader or a clear recommendation for action}
   \item{conjunctions}{the number of times that conjunctions signifying cause and effect, contrast, or temporal ordering appeared in the text.}
@@ -25,7 +26,8 @@
   \item{binary_setting}{yes no decision on whether setting is used}
   \item{binary_appeal}{yes no decision on whether appeal is made}
   \item{impact}{impact factor}
-}}
+}
+}
 \source{
 Hillier A, Kelly RP, Klinger T (2016) Narrative Style Influences Citation Frequency in Climate Change Science. PLoS ONE 11(12): e0167983. https://doi.org/10.1371/journal.pone.0167983
 }
