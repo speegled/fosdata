@@ -12,3 +12,4 @@
 #' }
 #'
 #' @source data.gov, https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010
+"powerball"
