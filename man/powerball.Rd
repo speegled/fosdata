@@ -22,6 +22,8 @@ powerball
 The results of all Powerball lottery draws from February 3, 2010 to July 29, 2020.
 }
 \details{
-Powerball is an American lottery game offered in most U.S. states.  Drawings happen twice weekly, and consist of five white balls drawn without replacement and one red ball, called the Powerball.
+Powerball is an American lottery game offered in most U.S. states.
+Drawings happen twice weekly, and consist of five white balls drawn without replacement and one red ball, called the Powerball.
+The format of ball drawings changed on January 15, 2012 and again on October 4, 2015.
 }
 \keyword{datasets}
