@@ -21,7 +21,7 @@ A data frame with 165 observations of 159 variables. Some individuals are evalua
 }
 }
 \source{
-\url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235610}
+Tapanes E, Anestis S, Kamilar JM, Bradley BJ (2020) Does facial hair greying in chimpanzees provide a salient progressive cue of aging? PLoS ONE 15(7): e0235610. https://doi.org/10.1371/journal.pone.0235610
 
 \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.f7m0cfxs7}
 }

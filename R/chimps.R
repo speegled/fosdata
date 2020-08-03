@@ -23,6 +23,6 @@
 #'   \item{grey_score_avg}{Mean value of the gray score rankings given by human judges.}
 #' }
 #'
-#' @source \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0235610}
+#' @source Tapanes E, Anestis S, Kamilar JM, Bradley BJ (2020) Does facial hair greying in chimpanzees provide a salient progressive cue of aging? PLoS ONE 15(7): e0235610. https://doi.org/10.1371/journal.pone.0235610
 #' @source \url{https://datadryad.org/stash/dataset/doi:10.5061/dryad.f7m0cfxs7}
 "chimps"
