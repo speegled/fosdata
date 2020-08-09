@@ -3,7 +3,7 @@
 \docType{data}
 \name{movies}
 \alias{movies}
-\title{MovieLense 100K}
+\title{MovieLens 100K}
 \format{
 A data frame with 100836 observations of 6 variables
 \describe{

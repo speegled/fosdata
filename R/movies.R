@@ -1,4 +1,4 @@
-#' MovieLense 100K
+#' MovieLens 100K
 #'
 #' Randomly selected ratings of movies from MovieLense.
 #'
