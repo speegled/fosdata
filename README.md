@@ -9,8 +9,7 @@
 
 The `fosdata` package contains datasets for the textbook [Foundations of
 Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan
-Clair.
+Speegle and Bryan Clair.
 
 ## Installation
 
@@ -550,6 +549,72 @@ Wii Leg Strength (full)
 
 <td style="text-align:left;">
 
+malaria
+
+</td>
+
+<td style="text-align:left;">
+
+Malaria Transmission and Parasites
+
+</td>
+
+<td style="text-align:left;">
+
+180x3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+masks
+
+</td>
+
+<td style="text-align:left;">
+
+Masks and Influenza Exposure
+
+</td>
+
+<td style="text-align:left;">
+
+37x7
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+mice\_pot
+
+</td>
+
+<td style="text-align:left;">
+
+Mice on pot
+
+</td>
+
+<td style="text-align:left;">
+
+46x2
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 movies
 
 </td>
@@ -585,6 +650,28 @@ Temperature and heart rate data
 <td style="text-align:left;">
 
 130x3
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
+powerball
+
+</td>
+
+<td style="text-align:left;">
+
+Powerball draws from 2010-2020
+
+</td>
+
+<td style="text-align:left;">
+
+1094x8
 
 </td>
 
@@ -770,17 +857,15 @@ citation("fosdata")
 #> 
 #> To cite package 'fosdata' in publications use:
 #> 
-#>   Darrin Speegle and Bryan Clair (2020). fosdata: Data for use with the
+#>   Darrin Speegle and Bryan Clair (NA). fosdata: Data for use with the
 #>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
 #>   Clair. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
-#> Darrin Speegle and Bryan Clair},
+#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
-#>     year = {2020},
 #>     note = {R package version 0.1.0},
 #>   }
 #> 
