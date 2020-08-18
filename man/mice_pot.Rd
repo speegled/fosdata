@@ -5,7 +5,7 @@
 \alias{mice_pot}
 \title{Mice on pot}
 \format{
-A data frame with 47 observations of 2 variables
+A data frame with 46 observations of 2 variables
 \describe{
   \item{group}{One of five levels, VEH (control) or the amount of THC in mg/kg the mouse was injected with.}
   \item{percent_of_act}{Percent of baseline locomotion activity}
