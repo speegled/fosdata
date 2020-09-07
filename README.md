@@ -9,7 +9,8 @@
 
 The `fosdata` package contains datasets for the textbook [Foundations of
 Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan Clair.
+Speegle and Bryan
+Clair.
 
 ## Installation
 
@@ -417,6 +418,28 @@ Fish measurements from Laengelmavesi Lake, near Tampere, Finland
 
 <td style="text-align:left;">
 
+flint
+
+</td>
+
+<td style="text-align:left;">
+
+Lead levels from citizen tap water sampling in Flint, MI
+
+</td>
+
+<td style="text-align:left;">
+
+271x7
+
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 frogs
 
 </td>
@@ -621,7 +644,7 @@ movies
 
 <td style="text-align:left;">
 
-MovieLense 100K
+MovieLens 100K
 
 </td>
 
