@@ -424,7 +424,7 @@ flint
 
 <td style="text-align:left;">
 
-Lead levels from citizen tap water sampling in Flint, MI
+Lead levels from tap water sampling in Flint, MI
 
 </td>
 
