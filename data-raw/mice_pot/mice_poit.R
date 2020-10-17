@@ -23,3 +23,8 @@ mice_pot <- dd
 mice_pot <- filter(mice_pot, gen == "WT", group != "10") %>% select(group, percent_of_act)
 mice_pot <- as.data.frame(mice_pot)
 save(mice_pot, file = "data/mice_pot.rda")
+
+
+
+
+

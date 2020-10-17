@@ -11,7 +11,7 @@ A data frame with 1794 observations of 15 variables
   \item{imdb}{Movie ID number at imdb.com.}
   \item{title}{Movie title.}
   \item{test}{The full Bechdel test status of the film, as rated by BechdelTest.com.}
-  \item{clean_test}{A simplified Bechdel test status.}
+  \item{clean_test}{A simplified Bechdel test status. Contains levels dubious, men, notalk, nowmen, and ok.}
   \item{binary}{The Bechdel test stautus simplified to PASS/FAIL.}
   \item{budget}{The film's budget, in US dollars, when made.}
   \item{domgross}{Domestic earnings (US, Canada, PR, Guam).}
