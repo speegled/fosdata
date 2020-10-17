@@ -11,7 +11,7 @@ A data frame with 1512 observations of 8 variables
   \item{year}{Year of sample.}
   \item{from}{Start date of the sample taking.}
   \item{to}{End date of the sample taking.}
-  \item{biomass}{Biomass caught in the trap, in kg}
+  \item{biomass}{Biomass caught in the trap, in g}
   \item{e}{Degrees longitude}
   \item{n}{Degrees latitude}
   \item{location_type}{1 = nutrient-poor heathlands, sandy grassland, and dunes; 2 = nutrient-rich grasslands, margins and wasteland; 3 = pioneer and shrub communities}
@@ -33,7 +33,7 @@ From the authors: "Current data suggest an overall pattern of decline in insect 
 Loss of insects is certain to have adverse effects on ecosystem functioning, as insects play a
 central role in a variety of processes, including pollination, herbivory and detrivory,
 nutrient cycling and providing a food source for higher trophic levels such as birds,
-mammals and amphibians. For example, 80% of wild plants are estimated to depend on insects
-for pollination, while 60% of birds rely on insects as a food source."
+mammals and amphibians. For example, 80 percent of wild plants are estimated to depend on insects
+for pollination, while 60 percent of birds rely on insects as a food source."
 }
 \keyword{datasets}
