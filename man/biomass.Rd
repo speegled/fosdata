@@ -5,7 +5,7 @@
 \alias{biomass}
 \title{Biomass of insects in German nature protection areas}
 \format{
-A data frame with 282295 observations of 7 variables
+A data frame with 1512 observations of 8 variables
 \describe{
   \item{plot}{Which location the sample was taken from.}
   \item{year}{Year of sample.}

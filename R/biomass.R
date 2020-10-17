@@ -11,7 +11,7 @@
 #' for pollination, while 60% of birds rely on insects as a food source."
 #'
 #'
-#' @format A data frame with 282295 observations of 7 variables
+#' @format A data frame with 1512 observations of 8 variables
 #' \describe{
 #'   \item{plot}{Which location the sample was taken from.}
 #'   \item{year}{Year of sample.}
