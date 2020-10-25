@@ -17,18 +17,18 @@
 #'   \item{narrative_perspective}{whether or not the narrator referred to themselves in the text (e.g., through use of pronouns such as I, we, and our)}
 #'   \item{sensory}{the number of times that sensory or emotional language appeared in the abstract}
 #'   \item{setting}{whether there is a specific mention of place or time in the abstract}
-#'   \item{citations}{Web of Science number of citations for the articles associated with each abstract in our dataset.}
+#'   \item{citations}{The log of Web of Science number of citations for the articles associated with each abstract in our dataset.}
 #'   \item{year}{year of publication}
 #'   \item{journal}{One of "PNAS" "Proc Roy Soc B" or "Phil Trans Roy Soc B"}
 #'   \item{number_of_authors}{number of authors}
 #'   \item{abstract_length}{in words}
 #'   \item{abstract_number}{unique identifier}
-#'   \item{normalized_citations}{adjusted for length of time paper has been published. Citations per year.}
+#'   \item{normalized_citations}{adjusted for length of time paper has been published. Citations per year. Not in log scale.}
 #'   \item{normalized_sensory}{Sensory words per word in abstract}
 #'   \item{normalized_conjunctions}{conjunctions per word in abstract}
 #'   \item{normalized_connectivity}{connectivity words per word in abstract}
-#'   \item{binary_setting}{yes no decision on whether setting is used}
-#'   \item{binary_appeal}{yes no decision on whether appeal is made}
+#'   \item{binary_setting}{1 = yes, 0 = no decision on whether setting is used}
+#'   \item{binary_appeal}{1 = yes, 0 = no decision on whether appeal is made}
 #'   \item{impact}{impact factor}
 #' }
 #'
