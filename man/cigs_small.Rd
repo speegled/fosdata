@@ -19,7 +19,7 @@ A data frame with 118 observations of 9 variables.
 }
 }
 \source{
-"The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
+'"Tar," nicotine, and carbon monoxide of the smoke of 1294 varieties of domestic cigarettes for the year 1998.  Federal Trade Commission report, 2000.'
 
 \url{https://www.ftc.gov/sites/default/files/documents/reports/2000-report-tar-nicotine-and-carbon-monoxide-covering-1998/1998tarnicotinereport_0.pdf}
 }
