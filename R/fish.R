@@ -7,7 +7,7 @@
 #' @format A data frame with 159 observations of 8 variables
 #' \describe{
 #'   \item{obs}{Observation number}
-#'   \item{species}{One of Bream, Whitefish, Roach, Parkki, Smelt, Pike or Perch}
+#'   \item{species}{One of 1 = Bream, 2 = Whitefish, 3 = Roach, 4 = Parkki, 5 = Smelt, 6 = Pike or 7 = Perch}
 #'   \item{weight}{Weight of fish (g)}
 #'   \item{length1}{Length from nose to the beginning of the tail (cm)}
 #'   \item{length2}{Length from nose to the notch of the tail (cm)}

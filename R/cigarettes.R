@@ -18,7 +18,8 @@
 #'   \item{menthol}{Factor with levels no = not menthol, and yes = menthol.}
 #' }
 #'
-#' @source "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
+#' @source '"Tar," nicotine, and carbon monoxide of the smoke of 1294 varieties of domestic cigarettes for the year 1998.  Federal Trade Commission report, 2000.'
+
 #' @source \url{https://www.ftc.gov/sites/default/files/documents/reports/2000-report-tar-nicotine-and-carbon-monoxide-covering-1998/1998tarnicotinereport_0.pdf}
 "cigs"
 
@@ -44,6 +45,6 @@
 #'   \item{menthol}{Factor with levels no = not menthol, and yes = menthol.}
 #' }
 #'
-#' @source "The Dollar-And-Cents Case Against Hollywood's Exclusion of Women", Walt Hickey, FiveThirtyEight, April 1, 2014.
+#' @source '"Tar," nicotine, and carbon monoxide of the smoke of 1294 varieties of domestic cigarettes for the year 1998.  Federal Trade Commission report, 2000.'
 #' @source \url{https://www.ftc.gov/sites/default/files/documents/reports/2000-report-tar-nicotine-and-carbon-monoxide-covering-1998/1998tarnicotinereport_0.pdf}
 "cigs_small"

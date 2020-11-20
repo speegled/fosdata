@@ -1,0 +1,31 @@
+#' Biomass of insects in German nature protection areas
+#'
+#' Biomass of insects caught in malaise traps over 96 unique location-year pairs,
+#' together with date and general description of type of nature area.
+#'
+#' From the authors: "Current data suggest an overall pattern of decline in insect diversity and abundance.
+#' Loss of insects is certain to have adverse effects on ecosystem functioning, as insects play a
+#' central role in a variety of processes, including pollination, herbivory and detrivory,
+#' nutrient cycling and providing a food source for higher trophic levels such as birds,
+#' mammals and amphibians. For example, 80 percent of wild plants are estimated to depend on insects
+#' for pollination, while 60 percent of birds rely on insects as a food source."
+#'
+#'
+#' @format A data frame with 1512 observations of 8 variables
+#' \describe{
+#'   \item{plot}{Which location the sample was taken from.}
+#'   \item{year}{Year of sample.}
+#'   \item{from}{Start date of the sample taking.}
+#'   \item{to}{End date of the sample taking.}
+#'   \item{biomass}{Biomass caught in the trap, in g}
+#'   \item{e}{Degrees longitude}
+#'   \item{n}{Degrees latitude}
+#'   \item{location_type}{1 = nutrient-poor heathlands, sandy grassland, and dunes; 2 = nutrient-rich grasslands, margins and wasteland; 3 = pioneer and shrub communities}
+#' }
+#'
+#' @source Hallmann CA, Sorg M, Jongejans E, Siepel H, Hofland N, Schwan H, et al. (2017) More than 75 percent decline over 27 years in total flying insect biomass in protected areas. PLoS ONE 12(10): e0185809
+#' \url{https://doi.org/10.1371/journal.pone.0185809}
+"biomass"
+
+
+
