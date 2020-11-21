@@ -2,6 +2,7 @@
 #'
 #' Measurements of BMI and adipose tissue for adults.
 #'
+#' According to the authors of the study, the VAT measurements of 5 or lower are suspect and may need to be excluded.
 #'
 #' From the authors: "The aims of this study were (a) to compare five anthropometric predictors of %FM and VAT mass, and (b) to explore new cut-points for the best of these predictors to improve the characterisation of obesity."
 #'
@@ -18,7 +19,7 @@
 #'   \item{stature_cm}{height in centimeters}
 #'   \item{waist_cm}{waist measurement in cm}
 #'   \item{hips_cm}{hips measurement in cm}
-#'   \item{vis_fat_mass}{visceral adipose fat mass in grams}
+#'   \item{vat}{visceral adipose tissue fat mass in grams}
 #'   \item{bmi}{body mass index kg/m^2}
 #' }
 #'
