@@ -1,0 +1,6 @@
+biomass <- read.csv("data-raw//biomass/journal.pone.0185809.s004.csv")
+biomass <- janitor::clean_names(biomass)
+biomass <- select(biomass, -matches("daynr$|pot"))
+save(biomass, file = "data/biomass.rda")
+# rm(biomass)
+# load("data/biomass.rda")

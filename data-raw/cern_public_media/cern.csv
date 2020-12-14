@@ -1,0 +1,258 @@
+SUBJECT,TYPE,POSTDATE,PLATFORM,CODE,POST,Followers,Followers_log10,LIKES,Likes_pkU,Likes_pkU_z,COMMENTS,Comments_pkU,Comments_pkU_z,SHARES,Shares_pkU,Shares_pkU_z,CLICK_THROUGHS,CTs_pkU,CTs_pkU_z,AVG_VISIT_DURATION,AVG_VISIT_DURATION_z,RETENTION_RATE,RETENTION_RATE_z
+Archive pics,GWII,20-Oct-2014,Facebook,tG01F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/717713191649362/?type=1,343998,5.54,151.0,.44,-.42,3.0,.01,-.40,13.0,.04,-.46,29.0,.08,-.33,.0,-.33,.0,-0.72
+LHC model,GWII,27-Oct-2014,Facebook,tG02Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/720913521329329/?type=1,347392,5.54,302.0,.87,-.18,20.0,.06,-.12,24.0,.07,-.37,51.0,.15,-.21,2.0,-.29,6.0,0.20
+LHC model,GWII,27-Oct-2014,Facebook,tG02Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/720913521329329/?type=1,347392,5.54,,,,,,,,,,14.0,.04,-.42,.0,-.33,.0,-0.72
+ISR archive pic,GWII,3-Nov-2014,Facebook,tG03Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724109244343090/?type=1,349907,5.54,146.0,.42,-.43,16.0,.05,-.18,10.0,.03,-.49,17.0,.05,-.40,9.0,-.13,6.0,0.20
+ISR archive pic,GWII,3-Nov-2014,Facebook,tG03Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724109244343090/?type=1,349907,5.54,,,,,,,,,,69.0,.20,-.11,24.0,.21,6.0,0.20
+CMS Cristal-ise,GWII,10-Nov-2014,Facebook,tG04F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/727793313974683/?type=1,353527,5.55,176.0,.50,-.38,11.0,.03,-.27,17.0,.05,-.43,26.0,.07,-.35,1.0,-.31,8.0,0.51
+ASACUSA,GWII,17-Nov-2014,Facebook,tG05F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/731218013632213/?type=1,358274,5.55,379.0,1.06,-.08,10.0,.03,-.29,38.0,.11,-.25,26.0,.07,-.35,11.0,-.08,8.0,0.51
+Octopus,GWII,24-Nov-2014,Facebook,tG06Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/734453093308705/?type=1,362576,5.56,243.0,.67,-.29,10.0,.03,-.29,23.0,.06,-.38,15.0,.04,-.42,.0,-.33,.0,-0.72
+Octopus,GWII,24-Nov-2014,Facebook,tG06Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/734453093308705/?type=1,362576,5.56,,,,,,,,,,24.0,.07,-.37,.0,-.33,.0,-0.72
+Pipes,GWII,1-Dec-2014,Facebook,tG07Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/737792832974731/?type=1,364826,5.56,176.0,.48,-.39,22.0,.06,-.10,12.0,.03,-.48,22.0,.06,-.38,15.0,.01,5.0,0.05
+Pipes,GWII,1-Dec-2014,Facebook,tG07Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/737792832974731/?type=1,364826,5.56,,,,,,,,,,10.0,.03,-.44,.0,-.33,.0,-0.72
+ATLAS clean,GWII,8-Dec-2014,Facebook,tG08F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/741291095958238/?type=1,367397,5.57,345.0,.94,-.15,13.0,.04,-.24,31.0,.08,-.32,139.0,.38,.24,12.0,-.06,2.0,-0.41
+Collisioneur,News,17-Oct-2014,Facebook,tN01F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/715836981836983/?type=1,343243,5.54,188.0,.55,-.36,8.0,.02,-.31,29.0,.08,-.32,86.0,.25,-.01,2.0,-.29,2.0,-0.41
+UN event,News,20-Oct-2014,Facebook,tN02F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/717677924986222/?type=1,343998,5.54,653.0,1.90,.37,56.0,.16,.49,137.0,.40,.66,59.0,.17,-.16,30.0,.35,3.0,-0.26
+CERN60 vid,News,21-Oct-2014,Facebook,tN03F,https://www.facebook.com/cern/posts/718245458262802,344282,5.54,242.0,.70,-.27,21.0,.06,-.10,75.0,.22,.10,163.0,.47,.42,16.0,.03,6.0,0.20
+IceCube VV,News,23-Oct-2014,Facebook,tN04F,https://www.facebook.com/cern/posts/719011081519573,344829,5.54,449.0,1.30,.05,10.0,.03,-.28,6.0,.02,-.53,84.0,.24,-.02,1.0,-.31,1.0,-0.56
+Nov Courier,News,28-Oct-2014,Facebook,tN05Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/721298464624168/?type=1,347931,5.54,245.0,.70,-.27,3.0,.01,-.40,23.0,.07,-.38,30.0,.09,-.33,1.0,-.31,3.0,-0.26
+Nov Courier,News,28-Oct-2014,Facebook,tN05Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/721298464624168/?type=1,347931,5.54,,,,,,,,,,33.0,.09,-.31,.0,-.33,.0,-0.72
+TEDx videos,News,29-Oct-2014,Facebook,tN06F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/721785941242087/?type=1,348311,5.54,181.0,.52,-.37,7.0,.02,-.33,22.0,.06,-.39,58.0,.17,-.17,.0,-.33,.0,-0.72
+LHChamber,News,30-Oct-2014,Facebook,tN07F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/722284267858921/?type=1,348585,5.54,467.0,1.34,.07,51.0,.15,.39,128.0,.37,.56,393.0,1.13,1.69,24.0,.21,11.0,0.97
+Halloween,News,31-Oct-2014,Facebook,tN08F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/722744467812901/?type=1,348810,5.54,182.0,.52,-.37,18.0,.05,-.15,13.0,.04,-.47,60.0,.17,-.16,.0,-.33,.0,-0.72
+Archive pics,GWII,20-Oct-2014,Google+,tG01G,https://plus.google.com/106123073424280939934/posts/KKxJdrpd6KK,105000,5.02,49.0,.47,-.64,2.0,.02,-.49,3.0,.03,-.44,10.0,.10,-.46,105.0,4.70,10.0,1.02
+BellDay,News,4-Nov-2014,Facebook,tN10F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724755554278459/?type=1,351021,5.55,414.0,1.18,-.02,10.0,.03,-.28,59.0,.17,-.06,40.0,.11,-.27,.0,-.33,2.0,-0.41
+Particle Fever,News,4-Nov-2014,Facebook,tN11F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724791784274836/?type=1,351021,5.55,108.0,.31,-.49,21.0,.06,-.10,29.0,.08,-.33,10.0,.03,-.44,.0,-.33,.0,-0.72
+Particle Fever,News,4-Nov-2014,Facebook,tN11Fw,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724791784274836/?type=1,351021,5.55,108.0,.31,-.49,21.0,.06,-.10,29.0,.08,-.33,20.0,.06,-.39,.0,-.33,.0,-0.72
+John Bell art,News,7-Nov-2014,Facebook,tN12F,https://www.facebook.com/cern/posts/726217670798914,352483,5.55,117.0,.33,-.47,11.0,.03,-.27,17.0,.05,-.43,95.0,.27,.03,6.0,-.20,5.0,0.05
+bl4s,News,17-Nov-2014,Facebook,tN13Fa,https://www.facebook.com/cern/posts/731004876986860,358274,5.55,373.0,1.04,-.09,45.0,.13,.27,117.0,.33,.43,86.0,.24,-.03,24.0,.21,8.0,0.51
+bl4s,News,17-Nov-2014,Facebook,tN13Fb,https://www.facebook.com/cern/posts/731004876986860,358274,5.55,,,,,,,,,,211.0,.59,.65,11.0,-.08,9.0,0.66
+The Port,News,18-Nov-2014,Facebook,tN14F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/731514303602584/?type=1,358628,5.55,239.0,.67,-.29,4.0,.01,-.38,23.0,.06,-.38,54.0,.15,-.20,52.0,.85,9.0,0.66
+UN event,News,20-Oct-2014,Twitter,tN02T,https://twitter.com/CERN/status/524156838628294657,1030000,6.01,86.0,.08,-.26,6.0,.01,-.17,122.0,.12,-.16,209.0,.20,-.06,36.0,2.87,7.0,1.77
+Beam tests,News,25-Nov-2014,Facebook,tN16F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/735129593241055/?type=1,362921,5.56,373.0,1.03,-.10,20.0,.06,-.13,52.0,.14,-.14,94.0,.26,.01,32.0,.39,3.0,-0.26
+ALICE,Wow,21-Oct-2014,Instagra,tW01I,http://instagram.com/p/uaUOeRqDWt/?modal=true,281,2.45,83.0,295.37,2.67,7.0,24.91,3.75,,,,,,,,,,
+bl4s,News,27-Nov-2014,Facebook,tN17Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/735949836492364/?type=1,363593,5.56,,,,,,,,,,10.0,.03,-.44,1.0,-.31,10.0,0.81
+Dec Courier,News,27-Nov-2014,Facebook,tN18Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/736027116484636/?type=1,363593,5.56,397.0,1.09,-.06,9.0,.02,-.30,82.0,.23,.12,75.0,.21,-.10,3.0,-.26,3.0,-0.26
+Dec Courier,News,27-Nov-2014,Facebook,tN18Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/736027116484636/?type=1,363593,5.56,,,,,,,,,,81.0,.22,-.06,17.0,.05,5.0,0.05
+bl4s,News,2-Dec-2014,Facebook,tN19Fa,https://www.facebook.com/cern/posts/738402402913774,365303,5.56,92.0,.25,-.52,4.0,.01,-.38,14.0,.04,-.46,12.0,.03,-.43,.0,-.33,.0,-0.72
+bl4s,News,2-Dec-2014,Facebook,tN19Fb,https://www.facebook.com/cern/posts/738402402913774,365303,5.56,,,,,,,,,,28.0,.08,-.35,21.0,.14,4.0,-0.10
+bl4s,News,4-Dec-2014,Facebook,tN20Fa,https://www.facebook.com/cern/posts/739262719494409,366260,5.56,100.0,.27,-.51,3.0,.01,-.40,22.0,.06,-.40,11.0,.03,-.44,13.0,-.04,9.0,0.66
+bl4s,News,4-Dec-2014,Facebook,tN20Fb,https://www.facebook.com/cern/posts/739262719494409,366260,5.56,,,,,,,,,,63.0,.17,-.16,32.0,.39,13.0,1.27
+Ribbon,News,8-Dec-2014,Facebook,tN21F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/741314745955873/?type=1,367397,5.57,763.0,2.08,.47,33.0,.09,.07,97.0,.26,.24,76.0,.21,-.09,17.0,.05,5.0,0.05
+IdeaSquare,News,9-Dec-2014,Facebook,tN22F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/741854219235259/?type=1,367671,5.57,214.0,.58,-.34,10.0,.03,-.29,29.0,.08,-.34,48.0,.13,-.24,.0,-.33,.0,-0.72
+Magnets,News,9-Dec-2014,Facebook,tN23F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/742000089220672/?type=1,367671,5.57,502.0,1.37,.08,24.0,.07,-.07,62.0,.17,-.06,58.0,.16,-.19,12.0,-.06,7.0,0.35
+PS bubble,TBT,23-Oct-2014,Facebook,tT01F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/719027491517932/?type=1,344829,5.54,274.0,.79,-.22,4.0,.01,-.38,28.0,.08,-.33,16.0,.05,-.41,.0,-.33,.0,-0.72
+Wire-weaving,TBT,30-Oct-2014,Facebook,tT02F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/722224824531532/?type=1,348585,5.54,156.0,.45,-.41,5.0,.01,-.36,5.0,.01,-.54,10.0,.03,-.44,.0,-.33,.0,-0.72
+BEBC pipe,TBT,6-Nov-2014,Facebook,tT03F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/725664947520853/?type=1,352175,5.55,148.0,.42,-.43,17.0,.05,-.17,8.0,.02,-.51,77.0,.22,-.07,.0,-.33,.0,-0.72
+Control rooms,TBT,13-Nov-2014,Facebook,tT04F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/729192710501410/?type=1,356485,5.55,469.0,1.32,.06,7.0,.02,-.33,52.0,.15,-.13,20.0,.06,-.39,1.0,-.31,5.0,0.05
+1st computer,TBT,20-Nov-2014,Facebook,tT05Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/732647460155935/?type=1,360872,5.56,194.0,.54,-.36,5.0,.01,-.37,14.0,.04,-.46,14.0,.04,-.42,.0,-.33,.0,-0.72
+Halloween,News,31-Oct-2014,Twitter,tN08T,https://twitter.com/CERN/status/528193966932779009,1040000,6.02,65.0,.06,-.43,5.0,.00,-.27,74.0,.07,-.38,299.0,.29,.37,38.0,3.08,8.0,2.29
+Power,TBT,27-Nov-2014,Facebook,tT06F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/736033919817289/?type=1,363593,5.56,136.0,.37,-.45,7.0,.02,-.34,13.0,.04,-.47,15.0,.04,-.42,.0,-.33,.0,-0.72
+ISR archive pic,GWII,3-Nov-2014,Google+,tG03Ga,https://plus.google.com/+CERN/posts/gxydFCou9Rf,107000,5.03,29.0,.27,-.68,.0,.00,-.53,1.0,.01,-.45,19.0,.18,-.43,15.0,.27,16.0,1.96
+SPS Tank,TBT,11-Dec-2014,Facebook,tT08F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/743005672453447/?type=1,368169,5.57,268.0,.73,-.26,5.0,.01,-.37,17.0,.05,-.44,35.0,.10,-.31,7.0,-.17,3.0,-0.26
+ALICE,Wow,21-Oct-2014,Facebook,tW01F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/718132241607457/?type=1,344282,5.54,646.0,1.88,.36,28.0,.08,.02,114.0,.33,.45,60.0,.17,-.16,12.0,-.06,5.0,0.05
+ATLAS,Wow,28-Oct-2014,Facebook,tW02F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/721312917956056/?type=1,347931,5.54,482.0,1.39,.09,8.0,.02,-.32,64.0,.18,-.01,40.0,.11,-.27,.0,-.33,.0,-0.72
+CMS,Wow,4-Nov-2014,Facebook,tW03F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724783237609024/?type=1,351021,5.55,441.0,1.26,.02,14.0,.04,-.22,72.0,.21,.06,36.0,.10,-.30,.0,-.33,.0,-0.72
+LHCb,Wow,11-Nov-2014,Facebook,tW04F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/728261963927818/?type=1,353910,5.55,85.0,.24,-.52,6.0,.02,-.35,10.0,.03,-.49,5.0,.01,-.47,.0,-.33,.0,-0.72
+RF,Wow,18-Nov-2014,Facebook,tW05Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/731535586933789/?type=1,358628,5.55,340.0,.95,-.14,6.0,.02,-.35,41.0,.11,-.23,41.0,.11,-.27,24.0,.21,10.0,0.81
+RF,Wow,18-Nov-2014,Facebook,tW05Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/731535586933789/?type=1,358628,5.55,,,,,,,,,,89.0,.25,-.01,12.0,-.06,2.0,-0.41
+TOTEM,Wow,25-Nov-2014,Facebook,tW06F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/735112473242767/?type=1,362921,5.56,385.0,1.06,-.08,8.0,.02,-.32,39.0,.11,-.25,68.0,.19,-.13,.0,-.33,3.0,-0.26
+ISR archive pic,GWII,3-Nov-2014,Google+,tG03Gb,https://plus.google.com/+CERN/posts/gxydFCou9Rf,107000,5.03,,,,,,,,,,25.0,.23,-.42,52.0,2.10,8.0,0.71
+Splash,Wow,9-Dec-2014,Facebook,tW08F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/741844665902881/?type=1,367671,5.57,470.0,1.28,.04,5.0,.01,-.37,37.0,.10,-.27,66.0,.18,-.15,29.0,.33,4.0,-0.10
+Fabiola,News,4-Nov-2014,Facebook,tN09F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/724697100950971/?type=1,351021,5.55,1971.0,5.62,2.37,175.0,.50,2.41,375.0,1.07,2.75,354.0,1.01,1.46,17.0,.05,4.0,-0.10
+LHC model,GWII,27-Oct-2014,Google+,tG02Ga,https://plus.google.com/+CERN/posts/XuTiH6svX9K,106000,5.03,67.0,.63,-.61,.0,.00,-.53,5.0,.05,-.43,16.0,.15,-.44,.0,-.47,.0,-0.55
+LHC model,GWII,27-Oct-2014,Google+,tG02Gb,https://plus.google.com/+CERN/posts/XuTiH6svX9K,106000,5.03,,,,,,,,,,8.0,.08,-.47,.0,-.47,.0,-0.55
+Fabiola,News,4-Nov-2014,Twitter,tN09T,https://twitter.com/CERN/status/529613712202940416,1040000,6.02,465.0,.45,2.60,38.0,.04,2.89,854.0,.82,3.07,594.0,.57,1.79,17.0,.83,4.0,0.22
+Fabiola,News,4-Nov-2014,Tw Frenc,tN09Tw,https://twitter.com/CERN_FR/status/529632188846067713,12300,4.09,12.0,.98,3.87,3.0,.24,4.28,26.0,2.11,3.84,37.0,3.01,3.04,1.0,-.72,8.0,-0.22
+CMS Cristal-ise,GWII,10-Nov-2014,Google+,tG04G,https://plus.google.com/+CERN/posts/8FXWEhtVBPa,108000,5.03,67.0,.62,-.61,5.0,.05,-.42,6.0,.06,-.42,17.0,.16,-.44,.0,-.47,.0,-0.55
+ASACUSA,GWII,17-Nov-2014,Google+,tG05G,https://plus.google.com/+CERN/posts/FuGvGRYbYaU,108000,5.03,101.0,.94,-.56,6.0,.06,-.40,14.0,.13,-.38,14.0,.13,-.45,.0,-.47,.0,-0.55
+Octopus,GWII,24-Nov-2014,Google+,tG06Ga,https://plus.google.com/+CERN/posts/26asSEdwqUM,12500,4.10,87.0,6.96,.53,3.0,.24,.03,10.0,.80,.02,11.0,.88,-.20,.0,-.47,.0,-0.55
+Octopus,GWII,24-Nov-2014,Google+,tG06Gb,https://plus.google.com/+CERN/posts/26asSEdwqUM,12500,4.10,,,,,,,,,,10.0,.80,-.23,.0,-.47,.0,-0.55
+CMS,Wow,4-Nov-2014,Instagra,tW03I,http://instagram.com/p/u_E2G-qDdS/?modal=true,497,2.70,142.0,285.71,2.49,2.0,4.02,-.11,,,,,,,,,,
+Pipes,GWII,1-Dec-2014,Google+,tG07Gb,https://plus.google.com/+CERN/posts/dmqmCVU553W,12500,4.10,,,,,,,,,,2.0,.16,-.44,.0,-.47,.0,-0.55
+ATLAS clean,GWII,8-Dec-2014,Google+,tG08G,https://plus.google.com/+CERN/posts/Kzp71sYckL2,12600,4.10,82.0,6.51,.45,5.0,.40,.40,8.0,.63,-.07,45.0,3.57,.71,.0,-.47,.0,-0.55
+Collisioneur,News,17-Oct-2014,Google+,tN01G,https://plus.google.com/106123073424280939934/posts/H5gjqbzZLLX,105000,5.02,75.0,.71,-.60,.0,.00,-.53,22.0,.21,-.33,51.0,.49,-.33,15.0,.27,8.0,0.71
+UN event,News,20-Oct-2014,Google+,tN02G,https://plus.google.com/106123073424280939934/posts/RuAU5XMqHYs,105000,5.02,32.0,.30,-.67,.0,.00,-.53,10.0,.10,-.40,13.0,.12,-.45,.0,-.47,.0,-0.55
+CERN60 vid,News,21-Oct-2014,Google+,tN03G,https://plus.google.com/106123073424280939934/posts/JAV1G5rP3Fb,105000,5.02,55.0,.52,-.63,3.0,.03,-.47,10.0,.10,-.40,41.0,.39,-.36,11.0,.08,7.0,0.55
+IceCube VV,News,23-Oct-2014,Google+,tN04G,https://plus.google.com/+CERN/posts/9HynDEB5vVz,106000,5.03,122.0,1.15,-.52,2.0,.02,-.49,11.0,.10,-.39,37.0,.35,-.38,.0,-.47,.0,-0.55
+Nov Courier,News,28-Oct-2014,Google+,tN05Ga,https://plus.google.com/+CERN/posts/GrgcCHguX8d,106000,5.03,64.0,.60,-.62,.0,.00,-.53,9.0,.08,-.40,22.0,.21,-.42,.0,-.47,.0,-0.55
+Nov Courier,News,28-Oct-2014,Google+,tN05Gb,https://plus.google.com/+CERN/posts/GrgcCHguX8d,106000,5.03,,,,,,,,,,17.0,.16,-.44,.0,-.47,.0,-0.55
+TEDx videos,News,29-Oct-2014,Google+,tN06G,https://plus.google.com/+CERN/posts/dPMY4keKvhR,106000,5.03,44.0,.42,-.65,.0,.00,-.53,6.0,.06,-.42,35.0,.33,-.38,.0,-.47,.0,-0.55
+LHChamber,News,30-Oct-2014,Google+,tN07G,https://plus.google.com/+CERN/posts/K1Xm1eRscZK,106000,5.03,102.0,.96,-.55,15.0,.14,-.20,27.0,.25,-.30,138.0,1.30,-.06,13.0,.17,6.0,0.39
+Halloween,News,31-Oct-2014,Google+,tN08G,https://plus.google.com/+CERN/posts/KnqaaN9DFZ4,107000,5.03,60.0,.56,-.62,10.0,.09,-.31,4.0,.04,-.43,56.0,.52,-.32,22.0,.62,11.0,1.18
+Fabiola,News,4-Nov-2014,Google+,tN09G,https://plus.google.com/+CERN/posts/MHiRaan8DLm,107000,5.03,297.0,2.78,-.22,14.0,.13,-.22,65.0,.61,-.09,51.0,.48,-.33,33.0,1.16,8.0,0.71
+BellDay,News,4-Nov-2014,Google+,tN10G,https://plus.google.com/+CERN/posts/9aD49DZZNVz,107000,5.03,177.0,1.65,-.43,.0,.00,-.53,25.0,.23,-.31,39.0,.36,-.37,7.0,-.12,3.0,-0.08
+John Bell art,News,7-Nov-2014,Google+,tN12G,https://plus.google.com/+CERN/posts/FerzEqCL14D,107000,5.03,26.0,.24,-.68,2.0,.02,-.49,4.0,.04,-.43,42.0,.39,-.36,.0,-.47,.0,-0.55
+bl4s,News,17-Nov-2014,Google+,tN13Ga,https://plus.google.com/+CERN/posts/AnAtPusfJZx,108000,5.03,39.0,.36,-.66,.0,.00,-.53,7.0,.06,-.42,28.0,.26,-.41,.0,-.47,.0,-0.55
+bl4s,News,17-Nov-2014,Google+,tN13Gb,https://plus.google.com/+CERN/posts/AnAtPusfJZx,108000,5.03,,,,,,,,,,13.0,.12,-.45,.0,-.47,.0,-0.55
+The Port,News,18-Nov-2014,Google+,tN14G,https://plus.google.com/+CERN/posts/KqxcKpbEezP,12500,4.10,37.0,2.96,-.19,.0,.00,-.53,5.0,.40,-.22,8.0,.64,-.28,.0,-.47,.0,-0.55
+CMS,Wow,4-Nov-2014,Twitter,tW03T,https://twitter.com/CERN/status/529677735690776576,1040000,6.02,252.0,.24,.99,14.0,.01,.59,270.0,.26,.49,236.0,.23,.06,28.0,2.01,3.0,-0.29
+Beam tests,News,25-Nov-2014,Google+,tN16G,https://plus.google.com/+CERN/posts/Z8ELmiAyyEq,12500,4.10,100.0,8.00,.72,11.0,.88,1.54,13.0,1.04,.17,41.0,3.28,.61,22.0,.62,7.0,0.55
+bl4s,News,27-Nov-2014,Google+,tN17Ga,https://plus.google.com/+CERN/posts/USaYo3inALM,12500,4.10,58.0,4.64,.11,1.0,.08,-.34,10.0,.80,.02,9.0,.72,-.25,.0,-.47,.0,-0.55
+bl4s,News,27-Nov-2014,Google+,tN17Gb,https://plus.google.com/+CERN/posts/USaYo3inALM,12500,4.10,,,,,,,,,,3.0,.24,-.41,.0,-.47,.0,-0.55
+Dec Courier,News,27-Nov-2014,Google+,tN18Ga,https://plus.google.com/+CERN/posts/HiRQdqtRX8h,12500,4.10,76.0,6.08,.37,.0,.00,-.53,16.0,1.28,.31,26.0,2.08,.20,.0,-.47,.0,-0.55
+Dec Courier,News,27-Nov-2014,Google+,tN18Gb,https://plus.google.com/+CERN/posts/HiRQdqtRX8h,12500,4.10,,,,,,,,,,35.0,2.80,.45,25.0,.77,3.0,-0.08
+bl4s,News,2-Dec-2014,Google+,tN19Ga,https://plus.google.com/+CERN/posts/TCg3hRgipZD,12500,4.10,19.0,1.52,-.45,.0,.00,-.53,3.0,.24,-.31,4.0,.32,-.39,.0,-.47,.0,-0.55
+bl4s,News,2-Dec-2014,Google+,tN19Gb,https://plus.google.com/+CERN/posts/TCg3hRgipZD,12500,4.10,,,,,,,,,,20.0,1.60,.04,14.0,.22,10.0,1.02
+CMS,Wow,4-Nov-2014,Tw Frenc,tW03Tw,https://twitter.com/CERN_FR/status/529680629949296640,12300,4.09,4.0,.33,.60,2.0,.16,2.74,6.0,.49,.04,10.0,.81,-.17,14.0,-.44,10.0,-0.07
+bl4s,News,4-Dec-2014,Google+,tN20Gb,https://plus.google.com/+CERN/posts/aMPFMjreBpk,12600,4.10,,,,,,,,,,14.0,1.11,-.12,12.0,.13,14.0,1.65
+Ribbon,News,8-Dec-2014,Google+,tN21G,https://plus.google.com/+CERN/posts/evUGoG9AgAf,12600,4.10,164.0,13.02,1.62,8.0,.63,.96,30.0,2.38,.97,39.0,3.10,.55,1.0,-.42,2.0,-0.24
+Control rooms,TBT,13-Nov-2014,Tw Frenc,tT04Tw,https://twitter.com/CERN_FR/status/532931753267453953,12400,4.09,2.0,.16,-.22,.0,.00,-.34,7.0,.56,.22,13.0,1.05,.18,139.0,2.25,8.0,-0.22
+bl4s (N13),News,17-Nov-2014,Twitter,tN13Ta,https://twitter.com/CERN/status/534347170825404416,1050000,6.02,50.0,.05,-.54,1.0,.00,-.65,85.0,.08,-.33,152.0,.14,-.35,15.0,.61,8.0,2.29
+PS bubble,TBT,23-Oct-2014,Google+,tT01G,https://plus.google.com/+CERN/posts/BSZmh8DEsHW,106000,5.03,69.0,.65,-.61,3.0,.03,-.47,8.0,.08,-.41,10.0,.09,-.46,.0,-.47,.0,-0.55
+Wire-weaving,TBT,30-Oct-2014,Google+,tT02G,https://plus.google.com/+CERN/posts/UKVQompnPth,106000,5.03,73.0,.69,-.60,.0,.00,-.53,10.0,.09,-.40,17.0,.16,-.44,7.0,-.12,6.0,0.39
+BEBC pipe,TBT,6-Nov-2014,Google+,tT03G,https://plus.google.com/+CERN/posts/78FuLbWM4WZ,107000,5.03,47.0,.44,-.65,14.0,.13,-.22,.0,.00,-.46,59.0,.55,-.31,2.0,-.37,5.0,0.24
+Control rooms,TBT,13-Nov-2014,Google+,tT04G,https://plus.google.com/+CERN/posts/bQY77fWGTRE,108000,5.03,88.0,.81,-.58,.0,.00,-.53,10.0,.09,-.40,12.0,.11,-.46,.0,-.47,.0,-0.55
+1st computer,TBT,20-Nov-2014,Google+,tT05Ga,https://plus.google.com/+CERN/posts/aLyew83k6Y2,12500,4.10,61.0,4.88,.16,3.0,.24,.03,8.0,.64,-.07,11.0,.88,-.20,.0,-.47,.0,-0.55
+1st computer,TBT,20-Nov-2014,Google+,tT05Gb,https://plus.google.com/+CERN/posts/aLyew83k6Y2,12500,4.10,,,,,,,,,,10.0,.80,-.23,.0,-.47,.0,-0.55
+Power,TBT,27-Nov-2014,Google+,tT06G,https://plus.google.com/+CERN/posts/N4Xgq4ywbVD,12500,4.10,37.0,2.96,-.19,.0,.00,-.53,1.0,.08,-.41,18.0,1.44,-.01,3.0,-.32,6.0,0.39
+Courier reminisce,TBT,4-Dec-2014,Google+,tT07G,https://plus.google.com/+CERN/posts/97w3kfgctkt,12600,4.10,46.0,3.65,-.07,.0,.00,-.53,4.0,.32,-.26,4.0,.32,-.39,.0,-.47,.0,-0.55
+SPS Tank,TBT,11-Dec-2014,Google+,tT08G,https://plus.google.com/+CERN/posts/7y4tyQyiSmj,12600,4.10,96.0,7.62,.65,3.0,.24,.03,7.0,.56,-.12,20.0,1.59,.04,.0,-.47,.0,-0.55
+ALICE,Wow,21-Oct-2014,Google+,tW01G,https://plus.google.com/106123073424280939934/posts/DvQryTcMFdh,105000,5.02,179.0,1.70,-.42,3.0,.03,-.47,30.0,.29,-.28,32.0,.30,-.39,.0,-.47,.0,-0.55
+ATLAS,Wow,28-Oct-2014,Google+,tW02G,https://plus.google.com/+CERN/posts/Ztskr4Qay1e,106000,5.03,168.0,1.58,-.44,5.0,.05,-.42,31.0,.29,-.28,44.0,.42,-.35,6.0,-.17,2.0,-0.24
+CMS,Wow,4-Nov-2014,Google+,tW03G,https://plus.google.com/+CERN/posts/gjD236rNWio,107000,5.03,192.0,1.79,-.40,10.0,.09,-.31,29.0,.27,-.29,46.0,.43,-.35,.0,-.47,.0,-0.55
+LHCb,Wow,11-Nov-2014,Google+,tW04G,https://plus.google.com/+CERN/posts/GLX8sdQ7KFe,108000,5.03,116.0,1.07,-.53,4.0,.04,-.45,10.0,.09,-.40,15.0,.14,-.45,4.0,-.27,7.0,0.55
+RF,Wow,18-Nov-2014,Google+,tW05Ga,https://plus.google.com/+CERN/posts/6Fk2C4jXqqU,12500,4.10,106.0,8.48,.81,4.0,.32,.22,12.0,.96,.12,37.0,2.96,.50,.0,-.47,.0,-0.55
+RF,Wow,18-Nov-2014,Google+,tW05Gb,https://plus.google.com/+CERN/posts/6Fk2C4jXqqU,12500,4.10,,,,,,,,,,29.0,2.32,.29,.0,-.47,.0,-0.55
+TOTEM,Wow,25-Nov-2014,Google+,tW06G,https://plus.google.com/+CERN/posts/PCETQsJEpUX,12500,4.10,92.0,7.36,.60,3.0,.24,.03,14.0,1.12,.22,32.0,2.56,.37,1.0,-.42,3.0,-0.08
+RF,Wow,18-Nov-2014,Tw Frenc,tW05Twa,https://twitter.com/CERN_FR/status/534739673730387968,12500,4.10,4.0,.32,.58,2.0,.16,2.69,6.0,.48,.02,11.0,.88,-.07,.0,-.75,.0,-0.84
+Splash,Wow,9-Dec-2014,Google+,tW08G,https://plus.google.com/+CERN/posts/1xQjwdcMgqG,12600,4.10,72.0,5.71,.31,3.0,.24,.03,7.0,.56,-.12,32.0,2.54,.36,.0,-.47,.0,-0.55
+Archive pics,GWII,20-Oct-2014,Instagra,tG01I,http://instagram.com/p/uaUOeRqDWt/?modal=true,266,2.42,53.0,199.25,.91,4.0,15.04,1.92,,,,,,,,,,
+LHC model,GWII,27-Oct-2014,Instagra,tG02I,http://instagram.com/p/uqh4XpKDdA/?modal=true,393,2.59,94.0,239.19,1.64,2.0,5.09,.09,,,,,,,,,,
+ISR archive pic,GWII,3-Nov-2014,Instagra,tG03Ia,http://instagram.com/p/u7qrf4KDSk/?modal=true,497,2.70,62.0,124.75,-.46,.0,.00,-.85,,,,,,,,,,
+CMS Cristal-ise,GWII,10-Nov-2014,Instagra,tG04I,http://instagram.com/p/vORJCuqDbG/?modal=true,644,2.81,101.0,156.83,.13,3.0,4.66,.01,,,,,,,,,,
+ASACUSA,GWII,17-Nov-2014,Instagra,tG05I,http://instagram.com/p/vhBpbxqDfD/?modal=true,858,2.93,120.0,139.86,-.18,6.0,6.99,.44,,,,,,,,,,
+Octopus,GWII,24-Nov-2014,Instagra,tG06Ia,http://instagram.com/p/vyTjc8qDda/?modal=true,994,3.00,109.0,109.66,-.73,1.0,1.01,-.67,,,,,,,,,,
+Pipes,GWII,1-Dec-2014,Instagra,tG07Ia,http://instagram.com/p/wFJbVSKDVJ/?modal=true,1160,3.06,148.0,127.59,-.40,3.0,2.59,-.38,,,,,,,,,,
+ATLAS clean,GWII,8-Dec-2014,Instagra,tG08I,http://instagram.com/p/wWSrMnKDVQ/?modal=true,1290,3.11,176.0,136.43,-.24,3.0,2.33,-.42,,,,,,,,,,
+Halloween,News,31-Oct-2014,Instagra,tN08I,http://instagram.com/p/u0hUHyKDaJ/?modal=true,475,2.68,55.0,115.79,-.62,.0,.00,-.85,,,,,,,,,,
+Fabiola,News,4-Nov-2014,Instagra,tN09I,http://instagram.com/p/u7qrf4KDSk/?modal=true,497,2.70,112.0,225.35,1.39,6.0,12.07,1.38,,,,,,,,,,
+bl4s,News,17-Nov-2014,Instagra,tN13I,http://instagram.com/p/vhBpbxqDfD/?modal=true,858,2.93,114.0,132.87,-.31,2.0,2.33,-.42,,,,,,,,,,
+The Port,News,18-Nov-2014,Instagra,tN14I,http://instagram.com/p/vi8G84KDdt/?modal=true,882,2.95,90.0,102.04,-.87,2.0,2.27,-.44,,,,,,,,,,
+Open Data,News,20-Nov-2014,Instagra,tN15I,http://instagram.com/p/voJZH9qDQR/?modal=true,942,2.97,134.0,142.25,-.14,2.0,2.12,-.46,,,,,,,,,,
+Beam tests,News,25-Nov-2014,Instagra,tN16I,http://instagram.com/p/v1ocBkKDR9/?modal=true,1060,3.03,101.0,95.28,-.99,4.0,3.77,-.16,,,,,,,,,,
+Ribbon,News,8-Dec-2014,Instagra,tN21I,http://instagram.com/p/wY9Aq5qDUd/?modal=true,1290,3.11,177.0,137.21,-.23,5.0,3.88,-.14,,,,,,,,,,
+IdeaSquare,News,9-Dec-2014,Instagra,tN22I,http://instagram.com/p/wZkWNQqDSx/?modal=true,1290,3.11,130.0,100.78,-.89,3.0,2.33,-.42,,,,,,,,,,
+PS bubble,TBT,23-Oct-2014,Instagra,tT01I,http://instagram.com/p/uffPmgqDcX/?modal=true,326,2.51,64.0,196.32,.85,1.0,3.07,-.29,,,,,,,,,,
+Wire-weaving,TBT,30-Oct-2014,Instagra,tT02I,http://instagram.com/p/uxpQPcKDW0/?modal=true,464,2.67,65.0,140.09,-.17,2.0,4.31,-.06,,,,,,,,,,
+BEBC pipe,TBT,6-Nov-2014,Instagra,tT03I,http://instagram.com/p/vEGrJ6KDXr/?modal=true,543,2.73,56.0,103.13,-.85,.0,.00,-.85,,,,,,,,,,
+Control rooms,TBT,13-Nov-2014,Instagra,tT04I,http://instagram.com/p/vWJXNkKDYG/?modal=true,779,2.89,99.0,127.09,-.41,5.0,6.42,.33,,,,,,,,,,
+1st computer,TBT,20-Nov-2014,Instagra,tT05Ia,http://instagram.com/p/voSb2ZKDZo/?modal=true,942,2.97,96.0,101.91,-.87,6.0,6.37,.32,,,,,,,,,,
+Power,TBT,27-Nov-2014,Instagra,tT06I,http://instagram.com/p/v6aHsaKDa7/?modal=true,1060,3.03,123.0,116.04,-.61,.0,.00,-.85,,,,,,,,,,
+Courier reminisce,TBT,4-Dec-2014,Instagra,tT07I,http://instagram.com/p/wMpSXTKDUk/?modal=true,1190,3.08,99.0,83.19,-1.22,1.0,.84,-.70,,,,,,,,,,
+SPS Tank,TBT,11-Dec-2014,Instagra,tT08I,http://instagram.com/p/wes5w2qDSO/?modal=true,1290,3.11,162.0,125.58,-.44,4.0,3.10,-.28,,,,,,,,,,
+Open Data,News,20-Nov-2014,Facebook,tN15F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/732607893493225/?type=1,360872,5.56,1177.0,3.26,1.10,132.0,.37,1.65,354.0,.98,2.47,1032.0,2.86,5.05,10.0,-.10,3.0,-0.26
+ATLAS,Wow,28-Oct-2014,Instagra,tW02I,http://instagram.com/p/usW4iEKDe3/?modal=true,411,2.61,97.0,236.01,1.58,1.0,2.43,-.40,,,,,,,,,,
+Open Data,News,20-Nov-2014,Google+,tN15G,https://plus.google.com/+CERN/posts/ZVrdTnHqQZo,12500,4.10,255.0,20.40,2.96,16.0,1.28,2.48,105.0,8.40,4.58,207.0,16.56,5.07,17.0,.37,5.0,0.24
+LHCb,Wow,11-Nov-2014,Instagra,tW04I,http://instagram.com/p/vQ1tnNqDYU/?modal=true,708,2.85,81.0,114.41,-.64,1.0,1.41,-.59,,,,,,,,,,
+RF,Wow,18-Nov-2014,Instagra,tW05Ia,http://instagram.com/p/vjB0wcKDel/?modal=true,882,2.95,118.0,133.79,-.29,3.0,3.40,-.23,,,,,,,,,,
+TOTEM,Wow,25-Nov-2014,Instagra,tW06I,http://instagram.com/p/v1iTr7qDcb/?modal=true,1060,3.03,145.0,136.79,-.23,1.0,.94,-.68,,,,,,,,,,
+Open Data,News,20-Nov-2014,Twitter,tN15T,https://twitter.com/CERN/status/535443404755566592,1050000,6.02,438.0,.42,2.36,20.0,.02,1.15,746.0,.71,2.56,976.0,.93,3.59,20.0,1.15,7.0,1.77
+Splash,Wow,9-Dec-2014,Instagra,tW08I,http://instagram.com/p/wZhKyJqDcq/?modal=true,1290,3.11,159.0,123.26,-.48,5.0,3.88,-.14,,,,,,,,,,
+Archive pics,GWII,20-Oct-2014,Tw Frenc,tG01Tw,https://twitter.com/CERN_FR/status/524186977617195010,12200,4.09,1.0,.08,-.62,.0,.00,-.34,6.0,.49,.05,10.0,.82,-.16,114.0,1.71,10.0,-0.07
+LHC model,GWII,27-Oct-2014,Tw Frenc,tG02Tw,https://twitter.com/CERN_FR/status/526792021491871746,12300,4.09,4.0,.33,.60,.0,.00,-.34,5.0,.41,-.15,11.0,.89,-.05,23.0,-.25,9.0,-0.15
+ISR archive pic,GWII,3-Nov-2014,Tw Frenc,tG03Twa,https://twitter.com/CERN_FR/status/529225761287200768,12300,4.09,1.0,.08,-.62,.0,.00,-.34,3.0,.24,-.53,10.0,.81,-.17,34.0,-.01,10.0,-0.07
+ISR archive pic,GWII,3-Nov-2014,Tw Frenc,tG03Twb,https://twitter.com/CERN_FR/status/529225761287200768,12300,4.09,,,,,,,,,,13.0,1.06,.19,30.0,-.10,15.0,0.31
+CMS Cristal-ise,GWII,10-Nov-2014,Tw Frenc,tG04Tw,https://twitter.com/CERN_FR/status/531827994458066944,12400,4.09,2.0,.16,-.22,.0,.00,-.34,4.0,.32,-.35,11.0,.89,-.06,.0,-.75,.0,-0.84
+ASACUSA,GWII,18-Nov-2014,Tw Frenc,tG05Tw,https://twitter.com/CERN_FR/status/534622665110462464,12500,4.10,1.0,.08,-.63,.0,.00,-.34,14.0,1.12,1.52,20.0,1.60,.98,8.0,-.57,15.0,0.31
+Open Data,News,20-Nov-2014,Tw Frenc,tN15Tw,https://twitter.com/CERN_FR/status/535453695270739968,12500,4.10,9.0,.72,2.58,.0,.00,-.34,11.0,.88,.96,37.0,2.96,2.97,67.0,.70,19.0,0.62
+Octopus,GWII,24-Nov-2014,Tw Frenc,tG06Twb,https://twitter.com/CERN_FR/status/536899295388372992,12500,4.10,,,,,,,,,,12.0,.96,.05,28.0,-.14,17.0,0.47
+1st computer,TBT,20-Nov-2014,Facebook,tT05Fb,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/732647460155935/?type=1,360872,5.56,,,,,,,,,,12.0,.03,-.43,340.0,7.36,17.0,1.88
+1st computer,TBT,20-Nov-2014,Twitter,tT05Tb,https://twitter.com/CERN/status/535472329204457473,1050000,6.02,,,,,,,,,,81.0,.08,-.69,39.0,3.19,6.0,1.25
+Octopus,GWII,24-Nov-2014,Tw Frenc,tG06Twa,https://twitter.com/CERN_FR/status/536899295388372992,12500,4.10,3.0,.24,.18,.0,.00,-.34,3.0,.24,-.54,4.0,.32,-.89,131.0,2.08,75.0,4.94
+Collisioneur,News,17-Oct-2014,Tw Frenc,tN01Tw,https://twitter.com/CERN_FR/status/523112356038344704,12200,4.09,3.0,.25,.21,.0,.00,-.34,7.0,.57,.24,13.0,1.07,.20,13.0,-.47,8.0,-0.22
+UN event,News,20-Oct-2014,Tw Frenc,tN02Tw,https://twitter.com/CERN_FR/status/524166304291618816,12200,4.09,1.0,.08,-.62,.0,.00,-.34,3.0,.25,-.53,4.0,.33,-.87,.0,-.75,.0,-0.84
+CERN60 vid,News,21-Oct-2014,Tw Frenc,tN03Tw,https://twitter.com/CERN_FR/status/524590200669077504,12200,4.09,2.0,.16,-.20,.0,.00,-.34,1.0,.08,-.91,6.0,.49,-.64,5.0,-.64,17.0,0.47
+IceCube VV,News,23-Oct-2014,Tw Frenc,tN04Tw,https://twitter.com/CERN_FR/status/525223609602932737,12200,4.09,2.0,.16,-.20,.0,.00,-.34,3.0,.25,-.53,14.0,1.15,.32,7.0,-.60,7.0,-0.30
+Nov Courier,News,28-Oct-2014,Tw Frenc,tN05Twa,https://twitter.com/CERN_FR/status/527041789187067904,12300,4.09,1.0,.08,-.62,.0,.00,-.34,1.0,.08,-.91,5.0,.41,-.76,.0,-.75,.0,-0.84
+Nov Courier,News,28-Oct-2014,Tw Frenc,tN05Twb,https://twitter.com/CERN_FR/status/527041789187067904,12300,4.09,,,,,,,,,,2.0,.16,-1.12,.0,-.75,.0,-0.84
+TEDx videos,News,4-Nov-2014,Tw Frenc,tN06Tw,https://twitter.com/CERN_FR/status/529680022982770688,12300,4.09,6.0,.49,1.42,.0,.00,-.34,.0,.00,-1.10,8.0,.65,-.40,.0,-.75,.0,-0.84
+LHChamber,News,30-Oct-2014,Tw Frenc,tN07Tw,https://twitter.com/CERN_FR/status/527847496228544512,12300,4.09,1.0,.08,-.62,.0,.00,-.34,5.0,.41,-.15,16.0,1.30,.55,.0,-.75,.0,-0.84
+Halloween,News,31-Oct-2014,Tw Frenc,tN08Tw,https://twitter.com/CERN_FR/status/528202503389982720,12300,4.09,1.0,.08,-.62,.0,.00,-.34,5.0,.41,-.15,8.0,.65,-.40,73.0,.83,25.0,1.09
+TOTEM,Wow,25-Nov-2014,Tw Frenc,tW06Tw,https://twitter.com/CERN_FR/status/537513558847016960,12500,4.10,5.0,.40,.98,.0,.00,-.34,10.0,.80,.77,33.0,2.64,2.50,1.0,-.72,3.0,-0.61
+BellDay,News,5-Nov-2014,Tw Frenc,tN10Tw,https://twitter.com/CERN_FR/status/529927181661904896,12300,4.09,2.0,.16,-.21,.0,.00,-.34,12.0,.98,1.18,25.0,2.03,1.62,81.0,1.00,20.0,0.70
+Particle Fever,News,5-Nov-2014,Tw Frenc,tN11Tw,https://twitter.com/CERN_FR/status/529900638562680832,12300,4.09,2.0,.16,-.21,.0,.00,-.34,16.0,1.30,1.94,22.0,1.79,1.26,.0,-.75,.0,-0.84
+bl4s,News,18-Nov-2014,Tw Frenc,tN13Twa,https://twitter.com/CERN_FR/status/534711458324832256,12500,4.10,.0,.00,-1.03,.0,.00,-.34,1.0,.08,-.91,3.0,.24,-1.00,52.0,.37,33.0,1.70
+bl4s,News,18-Nov-2014,Tw Frenc,tN13Twb,https://twitter.com/CERN_FR/status/534711458324832256,12500,4.10,,,,,,,,,,3.0,.24,-1.00,47.0,.27,33.0,1.70
+The Port,News,18-Nov-2014,Tw Frenc,tN14Tw,https://twitter.com/CERN_FR/status/534723617930899456,12500,4.10,5.0,.40,.98,.0,.00,-.34,2.0,.16,-.73,5.0,.40,-.77,39.0,.09,20.0,0.70
+bl4s (N17),News,27-Nov-2014,Facebook,tN17Fa,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/735949836492364/?type=1,363593,5.56,191.0,.53,-.37,3.0,.01,-.40,28.0,.08,-.34,18.0,.05,-.40,21.0,.14,39.0,5.25
+Dec Courier,News,28-Nov-2014,Tw Frenc,tN18Twa,https://twitter.com/CERN_FR/status/538367054815199233,12500,4.10,2.0,.16,-.22,.0,.00,-.34,7.0,.56,.21,22.0,1.76,1.22,16.0,-.40,14.0,0.24
+Dec Courier,News,28-Nov-2014,Tw Frenc,tN18Twb,https://twitter.com/CERN_FR/status/538367054815199233,12500,4.10,,,,,,,,,,3.0,.24,-1.00,.0,-.75,.0,-0.84
+IdeaSquare,News,9-Dec-2014,Tw Frenc,tN22Tw,https://twitter.com/CERN_FR/status/542343685543718913,12600,4.10,.0,.00,-1.03,.0,.00,-.34,1.0,.08,-.92,8.0,.63,-.43,83.0,1.04,12.0,0.08
+Magnets,News,9-Dec-2014,Tw Frenc,tN23Tw,https://twitter.com/CERN_FR/status/542351617459511296,12600,4.10,3.0,.24,.17,.0,.00,-.34,5.0,.40,-.17,11.0,.87,-.08,.0,-.75,.0,-0.84
+PS bubble,TBT,23-Oct-2014,Tw Frenc,tT01Tw,https://twitter.com/CERN_FR/status/525264607716585474,12200,4.09,2.0,.16,-.20,.0,.00,-.34,6.0,.49,.05,1.0,.08,-1.23,.0,-.75,.0,-0.84
+Wire-weaving,TBT,30-Oct-2014,Tw Frenc,tT02Tw,https://twitter.com/CERN_FR/status/527819174698299392,12300,4.09,1.0,.08,-.62,.0,.00,-.34,4.0,.33,-.34,7.0,.57,-.52,24.0,-.23,14.0,0.24
+BEBC pipe,TBT,6-Nov-2014,Tw Frenc,tT03Tw,https://twitter.com/CERN_FR/status/530387398338048000,12300,4.09,.0,.00,-1.03,1.0,.08,1.20,1.0,.08,-.91,8.0,.65,-.40,.0,-.75,.0,-0.84
+Pipes,GWII,1-Dec-2014,Google+,tG07Ga,https://plus.google.com/+CERN/posts/dmqmCVU553W,12500,4.10,83.0,6.64,.47,24.0,1.92,3.98,8.0,.64,-.07,13.0,1.04,-.14,.0,-.47,.0,-0.55
+1st computer,TBT,20-Nov-2014,Tw Frenc,tT05Twa,https://twitter.com/CERN_FR/status/535473357907845120,12500,4.10,2.0,.16,-.22,.0,.00,-.34,6.0,.48,.02,6.0,.48,-.65,.0,-.75,.0,-0.84
+1st computer,TBT,20-Nov-2014,Tw Frenc,tT05Twb,https://twitter.com/CERN_FR/status/535473357907845120,12500,4.10,,,,,,,,,,7.0,.56,-.54,.0,-.75,.0,-0.84
+Power,TBT,28-Nov-2014,Tw Frenc,tT06Tw,https://twitter.com/CERN_FR/status/538368773926162432,12500,4.10,2.0,.16,-.22,.0,.00,-.34,8.0,.64,.40,11.0,.88,-.07,33.0,-.04,9.0,-0.15
+Courier reminisce,TBT,4-Dec-2014,Tw Frenc,tT07Tw,https://twitter.com/CERN_FR/status/540544085811933184,12600,4.10,.0,.00,-1.03,1.0,.08,1.17,.0,.00,-1.10,4.0,.32,-.89,.0,-.75,.0,-0.84
+SPS Tank,TBT,11-Dec-2014,Tw Frenc,tT08Tw,https://twitter.com/CERN_FR/status/543085937425924097,12600,4.10,2.0,.16,-.23,.0,.00,-.34,3.0,.24,-.54,4.0,.32,-.89,.0,-.75,.0,-0.84
+ALICE,Wow,21-Oct-2014,Tw Frenc,tW01Tw,https://twitter.com/CERN_FR/status/524570140575531008,12200,4.09,2.0,.16,-.20,.0,.00,-.34,7.0,.57,.24,8.0,.66,-.40,10.0,-.53,12.0,0.08
+ATLAS,Wow,28-Oct-2014,Tw Frenc,tW02Tw,https://twitter.com/CERN_FR/status/527052669324509185,12300,4.09,3.0,.24,.20,.0,.00,-.34,5.0,.41,-.15,11.0,.89,-.05,97.0,1.34,9.0,-0.15
+Pipes,GWII,1-Dec-2014,Tw Frenc,tG07Twa,https://twitter.com/CERN_FR/status/539697703651790848,12500,4.10,.0,.00,-1.03,.0,.00,-.34,1.0,.08,-.91,12.0,.96,.05,147.0,2.42,8.0,-0.22
+LHCb,Wow,11-Nov-2014,Tw Frenc,tW04Tw,https://twitter.com/CERN_FR/status/532179822387429376,12400,4.09,2.0,.16,-.22,.0,.00,-.34,4.0,.32,-.35,7.0,.56,-.53,7.0,-.60,14.0,0.24
+Pipes,GWII,1-Dec-2014,Tw Frenc,tG07Twb,https://twitter.com/CERN_FR/status/539697703651790848,12500,4.10,,,,,,,,,,4.0,.32,-.89,140.0,2.27,25.0,1.09
+RF,Wow,18-Nov-2014,Tw Frenc,tW05Twb,https://twitter.com/CERN_FR/status/534739673730387968,12500,4.10,,,,,,,,,,22.0,1.76,1.22,3.0,-.68,5.0,-0.46
+Dishwasher,Wow,2-Dec-2014,Facebook,tW07F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/738521926235155/?type=1,365303,5.56,4480.0,12.26,5.95,402.0,1.10,5.87,676.0,1.85,5.18,995.0,2.72,4.78,7.0,-.17,2.0,-0.41
+Dishwasher,Wow,2-Dec-2014,Google+,tW07G,https://plus.google.com/+CERN/posts/LZEhXirAnGL,12500,4.10,352.0,28.16,4.36,14.0,1.12,2.10,98.0,7.84,4.25,193.0,15.44,4.69,11.0,.08,3.0,-0.08
+Splash,Wow,9-Dec-2014,Tw Frenc,tW08Tw,https://twitter.com/CERN_FR/status/542327922196221952,12600,4.10,2.0,.16,-.23,.0,.00,-.34,5.0,.40,-.17,7.0,.56,-.54,89.0,1.17,14.0,0.24
+Archive pics,GWII,20-Oct-2014,Twitter,tG01T,https://twitter.com/CERN/status/524184230356455424,1030000,6.01,131.0,.13,.08,5.0,.00,-.26,141.0,.14,-.07,339.0,.33,.58,4.0,-.57,3.0,-0.29
+LHC model,GWII,27-Oct-2014,Twitter,tG02T,https://twitter.com/CERN/status/526790571923603456,1040000,6.02,137.0,.13,.12,8.0,.01,.02,128.0,.12,-.14,216.0,.21,-.03,3.0,-.67,4.0,0.22
+ISR archive pic,GWII,3-Nov-2014,Twitter,tG03Ta,https://twitter.com/CERN/status/529225758816747520,1040000,6.02,40.0,.04,-.62,3.0,.00,-.46,38.0,.04,-.53,278.0,.27,.27,2.0,-.78,3.0,-0.29
+ISR archive pic,GWII,3-Nov-2014,Twitter,tG03Tb,https://twitter.com/CERN/status/529225758816747520,1040000,6.02,,,,,,,,,,333.0,.32,.53,3.0,-.67,3.0,-0.29
+CMS Cristal-ise,GWII,10-Nov-2014,Twitter,tG04T,https://twitter.com/CERN/status/531814375733354498,1040000,6.02,62.0,.06,-.45,1.0,.00,-.65,88.0,.08,-.31,187.0,.18,-.17,2.0,-.78,2.0,-0.81
+ASACUSA,GWII,17-Nov-2014,Twitter,tG05T,https://twitter.com/CERN/status/534456859588296706,1050000,6.02,179.0,.17,.42,8.0,.01,.01,200.0,.19,.17,430.0,.41,.98,12.0,.29,5.0,0.74
+Octopus,GWII,24-Nov-2014,Twitter,tG06Ta,https://twitter.com/CERN/status/536881911722172416,1050000,6.02,63.0,.06,-.45,3.0,.00,-.46,72.0,.07,-.39,105.0,.10,-.57,2.0,-.78,4.0,0.22
+Octopus,GWII,24-Nov-2014,Twitter,tG06Tb,https://twitter.com/CERN/status/536881911722172416,1050000,6.02,,,,,,,,,,145.0,.14,-.38,10.0,.08,3.0,-0.29
+Pipes,GWII,1-Dec-2014,Twitter,tG07Ta,https://twitter.com/CERN/status/539534229072535553,1060000,6.03,100.0,.09,-.18,14.0,.01,.57,88.0,.08,-.32,170.0,.16,-.27,16.0,.72,6.0,1.25
+Pipes,GWII,1-Dec-2014,Twitter,tG07Tb,https://twitter.com/CERN/status/539534229072535553,1060000,6.03,,,,,,,,,,173.0,.16,-.26,1.0,-.89,2.0,-0.81
+ATLAS clean,GWII,8-Dec-2014,Twitter,tG08T,https://twitter.com/CERN/status/541950167847829504,1060000,6.03,112.0,.11,-.09,7.0,.01,-.09,141.0,.13,-.09,154.0,.15,-.35,9.0,-.03,5.0,0.74
+Collisioneur,News,17-Oct-2014,Twitter,tN01T,https://twitter.com/CERN/status/523106669996568576,1030000,6.01,66.0,.06,-.41,10.0,.01,.22,116.0,.11,-.18,262.0,.25,.20,12.0,.29,6.0,1.25
+Dishwasher,Wow,2-Dec-2014,Instagra,tW07I,http://instagram.com/p/wHvwG2KDV9/?modal=true,1160,3.06,214.0,184.48,.64,19.0,16.38,2.17,,,,,,,,,,
+CERN60 vid,News,21-Oct-2014,Twitter,tN03T,https://twitter.com/CERN/status/524589064851578881,1030000,6.01,43.0,.04,-.59,11.0,.01,.32,53.0,.05,-.47,96.0,.09,-.61,7.0,-.24,4.0,0.22
+IceCube VV,News,23-Oct-2014,Twitter,tN04T,https://twitter.com/CERN/status/525212060515573760,1030000,6.01,89.0,.09,-.24,3.0,.00,-.46,87.0,.08,-.31,246.0,.24,.12,6.0,-.35,2.0,-0.81
+Nov Courier,News,28-Oct-2014,Twitter,tN05Ta,https://twitter.com/CERN/status/527033473820012544,1040000,6.02,21.0,.02,-.76,1.0,.00,-.65,19.0,.02,-.62,82.0,.08,-.68,.0,-.99,2.0,-0.81
+Nov Courier,News,28-Oct-2014,Twitter,tN05Tb,https://twitter.com/CERN/status/527033473820012544,1040000,6.02,,,,,,,,,,26.0,.03,-.95,.0,-.99,.0,-1.84
+TEDx videos,News,29-Oct-2014,Twitter,tN06T,https://twitter.com/CERN/status/527444929879240704,1040000,6.02,89.0,.09,-.25,2.0,.00,-.55,82.0,.08,-.34,222.0,.21,-.00,9.0,-.03,4.0,0.22
+LHChamber,News,30-Oct-2014,Twitter,tN07T,https://twitter.com/CERN/status/527824343263621120,1040000,6.02,179.0,.17,.43,10.0,.01,.21,226.0,.22,.30,534.0,.51,1.50,19.0,1.04,7.0,1.77
+Dishwasher,Wow,2-Dec-2014,Twitter,tW07T,https://twitter.com/CERN/status/539904772644823040,1060000,6.03,779.0,.73,4.86,58.0,.05,4.70,1255.0,1.18,4.74,1158.0,1.09,4.41,8.0,-.14,3.0,-0.29
+Dishwasher,Wow,2-Dec-2014,Tw Frenc,tW07Tw,https://twitter.com/CERN_FR/status/540052716329115648,12500,4.10,7.0,.56,1.78,.0,.00,-.34,18.0,1.44,2.27,21.0,1.68,1.10,5.0,-.64,14.0,0.24
+Fabiola press,News,4-Nov-2014,Twitter,tN09Tb,https://twitter.com/CERN/status/529668618280513536,1040000,6.02,248.0,.24,.96,19.0,.02,1.07,432.0,.42,1.21,295.0,.28,.35,12.0,.29,4.0,0.22
+BellDay,News,4-Nov-2014,Twitter,tN10T,https://twitter.com/CERN/status/529669541132255232,1040000,6.02,168.0,.16,.35,9.0,.01,.11,191.0,.18,.14,294.0,.28,.34,21.0,1.26,4.0,0.22
+John Bell art,News,7-Nov-2014,Twitter,tN12T,https://twitter.com/CERN/status/530727380466552832,1040000,6.02,75.0,.07,-.35,3.0,.00,-.46,54.0,.05,-.46,117.0,.11,-.51,1.0,-.89,3.0,-0.29
+bl4s (N20),News,4-Dec-2014,Google+,tN20Ga,https://plus.google.com/+CERN/posts/aMPFMjreBpk,12600,4.10,18.0,1.43,-.47,.0,.00,-.53,5.0,.40,-.22,5.0,.40,-.36,66.0,2.78,40.0,5.73
+bl4s,News,17-Nov-2014,Twitter,tN13Tb,https://twitter.com/CERN/status/534347170825404416,1050000,6.02,,,,,,,,,,55.0,.05,-.81,8.0,-.14,7.0,1.77
+The Port,News,18-Nov-2014,Twitter,tN14T,https://twitter.com/CERN/status/534721899176411137,1050000,6.02,51.0,.05,-.54,1.0,.00,-.65,53.0,.05,-.47,87.0,.08,-.66,.0,-.99,.0,-1.84
+Courier reminisce,TBT,4-Dec-2014,Facebook,tT07F,https://www.facebook.com/cern/photos/a.173272186093468.45199.169005736520113/739270722826942/?type=1,366260,5.56,153.0,.42,-.43,6.0,.02,-.35,25.0,.07,-.37,4.0,.01,-.47,8.0,-.15,25.0,3.11
+Beam tests,News,25-Nov-2014,Twitter,tN16T,https://twitter.com/CERN/status/537355767104684032,1050000,6.02,98.0,.09,-.18,2.0,.00,-.56,135.0,.13,-.11,352.0,.34,.61,12.0,.29,3.0,-0.29
+bl4s,News,27-Nov-2014,Twitter,tN17Ta,https://twitter.com/CERN/status/537976983402344448,1050000,6.02,35.0,.03,-.66,3.0,.00,-.46,34.0,.03,-.55,30.0,.03,-.93,2.0,-.78,3.0,-0.29
+bl4s,News,27-Nov-2014,Twitter,tN17Tb,https://twitter.com/CERN/status/537976983402344448,1050000,6.02,,,,,,,,,,8.0,.01,-1.04,.0,-.99,.0,-1.84
+Dec Courier,News,27-Nov-2014,Twitter,tN18Ta,https://twitter.com/CERN/status/538016769173372928,1050000,6.02,58.0,.06,-.48,1.0,.00,-.65,55.0,.05,-.46,149.0,.14,-.36,8.0,-.14,3.0,-0.29
+Dec Courier,News,27-Nov-2014,Twitter,tN18Tb,https://twitter.com/CERN/status/538016769173372928,1050000,6.02,,,,,,,,,,106.0,.10,-.57,1.0,-.89,4.0,0.22
+bl4s,News,2-Dec-2014,Twitter,tN19Ta,https://twitter.com/CERN/status/539816551676129280,1060000,6.03,17.0,.02,-.79,.0,.00,-.75,12.0,.01,-.65,27.0,.03,-.95,1.0,-.89,4.0,0.22
+bl4s,News,2-Dec-2014,Twitter,tN19Tb,https://twitter.com/CERN/status/539816551676129280,1060000,6.03,,,,,,,,,,20.0,.02,-.98,.0,-.99,.0,-1.84
+bl4s,News,4-Dec-2014,Twitter,tN20Ta,https://twitter.com/CERN/status/540513483759312896,1060000,6.03,15.0,.01,-.81,.0,.00,-.75,22.0,.02,-.61,30.0,.03,-.93,6.0,-.35,3.0,-0.29
+bl4s,News,4-Dec-2014,Twitter,tN20Tb,https://twitter.com/CERN/status/540513483759312896,1060000,6.03,,,,,,,,,,20.0,.02,-.98,.0,-.99,.0,-1.84
+Ribbon,News,8-Dec-2014,Twitter,tN21T,https://twitter.com/CERN/status/541965375400062976,1060000,6.03,153.0,.14,.22,5.0,.00,-.28,136.0,.13,-.11,131.0,.12,-.46,14.0,.51,4.0,0.22
+IdeaSquare,News,9-Dec-2014,Twitter,tN22T,https://twitter.com/CERN/status/542343724336824320,1060000,6.03,46.0,.04,-.58,.0,.00,-.75,63.0,.06,-.43,117.0,.11,-.52,10.0,.08,2.0,-0.81
+Magnets,News,9-Dec-2014,Twitter,tN23T,https://twitter.com/CERN/status/542349070648754176,1060000,6.03,88.0,.08,-.27,6.0,.01,-.18,112.0,.11,-.22,219.0,.21,-.04,13.0,.40,5.0,0.74
+PS bubble,TBT,23-Oct-2014,Twitter,tT01T,https://twitter.com/CERN/status/525232991447318528,1030000,6.01,77.0,.07,-.33,2.0,.00,-.55,78.0,.08,-.35,92.0,.09,-.63,11.0,.18,4.0,0.22
+Wire-weaving,TBT,30-Oct-2014,Twitter,tT02T,https://twitter.com/CERN/status/527771620803637249,1040000,6.02,58.0,.06,-.48,2.0,.00,-.55,55.0,.05,-.46,102.0,.10,-.58,3.0,-.67,4.0,0.22
+BEBC pipe,TBT,6-Nov-2014,Twitter,tT03T,https://twitter.com/CERN/status/530383893799911424,1040000,6.02,44.0,.04,-.59,21.0,.02,1.26,55.0,.05,-.46,596.0,.57,1.80,8.0,-.14,2.0,-0.81
+Control rooms,TBT,13-Nov-2014,Twitter,tT04T,https://twitter.com/CERN/status/532921593643950080,1050000,6.02,69.0,.07,-.40,4.0,.00,-.37,73.0,.07,-.38,153.0,.15,-.34,9.0,-.03,4.0,0.22
+1st computer,TBT,20-Nov-2014,Twitter,tT05Ta,https://twitter.com/CERN/status/535472329204457473,1050000,6.02,80.0,.08,-.32,5.0,.00,-.27,84.0,.08,-.33,110.0,.10,-.55,11.0,.18,5.0,0.74
+ATLAS clean,GWII,8-Dec-2014,Tw Frenc,tG08Tw,https://twitter.com/CERN_FR/status/541958017852657665,12600,4.10,.0,.00,-1.03,.0,.00,-.34,1.0,.08,-.92,13.0,1.03,.15,136.0,2.18,23.0,0.93
+Power,TBT,27-Nov-2014,Twitter,tT06T,https://twitter.com/CERN/status/538069531617275904,1050000,6.02,82.0,.08,-.30,3.0,.00,-.46,71.0,.07,-.39,256.0,.24,.15,2.0,-.78,2.0,-0.81
+Courier reminisce,TBT,4-Dec-2014,Twitter,tT07T,https://twitter.com/CERN/status/540544067759644672,1060000,6.03,23.0,.02,-.75,1.0,.00,-.65,18.0,.02,-.62,41.0,.04,-.88,.0,-.99,2.0,-0.81
+SPS Tank,TBT,11-Dec-2014,Twitter,tT08T,https://twitter.com/CERN/status/543066530570047489,1060000,6.03,81.0,.08,-.32,2.0,.00,-.56,63.0,.06,-.43,150.0,.14,-.37,2.0,-.78,3.0,-0.29
+ALICE,Wow,21-Oct-2014,Twitter,tW01T,https://twitter.com/CERN/status/524505498221944833,1030000,6.01,176.0,.17,.42,23.0,.02,1.48,203.0,.20,.20,248.0,.24,.13,15.0,.61,3.0,-0.29
+ATLAS,Wow,28-Oct-2014,Twitter,tW02T,https://twitter.com/CERN/status/527053808439152640,1040000,6.02,174.0,.17,.40,12.0,.01,.40,208.0,.20,.22,255.0,.25,.15,10.0,.08,3.0,-0.29
+IdeaSquare,News,9-Dec-2014,Google+,tN22G,https://plus.google.com/+CERN/posts/BZ28NDK3F8j,12600,4.10,35.0,2.78,-.22,3.0,.24,.03,5.0,.40,-.22,17.0,1.35,-.04,79.0,3.42,10.0,1.02
+LHCb,Wow,11-Nov-2014,Twitter,tW04T,https://twitter.com/CERN/status/532178231961862146,1040000,6.02,70.0,.07,-.39,2.0,.00,-.55,81.0,.08,-.34,153.0,.15,-.34,3.0,-.67,3.0,-0.29
+RF,Wow,18-Nov-2014,Twitter,tW05Ta,https://twitter.com/CERN/status/534738411014590464,1050000,6.02,80.0,.08,-.32,6.0,.01,-.18,96.0,.09,-.28,230.0,.22,.02,2.0,-.78,1.0,-1.33
+RF,Wow,18-Nov-2014,Twitter,tW05Tb,https://twitter.com/CERN/status/534738411014590464,1050000,6.02,,,,,,,,,,301.0,.29,.36,9.0,-.03,2.0,-0.81
+TOTEM,Wow,25-Nov-2014,Twitter,tW06T,https://twitter.com/CERN/status/537336981274247169,1050000,6.02,127.0,.12,.03,1.0,.00,-.65,138.0,.13,-.10,257.0,.24,.15,20.0,1.15,5.0,0.74
+Magnets,News,9-Dec-2014,Google+,tN23G,https://plus.google.com/+CERN/posts/SVu7y2faYne,12600,4.10,167.0,13.25,1.67,18.0,1.43,2.83,26.0,2.06,.78,64.0,5.08,1.21,5.0,-.22,3.0,-0.08
+Splash,Wow,9-Dec-2014,Twitter,tW08T,https://twitter.com/CERN/status/542316909791051776,1060000,6.03,105.0,.10,-.14,6.0,.01,-.18,112.0,.11,-.22,304.0,.29,.36,6.0,-.35,4.0,0.22
