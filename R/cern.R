@@ -5,7 +5,7 @@
 #' From the authors: "Although the scientific community increasingly recognizes that its communication with the public may shape civic engagement with science, few studies have characterized how this communication occurs online. This study sets out to explore how users engage with science communication items on different platforms of social media, and what are the characteristics of the items that tend to attract large numbers of user interactions."
 #'
 #'
-#' @format A data frame with 257 observations of 11 variables.
+#' @format A data frame with 214 observations of 11 variables.
 #' \describe{
 #'   \item{postdate}{DD-MMM-YYYY character variable, where MMM is three letter abbreviation for English month}
 #'   \item{platform}{Social media platform of post, factor with 5 levels. Facebook, Google+, Instagra, Tw Frenc, Twitter}

@@ -5,7 +5,7 @@
 \alias{cern}
 \title{Social Media Engagement of Particle Physicists}
 \format{
-A data frame with 257 observations of 11 variables.
+A data frame with 214 observations of 11 variables.
 \describe{
   \item{postdate}{DD-MMM-YYYY character variable, where MMM is three letter abbreviation for English month}
   \item{platform}{Social media platform of post, factor with 5 levels. Facebook, Google+, Instagra, Tw Frenc, Twitter}
