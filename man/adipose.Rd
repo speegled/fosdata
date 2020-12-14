@@ -5,7 +5,7 @@
 \alias{adipose}
 \title{BMI and Visceral Adipose Tissue Mass}
 \format{
-A data frame with 37 observations of 7 variables.
+A data frame with 81 observations of 12 variables.
 \describe{
   \item{sex}{Male or Female}
   \item{health}{Description of general health of participant}
@@ -33,6 +33,6 @@ Measurements of BMI and adipose tissue for adults.
 \details{
 The response variables of interest in this study were BMI and VAT. According to the authors of the study, the VAT measurements of 5 or lower are suspect and may need to be excluded.
 
-From the authors: "The aims of this study were (a) to compare five anthropometric predictors of %FM and VAT mass, and (b) to explore new cut-points for the best of these predictors to improve the characterisation of obesity."
+From the authors: "The aims of this study were (a) to compare five anthropometric predictors of precent FM and VAT mass, and (b) to explore new cut-points for the best of these predictors to improve the characterisation of obesity."
 }
 \keyword{datasets}

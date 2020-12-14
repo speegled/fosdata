@@ -1,12 +1,14 @@
 library(tidyverse)
 dd <- readxl::read_xlsx("data-raw/malaria/ppat.1006108.s006.xlsx", sheet = 1)
 dd <- janitor::clean_names(dd)
+
 dd_ten <- dd %>% filter(mosquito_bites_received == 10)
 dd_ten$sporozoite <-dd_ten %>%
   select(matches("^sporo")) %>%
   mutate_all(as.integer) %>%
   as.matrix() %>%
   apply(1, sum)
+
 dd_malaria <- dd_ten %>% select(!matches("sporozoite[0-9_na]+$")) %>%
   mutate(malaria = as.integer(para10 > 0)) %>%
   select(matches("spor|mal|study$"))
