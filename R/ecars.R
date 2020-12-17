@@ -14,7 +14,7 @@
 #'   \item{created}{the date and time a given session was initiated, expressed in the form "YYYY-MM-DD HOUR:MIN:SEC"}
 #'   \item{ended}{the date and time a given session was terminated}
 #'   \item{startTime}{the hour of day, from 1 to 24, during which the session was initiated}
-#'   \item{startTime}{the hour of day, from 1 to 24, during which the session was terminated}
+#'   \item{endTime}{the hour of day, from 1 to 24, during which the session was terminated}
 #'   \item{chargeTime}{the total duration of the session in hours}
 #'   \item{weekday}{the day of the week on which the charging session took place}
 #'   \item{platform}{the digital platform used by the EV driver to log the session}
