@@ -1,0 +1,32 @@
+#' Electric vehicle charging sessions
+#'
+#' This dataset contains information from 3,395 high resolution electric vehicle charging sessions
+#' The data contains sessions from 85 EV drivers with repeat usage at 105 stations across 25 sites at a workplace charging program.
+#' The workplace locations include facilities such as research and innovation centers, manufacturing,
+#' testing facilities and office headquarters for a firm participating in the U.S. Department of Energy (DOE)
+#'workplace charging challenge.
+#'  
+#' @format A data frame with 271 observations of 7 variables
+#' \describe{
+#'   \item{sessionId}{a random number used to identify a specific electric vehcile (EV) charging session}
+#'   \item{kwhTotal}{the total energy use of a given EV charging session, measured in kWh}
+#'   \item{dollars}{the amount paid by the user for a given charging session, measured in U.S. dollars}
+#'   \item{created}{the date and time a given session was initiated, expressed in the form "YYYY-MM-DD HOUR:MIN:SEC"}
+#'   \item{ended}{the date and time a given session was terminated}
+#'   \item{startTime}{the hour of day, from 1 to 24, during which the session was initiated}
+#'   \item{startTime}{the hour of day, from 1 to 24, during which the session was terminated}
+#'   \item{chargeTime}{the total duration of the session in hours}
+#'   \item{weekday}{the day of the week on which the charging session took place}
+#'   \item{platform}{the digital platform used by the EV driver to log the session}
+#'   \item{distance}{the distance from a user's home to the charging location, expressed in miles except where user did not report address}
+#'   \item{userId}{a random number used to uniquely identify a given user and his or her transactions}
+#'   \item{stationId}{a random number unique to each specific charging station}
+#'   \item{locationId}{a random number unique to a specific location owned by the firm, where chargers were installed}
+#'   \item{managerVehicle}{a binary variable; 1 if the vehicle logging the transcation is of the type largely used by firm managers, 0 otherwise}
+#'   \item{facilityType}{a categorical variable indicating the type of facility a station is installed at; manufacturing = 1, office = 2, research and development = 3, other = 4}
+#'   \item{reportedZip}{binary variable for if a user reported his or her zip code; 1 if zip code was reported, 0 otherwise' }
+#' }
+#' 
+#' @source Asensio, Omar Isaac; Apablaza, Camila Z; Lawson, M. Cade; Walsh, Sarah Elizabeth, 2020, "Replication Data for: A Field Experiment on Workplace Norms and Electric Vehicle Charging Etiquette"
+#' @source \url{https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NFPQLW}
+"ecars"
