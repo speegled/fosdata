@@ -218,7 +218,7 @@ covid
 New York Times COVID 19
 </td>
 <td style="text-align:left;">
-8154x5
+16019x5
 </td>
 </tr>
 <tr>
