@@ -465,6 +465,28 @@ Olympians Instagram Account Data
 </tr>
 <tr>
 <td style="text-align:left;">
+scotland\_births
+</td>
+<td style="text-align:left;">
+Births in Scotland
+</td>
+<td style="text-align:left;">
+45x76
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+scrabble
+</td>
+<td style="text-align:left;">
+Scrabble tile values
+</td>
+<td style="text-align:left;">
+100x2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 sharks
 </td>
 <td style="text-align:left;">
