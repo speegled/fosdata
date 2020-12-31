@@ -311,6 +311,17 @@ Frog measurements
 </tr>
 <tr>
 <td style="text-align:left;">
+gender
+</td>
+<td style="text-align:left;">
+Gender and race data from Google Android Panel survey
+</td>
+<td style="text-align:left;">
+20305x10
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 hot\_dogs
 </td>
 <td style="text-align:left;">
