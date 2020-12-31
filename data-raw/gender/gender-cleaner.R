@@ -17,5 +17,7 @@ gender <- rename(gender,
                  gender_not_sure = Question..2.Answer.5..I.am.not.sure.of.my.gender.identity,
                  gender_unclear = Question..2.Answer.6..I.do.not.know.what.this.question.is.asking,
                  gender_na = Question..2.Answer..None.of.the.above)
-                 
+# convert gender variables to logical TRUE/FALSE
+gender <- mutate(gender, across(starts_with("gender"), ~!is.na(.x)))
+
 save(gender, file = "../../data/gender.rda")

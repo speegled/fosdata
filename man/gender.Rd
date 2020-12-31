@@ -5,7 +5,7 @@
 \alias{gender}
 \title{Gender and race data from Google Android Panel survey}
 \format{
-A data frame with 20305 observations of 4 variables
+A data frame with 20305 observations of 10 variables
 \describe{
   \item{gender_male}{Male.}
   \item{gender_female}{Female.}

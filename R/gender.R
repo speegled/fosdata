@@ -14,7 +14,7 @@
 #' 
 #' Gender identity information was collected with the question "Gender Identity—What is your current gender identity? (Select all that apply)".
 #' 
-#' @format A data frame with 20305 observations of 4 variables
+#' @format A data frame with 20305 observations of 10 variables
 #' \describe{
 #'   \item{gender_male}{Male.}
 #'   \item{gender_female}{Female.}
