@@ -8,9 +8,9 @@
 A data frame with 798 observations of 9 variables
 \describe{
   \item{cow}{ID of the cow that was measured.}
-  \item{control}{Amount that the cow's shoulder cooled down (degrees Celsius) in 3 minutes when no water was sprayed.}
-  \item{tk_0_75}{Cool down in degrees C after 3 minutes using nozzle TK-0.75}
-  \item{tk_12}{Cool down in degrees C after 3 minutes using nozzle TK-12}
+  \item{control}{Shoulder temperature change (degrees Celsius) after 3 minutes when no water was sprayed.}
+  \item{tk_0_75}{Shoulder temperature change (degrees Celsius) after 3 minutes using nozzle TK-0.75}
+  \item{tk_12}{Shoulder temperature change (degrees Celsius) after 3 minutes using nozzle TK-12}
 }
 }
 \source{
