@@ -23,3 +23,18 @@ dd %>% pivot_longer(cols = -age, names_to = "year") %>%
   ggplot(aes(x = year, y = value, color = age, group = age)) +
   geom_line() +
   gghighlight::gghighlight(age == 20|age == 30)
+
+dd <- dd %>% pivot_longer(cols = -age, names_to = "year") %>%
+  mutate(year = str_extract(year, "[0-9]+")) %>%
+  mutate(across(where(is.character), as.integer))
+
+dd %>%
+  filter(age <= 20) %>%
+  group_by(year) %>%
+  summarize(babies = sum(value)) %>%
+  top_n(1, babies)
+
+dd %>%
+  filter(age == 13) %>%
+  pull(value) %>%
+  acf() #looks independent; we could do test of Poisson on this
