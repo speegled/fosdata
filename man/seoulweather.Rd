@@ -20,4 +20,7 @@ seoulweather
 \description{
 The forecast for the next day and current day weather conditions in and near Seoul from 2013-06-30 to 2017-08-30.
 }
+\details{
+From the source: "This data is for the purpose of bias correction of next-day maximum and minimum air temperatures forecast of the LDAPS model operated by the Korea Meteorological Administration over Seoul, South Korea. This data consists of summer data from 2013 to 2017. The input data is largely composed of the LDAPS model's next-day forecast data, in-situ maximum and minimum temperatures of present-day, and geographic auxiliary variables. There are two outputs (i.e. next-day maximum and minimum air temperatures) in this data."
+}
 \keyword{datasets}
