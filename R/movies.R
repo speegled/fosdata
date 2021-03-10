@@ -1,6 +1,6 @@
 #' MovieLens 100K
 #'
-#' Randomly selected ratings of movies from MovieLense.
+#' Randomly selected ratings of movies from MovieLens.
 #'
 #' From the creators of the data:
 #'
