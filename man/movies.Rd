@@ -22,7 +22,7 @@ F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History a
 movies
 }
 \description{
-Randomly selected ratings of movies from MovieLense.
+Randomly selected ratings of movies from MovieLens.
 }
 \details{
 From the creators of the data:
@@ -37,8 +37,7 @@ This is a *development* dataset. As such, it may change over time and is not an 
 
 This and other GroupLens data sets are publicly available for download at <http://grouplens.org/datasets/>.
 
-Usage License
-=============
+**Usage License**
 
 Neither the University of Minnesota nor any of the researchers involved can guarantee the correctness of the data, its suitability for any particular purpose, or the validity of results based on the use of the data set. The data set may be used for any research purposes under the following conditions:
 \enumerate{
