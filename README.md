@@ -377,6 +377,17 @@ Wii Leg Strength (full)
 </tr>
 <tr>
 <td style="text-align:left;">
+letter\_frequency
+</td>
+<td style="text-align:left;">
+Letter Frequency List
+</td>
+<td style="text-align:left;">
+84x15
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 malaria
 </td>
 <td style="text-align:left;">
@@ -460,7 +471,7 @@ pres\_election
 US Presidential Election Data 2000-2016
 </td>
 <td style="text-align:left;">
-50524x11
+50524x9
 </td>
 </tr>
 <tr>
@@ -498,13 +509,35 @@ Scrabble tile values
 </tr>
 <tr>
 <td style="text-align:left;">
+scrabble\_ml
+</td>
+<td style="text-align:left;">
+Scrabble tile values
+</td>
+<td style="text-align:left;">
+613x3
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+seoulweather
+</td>
+<td style="text-align:left;">
+Weather data for Seoul
+</td>
+<td style="text-align:left;">
+7752x25
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 sharks
 </td>
 <td style="text-align:left;">
 Shark Documentary Music
 </td>
 <td style="text-align:left;">
-616x13
+616x15
 </td>
 </tr>
 <tr>
@@ -576,7 +609,7 @@ citation("fosdata")
 #> 
 #> To cite package 'fosdata' in publications use:
 #> 
-#>   Darrin Speegle and Bryan Clair (2020). fosdata: Data for use with the
+#>   Darrin Speegle and Bryan Clair (2021). fosdata: Data for use with the
 #>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
 #>   Clair. R package version 0.1.0.
 #> 
@@ -586,7 +619,7 @@ citation("fosdata")
 #>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
 #> Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
-#>     year = {2020},
+#>     year = {2021},
 #>     note = {R package version 0.1.0},
 #>   }
 #> 
