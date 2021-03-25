@@ -14,6 +14,8 @@ A data frame with 159 observations of 8 variables
   \item{latency_p1}{time to press brake after seeing red light (ms)}
   \item{latency_p2}{time to release brake after pressing on it (ms)}
   \item{latency_p3}{time to press pedal to left of what participant thought was brake (ms)}
+  \item{p1_p2}{Sum of latency_p1 and latency_p2}
+  \item{p1_p2_p3}{Sum of latency_p1, latency_p2, and latency_p3}
   \item{cfq}{Score on cognitive failure questionairre}
   \item{dbq_error}{Score on dribing behavior questionnaire error questions}
   \item{dbq_violation}{Score on dbq violation questions}

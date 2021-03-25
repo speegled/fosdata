@@ -5,7 +5,7 @@
 \alias{sharks}
 \title{Shark Documentary Music}
 \format{
-A data frame with 732 observations of 19 variables. For variables with values from 1-7 without description, 1 = not at all and 7 = very much
+A data frame with 616 observations of 15 variables. For variables with values from 1-7 without description, 1 = not at all and 7 = very much
 \describe{
   \item{av}{did the subject see video or listen to audio}
   \item{music}{was the music played to subject uplifting, ominous or silence}
@@ -15,10 +15,11 @@ A data frame with 732 observations of 19 variables. For variables with values fr
   \item{peaceful}{how well does peaceful describe sharks 1-7}
   \item{beautiful}{how well does beautiful describe sharks 1-7}
   \item{graceful}{how well does graceful describe sharks 1-7}
+  \item{free_response}{an adjective (or more) that describes sharks}
   \item{conserve}{willingness to conserve from 1-7}
   \item{gender}{1 male, 2 female}
   \item{age}{age in years}
-  \item{race_ethnicity}{1 white_or_caucasian 2 black_or_african_american 3 hispanic_or_latino 4 asian 5 american_indian_or_alaskan_native 6 native_hawaiian_or_pacific_islander 7 other}
+  \item{race_ethnicity}{1 white_or_caucasian, 2 black_or_african_american, 3 hispanic_or_latino, 4 asian, 5 american_indian_or_alaskan_native, 6 native_hawaiian_or_pacific_islander, 7 other}
   \item{annual_income}{1-9 by increments of 25K, so 1 = 0-25K, 2 = 25-50K, ..., 9 = 200K+}
   \item{political_views}{levels 1-7 with 1 extremely liberal, 4 moderate and 7 extremely conservative}
 }

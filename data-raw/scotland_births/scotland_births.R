@@ -1,4 +1,7 @@
-dd <- read.csv("data-raw/scotland_births/births-time-series-19-bt_BT.02.csv", skip = 3)
+# Set directory to match this script
+setwd(dirname(parent.frame(2)$ofile))
+
+dd <- read.csv("births-time-series-19-bt_BT.02.csv", skip = 3)
 names(dd)[1] <- "age"
 library(tidyverse)
 dd <- select(dd, -matches("X\\."))
@@ -8,10 +11,10 @@ dd <- dd %>% filter(str_detect(age, "^[0-9]+$"))
 dd <- dd %>%
   mutate_all(function(x) str_remove(x, ",")) %>%
   mutate_all(function(x) ifelse(str_detect(x, "[0-9]"), x, "0")) %>%
-  mutate(age = as.integer(age))
+  mutate_all(function(x) as.integer(x))
 
 scotland_births <- dd
-save(scotland_births, file = "data/scotland_births.rda")
+save(scotland_births, file = "scotland_births.rda")
 #'
 #' usage
 #'
