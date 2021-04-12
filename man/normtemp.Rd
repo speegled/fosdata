@@ -13,11 +13,13 @@ A data frame with 130 observations of 3 variables
 }
 }
 \source{
-“Datasets and Stories” article “What’s Normal? – Temperature, Gender, and Heart Rate” in the Journal of Statistics Education (Shoemaker 1996).
+"Datasets and Stories" article "What’s Normal? – Temperature, Gender, and Heart Rate" in the Journal of Statistics Education (Shoemaker 1996).
 
 \url{http://jse.amstat.org/datasets/normtemp.dat.txt}
 
 \url{http://jse.amstat.org/v4n2/datasets.shoemaker.html}
+
+Mackowiak, Wasserman, and Levine, "A Critical Appraisal of 98.6 Degrees F, the Upper Limit of the Normal Body Temperature, and Other Legacies of Carl Reinhold August Wunderlich", JAMA 1992.
 }
 \usage{
 normtemp
