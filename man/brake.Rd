@@ -5,7 +5,7 @@
 \alias{brake}
 \title{Pedal Error Correction}
 \format{
-A data frame with 159 observations of 8 variables
+A data frame with 80 observations of 20 variables
 \describe{
   \item{subject_id}{unique identifier of subject}
   \item{age_group}{Young or Old}
