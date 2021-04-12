@@ -575,6 +575,17 @@ Weight lifting judgment in children
 </tr>
 <tr>
 <td style="text-align:left;">
+world\_cup
+</td>
+<td style="text-align:left;">
+FIFA World Cup 2014-2015 Results
+</td>
+<td style="text-align:left;">
+116x8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 wrist
 </td>
 <td style="text-align:left;">
