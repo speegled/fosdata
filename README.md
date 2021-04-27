@@ -179,7 +179,7 @@ Nicotine, Tar and CO of Cigarettes
 </tr>
 <tr>
 <td style="text-align:left;">
-cigs\_small
+cigs\_small (cigs)
 </td>
 <td style="text-align:left;">
 Nicotine, Tar and CO of Cigarettes
@@ -263,6 +263,17 @@ Dogs and peer pressure
 </td>
 <td style="text-align:left;">
 351x9
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+draft
+</td>
+<td style="text-align:left;">
+The 1970 Draft Lottery
+</td>
+<td style="text-align:left;">
+366x5
 </td>
 </tr>
 <tr>
