@@ -2,7 +2,7 @@
 #'
 #' Counts and density of barnacles on coral reefs in the Flower Garden Banks (Gulf of Mexico) and in the U.S. Virgin Islands.
 #'
-#' From the authors: "Bioerosion, the removal of calcium carbonate from coral frameworks by living organisms, influences a variety of reef features, from their topographic complexity to the net balance of carbonate budgets. Little is known, however, about how macroborers, which bore into reef substrates leaving traces greater than 0.1 mm diameter, are distributed across coral reefs, particularly reef systems with high (>50%) stony coral cover or at mesophotic depths (≥30 m)."
+#' From the authors: "Bioerosion, the removal of calcium carbonate from coral frameworks by living organisms, influences a variety of reef features, from their topographic complexity to the net balance of carbonate budgets. Little is known, however, about how macroborers, which bore into reef substrates leaving traces greater than 0.1 mm diameter, are distributed across coral reefs, particularly reef systems with high (>50\%) stony coral cover or at mesophotic depths (≥30 m)."
 #'
 #' @format A data frame with 134 observations of 8 variables.
 #' \describe{
