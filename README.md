@@ -58,6 +58,17 @@ Visual and accelerometer data on workouts
 </tr>
 <tr>
 <td style="text-align:left;">
+acorns
+</td>
+<td style="text-align:left;">
+Acorn Size and Geographical Range
+</td>
+<td style="text-align:left;">
+39x5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 adipose
 </td>
 <td style="text-align:left;">
@@ -83,10 +94,10 @@ Full text of Emma and Pride and Prejudice, by Jane Austen
 barnacles
 </td>
 <td style="text-align:left;">
-Barnacle Counts
+Barnacle distribution on coral reefs
 </td>
 <td style="text-align:left;">
-88x4
+134x8
 </td>
 </tr>
 <tr>
