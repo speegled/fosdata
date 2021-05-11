@@ -17,18 +17,18 @@ A data frame with 80 observations of 7 variables
 }
 }
 \source{
-" Sciutti A, Patanè L, Sandini G (2019) Development of visual perception of others’ actions: Children’s judgment of lifted weight. PLoS ONE 14(11): e0224979"
+Sciutti A, Patanè L, Sandini G (2019) Development of visual perception of others’ actions: Children’s judgment of lifted weight. PLoS ONE 14(11): e0224979
 
 \url{https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0224979}
 
-"Sciutti Alessandra, Patane' Laura, & Sandini Giulio. (2019). Dataset - weight lifting judgment in children [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3524881"
+Sciutti Alessandra, Patane' Laura, & Sandini Giulio. (2019). Dataset - weight lifting judgment in children [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3524881
 }
 \usage{
 weight_estimate
 }
 \description{
 Humans are able to estimate the weight of an object by watching how another person interacts with the object. Eighty
-subjects of various age were asked to estimate the weight of objects of various weights after watching a video of an actor interacting with them.
+subjects of various ages were asked to estimate the weight of objects of various weights after watching a video of an actor interacting with the weights.
 }
 \details{
 From the authors: "Humans are excellent at perceiving different features of the actions performed by others. For instance, by viewing someone else manipulating an unknown object, one can infer its weight–an intrinsic feature otherwise not directly accessible through vision. How such perceptual skill develops during childhood remains unclear."
