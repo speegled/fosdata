@@ -1,7 +1,7 @@
 library(dplyr)
 
 # load and clean data
-dd <- read.csv("data-raw/mask_influenza/Table_S1.txt", sep = " ", header = FALSE)
+dd <- read.csv("data-raw/masks/Table_S1.txt", sep = " ", header = FALSE)
 dd <- as.data.frame(matrix(dd$V1, ncol = 7, byrow = T))
 names(dd) <- dd[1,]
 dd <- dd[-1,]
