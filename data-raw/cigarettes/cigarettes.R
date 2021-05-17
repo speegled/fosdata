@@ -69,4 +69,22 @@ cigs_small <- filter(cigs_small, size == "100") %>%
   sample_n(1)
 lm(co ~ flavor + nic + tar + pack + menthol, data = cigs_small) %>% MASS::stepAIC() %>% summary
 save(list = c("cigs", "cigs_small"), file = "data/cigs.rda")
-summary(cigs_small)
+
+
+#'
+#' Removing trailing spaces in brand names
+#'
+
+load("data/cigs.rda")
+cigs <- cigs %>%
+  mutate(brand_name = as.character(brand_name)) %>%
+  mutate(brand_name = str_remove(brand_name, "[ ]*$")) %>%
+  mutate(brand_name = factor(brand_name))
+
+cigs_small <- cigs_small %>%
+  mutate(brand_name = as.character(brand_name)) %>%
+  mutate(brand_name = str_remove(brand_name, "[ ]*$")) %>%
+  mutate(brand_name = factor(brand_name))
+
+save(list = c("cigs", "cigs_small"), file = "data/cigs.rda")
+
