@@ -14,7 +14,9 @@ A data frame with 237 observations of 4 variables.
 }
 }
 \source{
-Bergmann M, Mützel S, Primpke S, Tekman MB, Trachsel J, Gerdts G. White and wonderful? Microplastics prevail in snow from the Alps to the Arctic. Sci Adv. 2019 Aug 14;5(8):eaax1157. doi: 10.1126/sciadv.aax1157. PMID: 31453336; PMCID: PMC6693909.
+Bergmann M, Mützel S, Primpke S, Tekman MB, Trachsel J, Gerdts G. White and wonderful? Microplastics prevail in snow from the Alps to the Arctic. Sci Adv. 2019 Aug 14;5(8).doi: 10.1126/sciadv.aax1157. PMID: 31453336; PMCID: PMC6693909.
+
+\url{https://advances.sciencemag.org/content/5/8/eaax1157}
 }
 \usage{
 plastics

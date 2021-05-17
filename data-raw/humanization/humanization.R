@@ -1,4 +1,5 @@
-dd <- haven::read_sav("/Users/speegled/foundations-of-statistics/data/ingroup_outgroup/Studyone1.sav")
+dd <- haven::read_sav("data-raw/humanization/humanization.sav")
+library(dplyr)
 dd2 <- dd %>% select(Age, Gender, group, PAK_sec, PAK_primary, USsecondary, USprimary)
 dd2 <- dd2[complete.cases(dd2),]
 dd2$Gender <- haven::as_factor(dd2$Gender)

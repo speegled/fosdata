@@ -13,5 +13,6 @@
 #'   \item{region}{Arctic or Europe}
 #' }
 #'
-#' @source Bergmann M, Mützel S, Primpke S, Tekman MB, Trachsel J, Gerdts G. White and wonderful? Microplastics prevail in snow from the Alps to the Arctic. Sci Adv. 2019 Aug 14;5(8):eaax1157. doi: 10.1126/sciadv.aax1157. PMID: 31453336; PMCID: PMC6693909.
+#' @source Bergmann M, Mützel S, Primpke S, Tekman MB, Trachsel J, Gerdts G. White and wonderful? Microplastics prevail in snow from the Alps to the Arctic. Sci Adv. 2019 Aug 14;5(8).doi: 10.1126/sciadv.aax1157. PMID: 31453336; PMCID: PMC6693909.
+#' @source \url{https://advances.sciencemag.org/content/5/8/eaax1157}
 "plastics"
