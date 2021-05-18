@@ -15,6 +15,7 @@ flint <- flint.raw %>%
          Pb3 = `Pb Bottle 3 (ppb) - 2 mins flushing`) %>%
   mutate(SampleID = as.integer(SampleID),
          Zip.Code = factor(Zip.Code),
-         Ward = factor(Ward))
+         Ward = factor(Ward),
+         Notes = tidyr::replace_na(Notes,''))
 
 save(flint, file = "../../data/flint.rda")
