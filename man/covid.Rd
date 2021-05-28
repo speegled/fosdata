@@ -5,7 +5,7 @@
 \alias{covid}
 \title{New York Times COVID 19}
 \format{
-A data frame with 16019 observations of 5 variables.
+A data frame with 24819 observations of 5 variables.
 \describe{
   \item{date}{YYYY-MM-DD}
   \item{state}{State where cases were recoreded}
@@ -21,6 +21,6 @@ A data frame with 16019 observations of 5 variables.
 covid
 }
 \description{
-Cases and deaths due to COVID-19 by US state and date, due to The New York Times. Downloaded on December 19, 2020
+Cases and deaths due to COVID-19 by US state and date, due to The New York Times. Downloaded on May 28, 2021
 }
 \keyword{datasets}
