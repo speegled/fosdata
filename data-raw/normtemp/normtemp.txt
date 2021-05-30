@@ -1,0 +1,57 @@
+
+NAME: Normal Body Temperature, Gender, and Heart Rate 
+TYPE: Random sample
+SIZE: 130 observations, 3 variables 
+
+DESCRIPTIVE ABSTRACT:
+This article takes data from a paper in the _Journal of the American
+Medical Association_ that examined whether the true mean body
+temperature is 98.6 degrees Fahrenheit.  Because the dataset suggests
+that the true mean is approximately 98.2, it helps students to grasp
+concepts about true means, confidence intervals, and t-statistics.
+Students can use a t-test to test for sex differences in body
+temperature and regression to investigate the relationship between
+temperature and heart rate.
+
+SOURCE:
+These data are derived from a dataset presented in Mackowiak, P. A.,
+Wasserman, S. S., and Levine, M. M.  (1992), "A Critical Appraisal of
+98.6 Degrees F, the Upper Limit of the Normal Body Temperature, and
+Other Legacies of Carl Reinhold August Wunderlich," _Journal of the
+American Medical Association_, 268, 1578-1580.  Data were constructed
+to match as closely as possible the histograms and summary statistics
+presented in that article.
+
+VARIABLE DESCRIPTIONS:
+Columns
+ 1 -  5  Body temperature (degrees Fahrenheit)
+ 9       Gender (1 = male, 2 = female)
+14 - 15  Heart rate (beats per minute)
+
+Values are delimited by blanks.  There are no missing values.
+
+PEDAGOGICAL NOTES:
+These data can be used to address the following questions:
+
+1.  Is the distribution of body temperatures normal?
+2.  Is the true population mean really 98.6 degrees F?
+3.  At what temperature should we consider someone's temperature to be
+    "abnormal"?
+4.  Is there a significant difference between males and females in
+    normal temperature?
+5.  Is there a relationship between body temperature and heart rate?
+6.  Were the original temperatures taken on a Centigrade or Fahrenheit
+    scale?
+
+Additional information about these data can be found in the "Datasets
+and Stories" article "What's Normal? -- Temperature, Gender, and Heart
+Rate" in the _Journal of Statistics Education_ (Shoemaker 1996).  
+
+SUBMITTED BY:
+Allen L. Shoemaker
+Psychology Department 
+Calvin College
+3201 Burton St. S.E.
+Grand Rapids, MI  49546
+shoe@calvin.edu
+
