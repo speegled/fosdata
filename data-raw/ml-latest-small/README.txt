@@ -1,3 +1,6 @@
+
+movies_newratings.csv is all ratings from 2019 or later. not to be distributed.
+
 Summary
 =======
 
