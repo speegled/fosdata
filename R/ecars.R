@@ -6,7 +6,7 @@
 #' testing facilities and office headquarters for a firm participating in the U.S. Department of Energy (DOE)
 #'workplace charging challenge.
 #'  
-#' @format A data frame with 271 observations of 7 variables
+#' @format A data frame with 3395 observations of 17 variables
 #' \describe{
 #'   \item{sessionId}{a random number used to identify a specific electric vehcile (EV) charging session}
 #'   \item{kwhTotal}{the total energy use of a given EV charging session, measured in kWh}
