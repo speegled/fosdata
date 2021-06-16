@@ -1,6 +1,6 @@
 Package: fosdata
 Type: Package
-Title: Data for use with the book, Foundations of Statistics with R, by Darrin Speegle and Bryan Clair
+Title: Data for use with the book "Probability, Statistics, and Data: A Fresh Approach Using R", by Darrin Speegle and Bryan Clair
 Version: 0.1.0
 Author: Darrin Speegle and Bryan Clair
 Maintainer: The package maintainer <speegled@slu.edu>

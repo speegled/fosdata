@@ -6,9 +6,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The `fosdata` package contains datasets for the textbook [Foundations of
-Statistics with R](https://mathstat.slu.edu/~speegle/_book/) by Darrin
-Speegle and Bryan Clair.
+The `fosdata` package contains datasets for the textbook [Probability,
+Statistics, and Data: A Fresh Approach Using
+R](https://mathstat.slu.edu/~speegle/_book/) by Darrin Speegle and Bryan
+Clair.
 
 ## Installation
 
@@ -229,7 +230,7 @@ covid
 New York Times COVID 19
 </td>
 <td style="text-align:left;">
-16019x5
+24819x5
 </td>
 </tr>
 <tr>
