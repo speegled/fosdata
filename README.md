@@ -644,14 +644,14 @@ citation("fosdata")
 #> To cite package 'fosdata' in publications use:
 #> 
 #>   Darrin Speegle and Bryan Clair (2021). fosdata: Data for use with the
-#>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
-#>   Clair. R package version 0.1.0.
+#>   book "Probability, Statistics, and Data: A Fresh Approach Using R",
+#>   by Darrin Speegle and Bryan Clair. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
-#> Darrin Speegle and Bryan Clair},
+#>     title = {fosdata: Data for use with the book "Probability, Statistics, and Data: A
+#> Fresh Approach Using R", by Darrin Speegle and Bryan Clair},
 #>     author = {Darrin Speegle and Bryan Clair},
 #>     year = {2021},
 #>     note = {R package version 0.1.0},
