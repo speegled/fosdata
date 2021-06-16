@@ -37,7 +37,7 @@ install.packages("fosdata")
 You can install the development version from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("remotes")
+# install.packages("remotes")  # if needed
 remotes::install_github("speegled/fosdata")
 ```
 
@@ -49,13 +49,9 @@ The `fosdata` package contains:
 library(fosdata)
 sets <- vcdExtra::datasets("fosdata")
 sets %>% select(Item, Title, dim) %>%
-  kableExtra::kable(col.names = c("Name","Description","Dim (RxC)"))
+  knitr::kable(col.names = c("Name","Description","Dim (RxC)"))
 ```
 
-
-## Examples
-
-You can find these and more code examples for exploring fosdata in `vignette("examples")`.
 
 ## License
 
@@ -63,9 +59,7 @@ Most of the data sets in this package have a creative commons license. Providing
 
 ## Citation
 
-To cite the fosdata package, please use:
-
-```{r}
+```{r echo=FALSE}
 citation("fosdata")
 ```
 
@@ -79,7 +73,7 @@ It would be good to automatically generate this information from the package.
 <!---
 This code gets close:
 thefile <- help(chimps,package="fosdata")
-parsedfile <- parse_Rd(thefile$path)
+parsedfile <- tools::parse_Rd(thefile$path)
 Rd2latex(parsedfile)
 
 Maybe I can adapt Rd2list on this page:
