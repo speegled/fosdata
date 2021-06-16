@@ -23,7 +23,7 @@ You can install the development version from
 [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("remotes")
+# install.packages("remotes")  # if needed
 remotes::install_github("speegled/fosdata")
 ```
 
@@ -31,600 +31,60 @@ remotes::install_github("speegled/fosdata")
 
 The `fosdata` package contains:
 
-<table>
-<thead>
-<tr>
-<th style="text-align:left;">
-Name
-</th>
-<th style="text-align:left;">
-Description
-</th>
-<th style="text-align:left;">
-Dim (RxC)
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-accelerometer
-</td>
-<td style="text-align:left;">
-Visual and accelerometer data on workouts
-</td>
-<td style="text-align:left;">
-12245x25
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-acorns
-</td>
-<td style="text-align:left;">
-Acorn Size and Geographical Range
-</td>
-<td style="text-align:left;">
-39x5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-adipose
-</td>
-<td style="text-align:left;">
-BMI and Visceral Adipose Tissue Mass
-</td>
-<td style="text-align:left;">
-81x12
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-austen
-</td>
-<td style="text-align:left;">
-Full text of Emma and Pride and Prejudice, by Jane Austen
-</td>
-<td style="text-align:left;">
-282295x7
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-barnacles
-</td>
-<td style="text-align:left;">
-Barnacle distribution on coral reefs
-</td>
-<td style="text-align:left;">
-134x8
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-bechdel
-</td>
-<td style="text-align:left;">
-The Bechdel test
-</td>
-<td style="text-align:left;">
-1794x15
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-bicycle\_signage
-</td>
-<td style="text-align:left;">
-Bicycle Signage and Safety
-</td>
-<td style="text-align:left;">
-1824x11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-biomass
-</td>
-<td style="text-align:left;">
-Biomass of insects in German nature protection areas
-</td>
-<td style="text-align:left;">
-1512x8
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-brake
-</td>
-<td style="text-align:left;">
-Pedal Error Correction
-</td>
-<td style="text-align:left;">
-80x20
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cern
-</td>
-<td style="text-align:left;">
-Social Media Engagement of Particle Physicists
-</td>
-<td style="text-align:left;">
-214x11
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-child\_tasks
-</td>
-<td style="text-align:left;">
-Shape Trail Test
-</td>
-<td style="text-align:left;">
-68x13
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-chimps
-</td>
-<td style="text-align:left;">
-Gray haired chimpanzees
-</td>
-<td style="text-align:left;">
-165x159
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cigs
-</td>
-<td style="text-align:left;">
-Nicotine, Tar and CO of Cigarettes
-</td>
-<td style="text-align:left;">
-1294x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cigs\_small (cigs)
-</td>
-<td style="text-align:left;">
-Nicotine, Tar and CO of Cigarettes
-</td>
-<td style="text-align:left;">
-118x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-climate
-</td>
-<td style="text-align:left;">
-Citations of Climate Change Papers
-</td>
-<td style="text-align:left;">
-732x19
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-conversation
-</td>
-<td style="text-align:left;">
-Conversational Dominance and Psychopathy
-</td>
-<td style="text-align:left;">
-210x28
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-covid
-</td>
-<td style="text-align:left;">
-New York Times COVID 19
-</td>
-<td style="text-align:left;">
-24819x5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cows
-</td>
-<td style="text-align:left;">
-Cooling down hot cows
-</td>
-<td style="text-align:left;">
-798x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-cows\_small
-</td>
-<td style="text-align:left;">
-Cooling down hot cows
-</td>
-<td style="text-align:left;">
-19x4
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-crit\_period
-</td>
-<td style="text-align:left;">
-Critical Period Hypothesis
-</td>
-<td style="text-align:left;">
-138x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-dogs
-</td>
-<td style="text-align:left;">
-Dogs and peer pressure
-</td>
-<td style="text-align:left;">
-351x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-draft
-</td>
-<td style="text-align:left;">
-The 1970 Draft Lottery
-</td>
-<td style="text-align:left;">
-366x5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-ecars
-</td>
-<td style="text-align:left;">
-Electric vehicle charging sessions
-</td>
-<td style="text-align:left;">
-3395x17
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-fish
-</td>
-<td style="text-align:left;">
-Fish measurements from Laengelmavesi Lake, near Tampere, Finland
-</td>
-<td style="text-align:left;">
-159x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-flint
-</td>
-<td style="text-align:left;">
-Lead levels from tap water sampling in Flint, MI
-</td>
-<td style="text-align:left;">
-271x7
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-frogs
-</td>
-<td style="text-align:left;">
-Frog measurements
-</td>
-<td style="text-align:left;">
-64x16
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-gender
-</td>
-<td style="text-align:left;">
-Gender and race data from Google Android Panel survey
-</td>
-<td style="text-align:left;">
-20305x10
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-hot\_dogs
-</td>
-<td style="text-align:left;">
-Hot Dog Nutrition
-</td>
-<td style="text-align:left;">
-54x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-houses
-</td>
-<td style="text-align:left;">
-Housing in King County
-</td>
-<td style="text-align:left;">
-21613x21
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-humanization
-</td>
-<td style="text-align:left;">
-Infrahumanization of outgroups
-</td>
-<td style="text-align:left;">
-321x7
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-leg\_strength
-</td>
-<td style="text-align:left;">
-Wii Leg Strength
-</td>
-<td style="text-align:left;">
-30x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-leg\_strength\_full
-</td>
-<td style="text-align:left;">
-Wii Leg Strength (full)
-</td>
-<td style="text-align:left;">
-30x17
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-letter\_frequency
-</td>
-<td style="text-align:left;">
-Letter Frequency List
-</td>
-<td style="text-align:left;">
-84x15
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-malaria
-</td>
-<td style="text-align:left;">
-Malaria Transmission and Parasites
-</td>
-<td style="text-align:left;">
-180x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-masks
-</td>
-<td style="text-align:left;">
-Masks and Influenza Exposure
-</td>
-<td style="text-align:left;">
-37x7
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-mice\_pot
-</td>
-<td style="text-align:left;">
-Mice on pot
-</td>
-<td style="text-align:left;">
-46x2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-movies
-</td>
-<td style="text-align:left;">
-MovieLens 100K
-</td>
-<td style="text-align:left;">
-100836x6
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-normtemp
-</td>
-<td style="text-align:left;">
-Temperature and heart rate data
-</td>
-<td style="text-align:left;">
-130x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-plastics
-</td>
-<td style="text-align:left;">
-Plastics in Snow
-</td>
-<td style="text-align:left;">
-237x4
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-powerball
-</td>
-<td style="text-align:left;">
-Powerball draws from 2010-2020
-</td>
-<td style="text-align:left;">
-1094x8
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-pres\_election
-</td>
-<td style="text-align:left;">
-US Presidential Election Data 2000-2016
-</td>
-<td style="text-align:left;">
-50524x9
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-rio\_instagram
-</td>
-<td style="text-align:left;">
-Olympians Instagram Account Data
-</td>
-<td style="text-align:left;">
-226x14
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-scotland\_births
-</td>
-<td style="text-align:left;">
-Births in Scotland
-</td>
-<td style="text-align:left;">
-45x76
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-scrabble
-</td>
-<td style="text-align:left;">
-Scrabble tile values
-</td>
-<td style="text-align:left;">
-100x2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-scrabble\_ml
-</td>
-<td style="text-align:left;">
-Scrabble tile values
-</td>
-<td style="text-align:left;">
-613x3
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-seoulweather
-</td>
-<td style="text-align:left;">
-Weather data for Seoul
-</td>
-<td style="text-align:left;">
-7752x25
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-sharks
-</td>
-<td style="text-align:left;">
-Shark Documentary Music
-</td>
-<td style="text-align:left;">
-616x15
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-skull\_geometry
-</td>
-<td style="text-align:left;">
-Skull Geometry
-</td>
-<td style="text-align:left;">
-56x2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-snails
-</td>
-<td style="text-align:left;">
-Snails near Oxford, England
-</td>
-<td style="text-align:left;">
-228x5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-weight\_estimate
-</td>
-<td style="text-align:left;">
-Weight lifting judgment in children
-</td>
-<td style="text-align:left;">
-80x7
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-world\_cup
-</td>
-<td style="text-align:left;">
-FIFA World Cup 2014-2015 Results
-</td>
-<td style="text-align:left;">
-116x8
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-wrist
-</td>
-<td style="text-align:left;">
-Wrist Casts
-</td>
-<td style="text-align:left;">
-105x47
-</td>
-</tr>
-</tbody>
-</table>
-
-## Examples
-
-You can find these and more code examples for exploring fosdata in
-`vignette("examples")`.
+| Name                | Description                                                      | Dim (RxC) |
+|:--------------------|:-----------------------------------------------------------------|:----------|
+| accelerometer       | Visual and accelerometer data on workouts                        | 12245x25  |
+| acorns              | Acorn Size and Geographical Range                                | 39x5      |
+| adipose             | BMI and Visceral Adipose Tissue Mass                             | 81x12     |
+| austen              | Full text of Emma and Pride and Prejudice, by Jane Austen        | 282295x7  |
+| barnacles           | Barnacle distribution on coral reefs                             | 134x8     |
+| bechdel             | The Bechdel test                                                 | 1794x15   |
+| bicycle\_signage    | Bicycle Signage and Safety                                       | 1824x11   |
+| biomass             | Biomass of insects in German nature protection areas             | 1512x8    |
+| brake               | Pedal Error Correction                                           | 80x20     |
+| cern                | Social Media Engagement of Particle Physicists                   | 214x11    |
+| child\_tasks        | Shape Trail Test                                                 | 68x13     |
+| chimps              | Gray haired chimpanzees                                          | 165x159   |
+| cigs                | Nicotine, Tar and CO of Cigarettes                               | 1294x9    |
+| cigs\_small (cigs)  | Nicotine, Tar and CO of Cigarettes                               | 118x9     |
+| climate             | Citations of Climate Change Papers                               | 732x19    |
+| conversation        | Conversational Dominance and Psychopathy                         | 210x28    |
+| covid               | New York Times COVID 19                                          | 24819x5   |
+| cows                | Cooling down hot cows                                            | 798x9     |
+| cows\_small         | Cooling down hot cows                                            | 19x4      |
+| crit\_period        | Critical Period Hypothesis                                       | 138x3     |
+| dogs                | Dogs and peer pressure                                           | 351x9     |
+| draft               | The 1970 Draft Lottery                                           | 366x5     |
+| ecars               | Electric vehicle charging sessions                               | 3395x17   |
+| fish                | Fish measurements from Laengelmavesi Lake, near Tampere, Finland | 159x9     |
+| flint               | Lead levels from tap water sampling in Flint, MI                 | 271x7     |
+| frogs               | Frog measurements                                                | 64x16     |
+| gender              | Gender and race data from Google Android Panel survey            | 20305x10  |
+| hot\_dogs           | Hot Dog Nutrition                                                | 54x3      |
+| houses              | Housing in King County                                           | 21613x21  |
+| humanization        | Infrahumanization of outgroups                                   | 321x7     |
+| leg\_strength       | Wii Leg Strength                                                 | 30x3      |
+| leg\_strength\_full | Wii Leg Strength (full)                                          | 30x17     |
+| letter\_frequency   | Letter Frequency List                                            | 84x15     |
+| malaria             | Malaria Transmission and Parasites                               | 180x3     |
+| masks               | Masks and Influenza Exposure                                     | 37x7      |
+| mice\_pot           | Mice on pot                                                      | 46x2      |
+| movies              | MovieLens 100K                                                   | 100836x6  |
+| normtemp            | Temperature and heart rate data                                  | 130x3     |
+| plastics            | Plastics in Snow                                                 | 237x4     |
+| powerball           | Powerball draws from 2010-2020                                   | 1094x8    |
+| pres\_election      | US Presidential Election Data 2000-2016                          | 50524x9   |
+| rio\_instagram      | Olympians Instagram Account Data                                 | 226x14    |
+| scotland\_births    | Births in Scotland                                               | 45x76     |
+| scrabble            | Scrabble tile values                                             | 100x2     |
+| scrabble\_ml        | Scrabble tile values                                             | 613x3     |
+| seoulweather        | Weather data for Seoul                                           | 7752x25   |
+| sharks              | Shark Documentary Music                                          | 616x15    |
+| skull\_geometry     | Skull Geometry                                                   | 56x2      |
+| snails              | Snails near Oxford, England                                      | 228x5     |
+| weight\_estimate    | Weight lifting judgment in children                              | 80x7      |
+| world\_cup          | FIFA World Cup 2014-2015 Results                                 | 116x8     |
+| wrist               | Wrist Casts                                                      | 105x47    |
 
 ## License
 
@@ -636,31 +96,26 @@ set.
 
 ## Citation
 
-To cite the fosdata package, please use:
-
-``` r
-citation("fosdata")
-#> 
-#> To cite package 'fosdata' in publications use:
-#> 
-#>   Darrin Speegle and Bryan Clair (2021). fosdata: Data for use with the
-#>   book, Foundations of Statistics with R, by Darrin Speegle and Bryan
-#>   Clair. R package version 0.1.0.
-#> 
-#> A BibTeX entry for LaTeX users is
-#> 
-#>   @Manual{,
-#>     title = {fosdata: Data for use with the book, Foundations of Statistics with R, by
-#> Darrin Speegle and Bryan Clair},
-#>     author = {Darrin Speegle and Bryan Clair},
-#>     year = {2021},
-#>     note = {R package version 0.1.0},
-#>   }
-#> 
-#> ATTENTION: This citation information has been auto-generated from the
-#> package DESCRIPTION file and may need manual editing, see
-#> 'help("citation")'.
-```
+    #> 
+    #> To cite package 'fosdata' in publications use:
+    #> 
+    #>   Darrin Speegle and Bryan Clair (2021). fosdata: Data for use with the
+    #>   book "Probability, Statistics, and Data: A Fresh Approach Using R",
+    #>   by Darrin Speegle and Bryan Clair. R package version 0.1.0.
+    #> 
+    #> A BibTeX entry for LaTeX users is
+    #> 
+    #>   @Manual{,
+    #>     title = {fosdata: Data for use with the book "Probability, Statistics, and Data: A
+    #> Fresh Approach Using R", by Darrin Speegle and Bryan Clair},
+    #>     author = {Darrin Speegle and Bryan Clair},
+    #>     year = {2021},
+    #>     note = {R package version 0.1.0},
+    #>   }
+    #> 
+    #> ATTENTION: This citation information has been auto-generated from the
+    #> package DESCRIPTION file and may need manual editing, see
+    #> 'help("citation")'.
 
 ## References
 
@@ -672,7 +127,7 @@ package.
 <!---
 This code gets close:
 thefile <- help(chimps,package="fosdata")
-parsedfile <- parse_Rd(thefile$path)
+parsedfile <- tools::parse_Rd(thefile$path)
 Rd2latex(parsedfile)
 
 Maybe I can adapt Rd2list on this page:
