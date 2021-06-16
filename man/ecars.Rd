@@ -5,7 +5,7 @@
 \alias{ecars}
 \title{Electric vehicle charging sessions}
 \format{
-A data frame with 271 observations of 7 variables
+A data frame with 3395 observations of 17 variables
 \describe{
   \item{sessionId}{a random number used to identify a specific electric vehcile (EV) charging session}
   \item{kwhTotal}{the total energy use of a given EV charging session, measured in kWh}
@@ -15,8 +15,8 @@ A data frame with 271 observations of 7 variables
   \item{startTime}{the hour of day, from 1 to 24, during which the session was initiated}
   \item{endTime}{the hour of day, from 1 to 24, during which the session was terminated}
   \item{chargeTime}{the total duration of the session in hours}
-  \item{weekday}{the day of the week on which the charging session took place}
-  \item{platform}{the digital platform used by the EV driver to log the session}
+  \item{weekday}{three letter abbreviation of the day of the week on which the charging session took place}
+  \item{platform}{the digital platform used by the EV driver to log the session. one of android, ios, or web.}
   \item{distance}{the distance from a user's home to the charging location, expressed in miles except where user did not report address}
   \item{userId}{a random number used to uniquely identify a given user and his or her transactions}
   \item{stationId}{a random number unique to each specific charging station}
