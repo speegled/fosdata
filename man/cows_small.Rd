@@ -5,7 +5,7 @@
 \alias{cows_small}
 \title{Cooling down hot cows}
 \format{
-A data frame with 798 observations of 9 variables
+A data frame with 19 observations of 4 variables
 \describe{
   \item{cow}{ID of the cow that was measured.}
   \item{control}{Shoulder temperature change (degrees Celsius) after 3 minutes when no water was sprayed.}
