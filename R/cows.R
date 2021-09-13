@@ -29,7 +29,7 @@
 #' From the authors: "Dairies in the United States commonly cool cattle with sprinklers mounted over the feed bunk that intermittently spray the cows' backs. These systems use potable water—an increasingly scarce resource—but there is little experimental evidence about how much is needed to cool cows or about droplet size, which is thought to affect hair coat penetration. "
 #'
 #'
-#' @format A data frame with 798 observations of 9 variables
+#' @format A data frame with 19 observations of 4 variables
 #' \describe{
 #'   \item{cow}{ID of the cow that was measured.}
 #'   \item{control}{Shoulder temperature change (degrees Celsius) after 3 minutes when no water was sprayed.}
