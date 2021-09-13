@@ -17,6 +17,7 @@
 #'   \item{min_01, min_02, min_03, min_04}{Value of the skin temperature measurement recorded 1, 2, 3 or 4 minutes after the first 3-min spray application began.}
 #' }
 #'
+#' @source Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M. (2020). Data from: Cooling cows efficiently with sprinklers: physiological responses to water spray [Data set].
 #' @source \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 "cows"
 
