@@ -46,7 +46,7 @@ remotes::install_github("speegled/fosdata")
 | cigs\_small (cigs)  | Nicotine, Tar and CO of Cigarettes                               | 118x9     |
 | climate             | Citations of Climate Change Papers                               | 732x19    |
 | conversation        | Conversational Dominance and Psychopathy                         | 210x28    |
-| covid               | New York Times COVID 19                                          | 24819x5   |
+| covid               | New York Times COVID 19                                          | 30814x5   |
 | cows                | Cooling down hot cows                                            | 798x9     |
 | cows\_small         | Cooling down hot cows                                            | 19x4      |
 | crit\_period        | Critical Period Hypothesis                                       | 138x3     |
@@ -230,6 +230,10 @@ B.28020122773
 <https://github.com/nytimes/covid-19-data>
 
 #### cows
+
+Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M.
+(2020). Data from: Cooling cows efficiently with sprinklers:
+physiological responses to water spray \[Data set\].
 
 <https://zenodo.org/record/3862181#.XwTRNpNKjEa>
 
