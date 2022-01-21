@@ -16,6 +16,8 @@ A data frame with 798 observations of 9 variables
 }
 }
 \source{
+Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M. (2020). Data from: Cooling cows efficiently with sprinklers: physiological responses to water spray [Data set].
+
 \url{https://zenodo.org/record/3862181#.XwTRNpNKjEa}
 }
 \usage{

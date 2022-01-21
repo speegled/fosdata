@@ -5,17 +5,7 @@ output: github_document
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 ```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "75%",
-  warning = FALSE,
-  message = FALSE,
-  fig.retina = 2,
-  fig.align = 'center'
-)
-library(tidyverse)
+library(dplyr)
 library(fosdata)
 ```
 
@@ -34,28 +24,54 @@ install.packages("fosdata")
 ```
 -->
 
-You can install the development version from [GitHub](https://github.com/) with:
+Install the development version from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("remotes")
+# install.packages("remotes")  # if needed
 remotes::install_github("speegled/fosdata")
 ```
 
-## The data
+## Package Contents
 
-The `fosdata` package contains:
-
-```{r showdata, echo=FALSE}
+```{r builddata, include=FALSE}
+# Build a data frame "sets" will all the information about each data set
 library(fosdata)
 sets <- vcdExtra::datasets("fosdata")
-sets %>% select(Item, Title, dim) %>%
-  kableExtra::kable(col.names = c("Name","Description","Dim (RxC)"))
+
+# Function to parse the help page and get the source reference
+get_source <- Vectorize(function(dset) {
+  tryCatch({
+    thefile <- help(dset, package="fosdata")
+    Rd <- utils:::.getHelpFile(thefile)
+    
+    # adapted from https://stackoverflow.com/questions/8918753/r-help-page-as-object
+    names(Rd) <- substring(sapply(Rd, attr, "Rd_tag"),2)
+    temp_args <- Rd$arguments
+    
+    Rd$arguments <- NULL
+    myrd <- lapply(Rd, unlist)
+    myrd <- lapply(myrd, paste, collapse="")
+    
+    temp_args <- temp_args[sapply(temp_args , attr, "Rd_tag") == "\\item"]
+    temp_args <- lapply(temp_args, lapply, paste, collapse="")
+    temp_args <- lapply(temp_args, "names<-", c("arg", "description"))
+    myrd$arguments <- temp_args
+    
+    myrd$source
+  },
+  error = function(x) { NA })
+})
+
+# Add source information
+sets <- sets %>%
+  mutate(Source = get_source(Item))
 ```
 
+```{r showdata, echo=FALSE}
+sets %>% select(Item, Title, dim) %>%
+  knitr::kable(col.names = c("Name","Description","Dim (RxC)"))
+```
 
-## Examples
-
-You can find these and more code examples for exploring fosdata in `vignette("examples")`.
 
 ## License
 
@@ -63,26 +79,25 @@ Most of the data sets in this package have a creative commons license. Providing
 
 ## Citation
 
-To cite the fosdata package, please use:
+To cite package `fosdata` in publications, use:
 
-```{r}
-citation("fosdata")
+```{r echo=FALSE, results='asis'}
+print(citation("fosdata"), style="textVersion")
+```
+
+A BibTeX entry for LaTeX users is:
+
+```{r echo=FALSE, comment=NA}
+print(citation("fosdata"), style="bibtex")
 ```
 
 
 ## References
 
-**Data citations:**
-
-It would be good to automatically generate this information from the package.
-
-<!---
-This code gets close:
-thefile <- help(chimps,package="fosdata")
-parsedfile <- parse_Rd(thefile$path)
-Rd2latex(parsedfile)
-
-Maybe I can adapt Rd2list on this page:
-https://stackoverflow.com/questions/8918753/r-help-page-as-object
-
--->
+```{r showrefs, echo=FALSE, results='asis'}
+for (i in 1:nrow(sets)) {
+  if (!is.na(sets$Source[i])) {
+    cat('####',sets$Item[i],'\n',sets$Source[i],'\n')
+  }
+}
+```
