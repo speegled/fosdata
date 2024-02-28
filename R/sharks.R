@@ -2,8 +2,12 @@
 #'
 #' Studies the effect of different kinds of background music on people watching shark documentaries.
 #'
-#' From the authors: "Despite the ongoing need for shark conservation and management, prevailing negative sentiments marginalize these animals and legitimize permissive exploitation. These negative attitudes arise from an instinctive, yet exaggerated fear, which is validated and reinforced by disproportionate and sensationalistic news coverage of shark ‘attacks’ and by highlighting shark-on-human violence in popular movies and documentaries. In this study, we investigate another subtler, yet powerful factor that contributes to this fear: the ominous background music that often accompanies shark footage in documentaries."
+#' From the authors: "Despite the ongoing need for shark conservation and management, prevailing negative sentiments marginalize these animals and legitimize permissive exploitation. 
+#' These negative attitudes arise from an instinctive, yet exaggerated fear, which is validated and reinforced by disproportionate and sensationalistic news coverage of shark ‘attacks’ 
+#' and by highlighting shark-on-human violence in popular movies and documentaries. In this study, we investigate another subtler, yet powerful factor that contributes to this fear: 
+#' the ominous background music that often accompanies shark footage in documentaries."
 #'
+#' The music in this experiment comes from https://open.spotify.com/album/7AQ9M23tA6AlBSsl7DocBJ. Ominous music is Track 9 1:45-2:45, while uplifting music is Track 1, 1:41-2:41. 
 #'
 #' @format A data frame with 616 observations of 15 variables. For variables with values from 1-7 without description, 1 = not at all and 7 = very much
 #' \describe{
