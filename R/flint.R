@@ -19,9 +19,9 @@
 #'   \item{SampleID}{Test kit number.}
 #'   \item{Zip.Code}{Zip code (location) of sample within Flint.}
 #'   \item{Ward}{Flint is divided into 9 geographical subdivisions called wards.} 
-#'   \item{Pb1}{Lead level in first draw sample (parts per million).}
-#'   \item{Pb2}{Lead level in second sample, 45 seconds later (parts per million).}
-#'   \item{Pb3}{Lead level in third sample, 2 minutes later (parts per million).}
+#'   \item{Pb1}{Lead level in first draw sample (parts per billion).}
+#'   \item{Pb2}{Lead level in second sample, 45 seconds later (parts per billion).}
+#'   \item{Pb3}{Lead level in third sample, 2 minutes later (parts per billion).}
 #'   \item{Notes}{About the sample.}
 #' }
 #'
