@@ -3,4 +3,5 @@
 
 
 river_names <- read.csv("data-raw/river_names/river_names.csv")
+river_names <- river_names$river_name
 save(river_names, file = "data/river_names.rda")
