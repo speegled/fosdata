@@ -8,7 +8,7 @@
 
 The `fosdata` package contains datasets for the textbook [Probability,
 Statistics, and Data: A Fresh Approach Using
-R]([https://mathstat.slu.edu/~speegle/_book/](https://probstatsdata.com/) by Darrin Speegle and Bryan
+R]([https://mathstat.slu.edu/~speegle/_book/](https://probstatsdata.com/)) by Darrin Speegle and Bryan
 Clair.
 
 ## Installation
