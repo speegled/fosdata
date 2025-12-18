@@ -4,11 +4,12 @@
 # fosdata <a href='https://github.com/speegled/fosdata'><img src='man/figures/fosdata.png' align="right" height="138.5" /></a>
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 The `fosdata` package contains datasets for the textbook [Probability,
 Statistics, and Data: A Fresh Approach Using
-R](https://probstatsdata.com/) by Darrin Speegle and Bryan
+R](https://mathstat.slu.edu/~speegle/_book/) by Darrin Speegle and Bryan
 Clair.
 
 ## Installation
@@ -28,60 +29,64 @@ remotes::install_github("speegled/fosdata")
 
 ## Package Contents
 
-| Name                | Description                                                      | Dim (RxC) |
-|:--------------------|:-----------------------------------------------------------------|:----------|
-| accelerometer       | Visual and accelerometer data on workouts                        | 12245x25  |
-| acorns              | Acorn Size and Geographical Range                                | 39x5      |
-| adipose             | BMI and Visceral Adipose Tissue Mass                             | 81x12     |
-| austen              | Full text of Emma and Pride and Prejudice, by Jane Austen        | 282295x7  |
-| barnacles           | Barnacle distribution on coral reefs                             | 134x8     |
-| bechdel             | The Bechdel test                                                 | 1794x15   |
-| bicycle\_signage    | Bicycle Signage and Safety                                       | 1824x11   |
-| biomass             | Biomass of insects in German nature protection areas             | 1512x8    |
-| brake               | Pedal Error Correction                                           | 80x20     |
-| cern                | Social Media Engagement of Particle Physicists                   | 214x11    |
-| child\_tasks        | Shape Trail Test                                                 | 68x13     |
-| chimps              | Gray haired chimpanzees                                          | 165x159   |
-| cigs                | Nicotine, Tar and CO of Cigarettes                               | 1294x9    |
-| cigs\_small (cigs)  | Nicotine, Tar and CO of Cigarettes                               | 118x9     |
-| climate             | Citations of Climate Change Papers                               | 732x19    |
-| conversation        | Conversational Dominance and Psychopathy                         | 210x28    |
-| covid               | New York Times COVID 19                                          | 30814x5   |
-| cows                | Cooling down hot cows                                            | 798x9     |
-| cows\_small         | Cooling down hot cows                                            | 19x4      |
-| crit\_period        | Critical Period Hypothesis                                       | 138x3     |
-| dogs                | Dogs and peer pressure                                           | 351x9     |
-| draft               | The 1970 Draft Lottery                                           | 366x5     |
-| ecars               | Electric vehicle charging sessions                               | 3395x17   |
-| fish                | Fish measurements from Laengelmavesi Lake, near Tampere, Finland | 159x9     |
-| flint               | Lead levels from tap water sampling in Flint, MI                 | 271x7     |
-| frogs               | Frog measurements                                                | 64x16     |
-| gender              | Gender and race data from Google Android Panel survey            | 20305x10  |
-| hot\_dogs           | Hot Dog Nutrition                                                | 54x3      |
-| houses              | Housing in King County                                           | 21613x21  |
-| humanization        | Infrahumanization of outgroups                                   | 321x7     |
-| leg\_strength       | Wii Leg Strength                                                 | 30x3      |
-| leg\_strength\_full | Wii Leg Strength (full)                                          | 30x17     |
-| letter\_frequency   | Letter Frequency List                                            | 84x15     |
-| malaria             | Malaria Transmission and Parasites                               | 180x3     |
-| masks               | Masks and Influenza Exposure                                     | 37x7      |
-| mice\_pot           | Mice on pot                                                      | 46x2      |
-| movies              | MovieLens 100K                                                   | 100836x6  |
-| normtemp            | Temperature and heart rate data                                  | 130x3     |
-| plastics            | Plastics in Snow                                                 | 237x4     |
-| powerball           | Powerball draws from 2010-2020                                   | 1094x8    |
-| pres\_election      | US Presidential Election Data 2000-2016                          | 50524x9   |
-| rio\_instagram      | Olympians Instagram Account Data                                 | 226x14    |
-| scotland\_births    | Births in Scotland                                               | 45x76     |
-| scrabble            | Scrabble tile values                                             | 100x2     |
-| scrabble\_ml        | Scrabble tile values                                             | 613x3     |
-| seoulweather        | Weather data for Seoul                                           | 7752x25   |
-| sharks              | Shark Documentary Music                                          | 616x15    |
-| skull\_geometry     | Skull Geometry                                                   | 56x2      |
-| snails              | Snails near Oxford, England                                      | 228x5     |
-| weight\_estimate    | Weight lifting judgment in children                              | 80x7      |
-| world\_cup          | FIFA World Cup 2014-2015 Results                                 | 116x8     |
-| wrist               | Wrist Casts                                                      | 105x47    |
+Online documentation created by Jack Crane is available
+[here](https://fosdata.pages.dev/).
+
+| Name | Description | Dim (RxC) |
+|:---|:---|:---|
+| accelerometer | Visual and accelerometer data on workouts | 12245x25 |
+| acorns | Acorn Size and Geographical Range | 39x5 |
+| adipose | BMI and Visceral Adipose Tissue Mass | 81x12 |
+| austen | Full text of Emma and Pride and Prejudice, by Jane Austen | 282295x7 |
+| barnacles | Barnacle distribution on coral reefs | 134x8 |
+| bechdel | The Bechdel test | 1794x15 |
+| bicycle_signage | Bicycle Signage and Safety | 1824x11 |
+| biomass | Biomass of insects in German nature protection areas | 1512x8 |
+| brake | Pedal Error Correction | 80x20 |
+| cern | Social Media Engagement of Particle Physicists | 214x11 |
+| child_tasks | Shape Trail Test | 68x13 |
+| chimps | Gray haired chimpanzees | 165x159 |
+| cigs | Nicotine, Tar and CO of Cigarettes | 1294x9 |
+| cigs_small (cigs) | Nicotine, Tar and CO of Cigarettes | 118x9 |
+| climate | Citations of Climate Change Papers | 732x19 |
+| conversation | Conversational Dominance and Psychopathy | 210x28 |
+| covid | New York Times COVID 19 | 30814x5 |
+| cows | Cooling down hot cows | 798x9 |
+| cows_small | Cooling down hot cows | 19x4 |
+| crit_period | Critical Period Hypothesis | 138x3 |
+| dogs | Dogs and peer pressure | 351x9 |
+| draft | The 1970 Draft Lottery | 366x5 |
+| ecars | Electric vehicle charging sessions | 3395x17 |
+| fish | Fish measurements from Laengelmavesi Lake, near Tampere, Finland | 159x9 |
+| flint | Lead levels from tap water sampling in Flint, MI | 271x7 |
+| frogs | Frog measurements | 64x16 |
+| gender | Gender and race data from Google Android Panel survey | 20305x10 |
+| hot_dogs | Hot Dog Nutrition | 54x3 |
+| houses | Housing in King County | 21613x21 |
+| humanization | Infrahumanization of outgroups | 321x7 |
+| leg_strength | Wii Leg Strength | 30x3 |
+| leg_strength_full | Wii Leg Strength (full) | 30x17 |
+| letter_frequency | Letter Frequency List | 84x15 |
+| malaria | Malaria Transmission and Parasites | 180x3 |
+| masks | Masks and Influenza Exposure | 37x7 |
+| mice_pot | Mice on pot | 46x2 |
+| movies | MovieLens 100K | 100836x6 |
+| normtemp | Temperature and heart rate data | 130x3 |
+| plastics | Plastics in Snow | 237x4 |
+| powerball | Powerball draws from 2010-2020 | 1094x8 |
+| pres_election | US Presidential Election Data 2000-2016 | 50524x9 |
+| rio_instagram | Olympians Instagram Account Data | 226x14 |
+| river_names | Names of 141 Major North American Rivers | 141 |
+| scotland_births | Births in Scotland | 45x76 |
+| scrabble | Scrabble tile values | 100x2 |
+| scrabble_ml | Scrabble tile values | 613x3 |
+| seoulweather | Weather data for Seoul | 7752x25 |
+| sharks | Shark Documentary Music | 616x15 |
+| skull_geometry | Skull Geometry | 56x2 |
+| snails | Snails near Oxford, England | 228x5 |
+| weight_estimate | Weight lifting judgment in children | 80x7 |
+| world_cup | FIFA World Cup 2014-2015 Results | 116x8 |
+| wrist | Wrist Casts | 105x47 |
 
 ## License
 
@@ -95,9 +100,11 @@ set.
 
 To cite package `fosdata` in publications, use:
 
-Darrin Speegle and Bryan Clair (2021). fosdata: Data for use with the
-book “Probability, Statistics, and Data: A Fresh Approach Using R”, by
-Darrin Speegle and Bryan Clair. R package version 0.2.0.
+Speegle D, Clair B (2025). *fosdata: Data for use with the book
+“Probability, Statistics, and Data: A Fresh Approach Using R”, by Darrin
+Speegle and Bryan Clair*. R package version 0.2.0, commit
+d121d58809a729ada27c0dbe685fdb16604a2bcd,
+<https://github.com/speegled/fosdata>.
 
 A BibTeX entry for LaTeX users is:
 
@@ -105,9 +112,12 @@ A BibTeX entry for LaTeX users is:
       title = {fosdata: Data for use with the book "Probability, Statistics, and Data: A
     Fresh Approach Using R", by Darrin Speegle and Bryan Clair},
       author = {Darrin Speegle and Bryan Clair},
-      year = {2021},
-      note = {R package version 0.2.0},
+      year = {2025},
+      note = {R package version 0.2.0, commit d121d58809a729ada27c0dbe685fdb16604a2bcd},
+      url = {https://github.com/speegled/fosdata},
     }
+
+Please be sure to cite the original source of any data you use as well.
 
 ## References
 
@@ -150,7 +160,7 @@ Hickey, FiveThirtyEight, April 1, 2014.
 
 <https://github.com/fivethirtyeight/data/tree/master/bechdel>
 
-#### bicycle\_signage
+#### bicycle_signage
 
 Hess G, Peterson MN (2015) “Bicycles May Use Full Lane” Signage
 Communicates U.S. Roadway Rules and Increases Perception of Safety. PLoS
@@ -180,7 +190,7 @@ Digital Traces of Public Engagement with Particle Physics on CERN’s
 Social Media Platforms. PLoS ONE 11(5): e0156409.
 <https://doi.org/10.1371/journal.pone.0156409>
 
-#### child\_tasks
+#### child_tasks
 
 Chan AYC, Morgan S-J (2018) Assessing children’s cognitive flexibility
 with the Shape Trail Test. PLoS ONE 13(5): e0198254.
@@ -237,7 +247,7 @@ physiological responses to water spray \[Data set\].
 
 <https://zenodo.org/record/3862181#.XwTRNpNKjEa>
 
-#### cows\_small
+#### cows_small
 
 Tucker, Cassandra B., Schütz, Karin E., & Van Os (Chen), Jennifer M.
 (2020). Data from: Cooling cows efficiently with sprinklers:
@@ -245,7 +255,7 @@ physiological responses to water spray \[Data set\].
 
 <https://zenodo.org/record/3862181#.XwTRNpNKjEa>
 
-#### crit\_period
+#### crit_period
 
 Vanhove J (2013) The Critical Period Hypothesis in Second Language
 Acquisition: A Statistical Critique and a Reanalysis. PLoS ONE 8(7):
@@ -263,7 +273,7 @@ conspecifics’ behavior. PLoS ONE 13(3): e0194808.”
 
 “Germar, Markus, and Andreas Mojzisch. 2018. “Dogs (Canis Familiaris)
 Stick to What They Have Learned rather than Conform to Their
-Conspecifics’ Behavior.” OSF. April 4. osf.io/dgtxt."
+Conspecifics’ Behavior.” OSF. April 4. osf.io/dgtxt.”
 
 #### draft
 
@@ -280,7 +290,7 @@ Norms and Electric Vehicle Charging Etiquette”
 
 #### fish
 
-"Brofeldt, Pekka: Bidrag till kaennedom on fiskbestondet i vaara sjoear.
+“Brofeldt, Pekka: Bidrag till kaennedom on fiskbestondet i vaara sjoear.
 Laengelmaevesi. T.H.Jaervi: Finlands Fiskeriet Band 4 Meddelanden
 utgivna av fiskerifoereningen i Finland. Helsingfors 1917
 
@@ -309,7 +319,7 @@ e0144011.
 
 <https://doi.org/10.1371/journal.pone.0144011>
 
-#### hot\_dogs
+#### hot_dogs
 
 Moore, David S., and George P. McCabe (1989). Introduction to the
 Practice of Statistics. Original source: Consumer Reports, June 1986,
@@ -331,7 +341,7 @@ Davies, Thomas J. “Humanitarian Helping.” OSF, 25 Oct. 2018. Web.
 
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207343>
 
-#### leg\_strength
+#### leg_strength
 
 Gronbech Jorgensen M, Andersen S, Ryg J, Masud T (2015) Novel Use of the
 Nintendo Wii Board for Measuring Isometric Lower Limb Strength: A
@@ -340,7 +350,7 @@ e0138660.
 
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138660>
 
-#### leg\_strength\_full
+#### leg_strength_full
 
 Gronbech Jorgensen M, Andersen S, Ryg J, Masud T (2015) Novel Use of the
 Nintendo Wii Board for Measuring Isometric Lower Limb Strength: A
@@ -349,7 +359,7 @@ e0138660.
 
 <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138660>
 
-#### letter\_frequency
+#### letter_frequency
 
 <https://en.wikipedia.org/wiki/Letter_frequency> on January 9, 2020
 
@@ -368,7 +378,7 @@ Influenza Virus Aerosols in Human Exhaled Breath: Particle Size,
 Culturability, and Effect of Surgical Masks. PLoS Pathog 9(3): e1003205.
 <https://doi.org/10.1371/journal.ppat.1003205>
 
-#### mice\_pot
+#### mice_pot
 
 Viñals X, Moreno E, Lanfumey L, Cordomí A, Pastor A, de La Torre R, et
 al. (2015) Cognitive Impairment Induced by Delta9-tetrahydrocannabinol
@@ -409,20 +419,26 @@ Arctic. Sci Adv. 2019 Aug 14;5(8).doi: 10.1126/sciadv.aax1157. PMID:
 data.gov,
 <https://catalog.data.gov/dataset/lottery-powerball-winning-numbers-beginning-2010>
 
-#### pres\_election
+#### pres_election
 
 MIT Election Data and Science Lab, 2018, “County Presidential Election
 Returns 2000-2016”, <https://doi.org/10.7910/DVN/VOQCHQ>, Harvard
 Dataverse, V6, UNF:6:ZZe1xuZ5H2l4NUiSRcRf8Q== \[fileUNF\]
 
-#### rio\_instagram
+#### rio_instagram
 
 Amirhosein Bodaghi. (2019). Instagram Characteristics of Olympic gold
 medalists (Rio2016) \[Data set\]. Zenodo.
 
 <http://doi.org/10.5281/zenodo.3469514>
 
-#### scotland\_births
+#### river_names
+
+The World Almanac & Book of Facts 1975, Delury, George E. (editor), ISBN
+10: 0911818030 / ISBN 13: 9780911818031; Published by Newspaper
+Enterprise Association, Inc., 1974
+
+#### scotland_births
 
 National Records of Scotland,
 <https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/vital-events/births/births-time-series-data>
@@ -431,7 +447,7 @@ National Records of Scotland,
 
 <https://en.wikipedia.org/wiki/Scrabble_letter_distributions>
 
-#### scrabble\_ml
+#### scrabble_ml
 
 <https://en.wikipedia.org/wiki/Scrabble_letter_distributions>
 
@@ -451,7 +467,7 @@ Background Music in Shark Documentaries on Viewers’ Perceptions of
 Sharks. PLoS ONE 11(8): e0159279.
 <https://doi.org/10.1371/journal.pone.0159279>
 
-#### skull\_geometry
+#### skull_geometry
 
 Li, Zhigang et al. (2016), Data from: A statistical skull geometry model
 for children 0-3 years old, Dryad, Dataset,
@@ -467,7 +483,7 @@ Cain, A., Sheppard, P. Selection in the polymorphic land snail Cepæa
 nemoralis. Heredity 4, 275–294 (1950). Data is from Table 6.
 <https://doi.org/10.1038/hdy.1950.22>
 
-#### weight\_estimate
+#### weight_estimate
 
 Sciutti A, Patanè L, Sandini G (2019) Development of visual perception
 of others’ actions: Children’s judgment of lifted weight. PLoS ONE
@@ -479,7 +495,7 @@ Sciutti Alessandra, Patane’ Laura, & Sandini Giulio. (2019). Dataset -
 weight lifting judgment in children \[Data set\]. Zenodo.
 <http://doi.org/10.5281/zenodo.3524881>
 
-#### world\_cup
+#### world_cup
 
 <https://abcnews.go.com/Sports/2014-fifa-world-cup-tv-schedule-results/story?id=23748377>
 and

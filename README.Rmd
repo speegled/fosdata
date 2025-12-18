@@ -33,6 +33,8 @@ remotes::install_github("speegled/fosdata")
 
 ## Package Contents
 
+Online documentation created by Jack Crane is available [here](https://fosdata.pages.dev/).
+
 ```{r builddata, include=FALSE}
 # Build a data frame "sets" will all the information about each data set
 library(fosdata)
@@ -82,7 +84,7 @@ Most of the data sets in this package have a creative commons license. Providing
 To cite package `fosdata` in publications, use:
 
 ```{r echo=FALSE, results='asis'}
-print(citation("fosdata"), style="textVersion")
+print(citation("fosdata"), style="text")
 ```
 
 A BibTeX entry for LaTeX users is:
@@ -91,6 +93,7 @@ A BibTeX entry for LaTeX users is:
 print(citation("fosdata"), style="bibtex")
 ```
 
+Please be sure to cite the original source of any data you use as well.
 
 ## References
 
