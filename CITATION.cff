@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these data sets, please cite this repository."
+title: "fosdata: A Collection of Open Statistical Data Sets"
+authors:
+  - family-names: Speegle
+    given-names: Darrin
+repository-code: "https://github.com/speegled/fosdata"
+url: "https://github.com/speegled/fosdata"
+type: dataset
+year: 2025
+
